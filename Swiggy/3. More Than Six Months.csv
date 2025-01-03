@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Valid Parentheses,100.0,0.41507138959708056,https://leetcode.com/problems/valid-parentheses
+EASY,Merge Sorted Array,91.9,0.5174777428104701,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Sort Colors,91.9,0.6576632685394608,https://leetcode.com/problems/sort-colors
+HARD,Trapping Rain Water,80.5,0.6373267667661563,https://leetcode.com/problems/trapping-rain-water
+EASY,Climbing Stairs,80.5,0.5326791361489588,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Subsets II,80.5,0.585381200688215,https://leetcode.com/problems/subsets-ii
+HARD,Maximum Profit in Job Scheduling,80.5,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Maximum Length of Pair Chain,80.5,0.6038710783155691,https://leetcode.com/problems/maximum-length-of-pair-chain
+EASY,Majority Element,80.5,0.6537521134593797,https://leetcode.com/problems/majority-element
+EASY,Merge Two Sorted Lists,80.5,0.6585743963034119,https://leetcode.com/problems/merge-two-sorted-lists

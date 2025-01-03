@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Construct Target Array With Multiple Sums,100.0,0.3621024997874331,https://leetcode.com/problems/construct-target-array-with-multiple-sums
+EASY,Substrings of Size Three with Distinct Characters,100.0,0.7466193192008322,https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters
+MEDIUM,Encode Number,100.0,0.6994521262718497,https://leetcode.com/problems/encode-number
+MEDIUM,Get Biggest Three Rhombus Sums in a Grid,100.0,0.4870935300033523,https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid
+MEDIUM,Sort the Matrix Diagonally,100.0,0.8289557913989363,https://leetcode.com/problems/sort-the-matrix-diagonally
+MEDIUM,Finding Pairs With a Certain Sum,100.0,0.5143149284253579,https://leetcode.com/problems/finding-pairs-with-a-certain-sum
+EASY,Find Numbers with Even Number of Digits,100.0,0.7760591222135683,https://leetcode.com/problems/find-numbers-with-even-number-of-digits
+MEDIUM,Range Frequency Queries,100.0,0.40838081549544003,https://leetcode.com/problems/range-frequency-queries
+EASY,1-bit and 2-bit Characters,100.0,0.45177093656892564,https://leetcode.com/problems/1-bit-and-2-bit-characters
+EASY,Maximum Number of Words You Can Type,100.0,0.7407989622724475,https://leetcode.com/problems/maximum-number-of-words-you-can-type
+MEDIUM,Exam Room,100.0,0.4362179015401908,https://leetcode.com/problems/exam-room
+EASY,Find the K-Beauty of a Number,100.0,0.6099168588367305,https://leetcode.com/problems/find-the-k-beauty-of-a-number
+EASY,Subtract the Product and Sum of Digits of an Integer,100.0,0.866216439706678,https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer
+MEDIUM,3Sum With Multiplicity,100.0,0.45640575005991396,https://leetcode.com/problems/3sum-with-multiplicity
+MEDIUM,Subarray Sum Equals K,100.0,0.44551519168243314,https://leetcode.com/problems/subarray-sum-equals-k

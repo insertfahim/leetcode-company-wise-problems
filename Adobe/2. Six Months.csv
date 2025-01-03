@@ -1,0 +1,52 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5450370712497605,https://leetcode.com/problems/two-sum
+HARD,Median of Two Sorted Arrays,100.0,0.4230795897216463,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Minimum Processing Time,100.0,0.6935331825037707,https://leetcode.com/problems/minimum-processing-time
+EASY,Reverse Linked List,92.9,0.7822930670501581,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Longest Substring Without Repeating Characters,92.9,0.3593552506069672,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Integer to Roman,92.9,0.6717638088235104,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Number of Islands,92.9,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Divide Intervals Into Minimum Number of Groups,83.7,0.6372242669461574,https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups
+MEDIUM,Add Two Numbers,83.7,0.44875890403097674,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Next Permutation,83.7,0.41829510404852355,https://leetcode.com/problems/next-permutation
+EASY,Count Pairs Of Similar Strings,83.7,0.7167538252953709,https://leetcode.com/problems/count-pairs-of-similar-strings
+MEDIUM,3Sum,83.7,0.3596102148642625,https://leetcode.com/problems/3sum
+MEDIUM,Reverse Integer,70.8,0.29565275321592094,https://leetcode.com/problems/reverse-integer
+HARD,Number of Increasing Paths in a Grid,70.8,0.5792272158598787,https://leetcode.com/problems/number-of-increasing-paths-in-a-grid
+MEDIUM,Binary Search Tree Iterator,70.8,0.7381238972799363,https://leetcode.com/problems/binary-search-tree-iterator
+EASY,To Be Or Not To Be,70.8,0.6256335569622915,https://leetcode.com/problems/to-be-or-not-to-be
+MEDIUM,Delete Node in a Linked List,70.8,0.8132125578176561,https://leetcode.com/problems/delete-node-in-a-linked-list
+MEDIUM,Plates Between Candles,70.8,0.4573423228140463,https://leetcode.com/problems/plates-between-candles
+MEDIUM,Number of Provinces,70.8,0.6763998686636526,https://leetcode.com/problems/number-of-provinces
+HARD,Reverse Nodes in k-Group,70.8,0.6135036382547959,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Generate Parentheses,70.8,0.760832472208615,https://leetcode.com/problems/generate-parentheses
+MEDIUM,House Robber,70.8,0.5179715035709781,https://leetcode.com/problems/house-robber
+MEDIUM,Meeting Rooms II,70.8,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Gas Station,70.8,0.45784302599852006,https://leetcode.com/problems/gas-station
+MEDIUM,Group Anagrams,70.8,0.6992932360482793,https://leetcode.com/problems/group-anagrams
+MEDIUM,Jump Game,70.8,0.38965519551650324,https://leetcode.com/problems/jump-game
+MEDIUM,Minimizing Array After Replacing Pairs With Their Product,70.8,0.4082360570687419,https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product
+EASY,Best Time to Buy and Sell Stock,70.8,0.5449232792731771,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Choose Numbers From Two Arrays in Range,70.8,0.5216035634743875,https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range
+MEDIUM,Smallest Range II,70.8,0.3672361367982194,https://leetcode.com/problems/smallest-range-ii
+MEDIUM,Minimize XOR,70.8,0.4459515701853954,https://leetcode.com/problems/minimize-xor
+MEDIUM,Merge Operations to Turn Array Into a Palindrome,70.8,0.6908963216574489,https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome
+MEDIUM,Container With Most Water,70.8,0.5672667159397313,https://leetcode.com/problems/container-with-most-water
+EASY,Roman to Integer,70.8,0.6354892167828345,https://leetcode.com/problems/roman-to-integer
+EASY,Climbing Stairs,70.8,0.5326794783045511,https://leetcode.com/problems/climbing-stairs
+EASY,Majority Element,70.8,0.65375343268332,https://leetcode.com/problems/majority-element
+EASY,Add Digits,70.8,0.6739993362992616,https://leetcode.com/problems/add-digits
+EASY,Missing Number,70.8,0.6877852300289152,https://leetcode.com/problems/missing-number
+MEDIUM,Coin Change,70.8,0.4539447723022182,https://leetcode.com/problems/coin-change
+MEDIUM,Random Pick with Weight,70.8,0.478396720254369,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,Count Subarrays Where Max Element Appears at Least K Times,70.8,0.5866661550726676,https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times
+EASY,Tenth Line,70.8,0.33940254429804634,https://leetcode.com/problems/tenth-line
+EASY,Bitwise OR of Adjacent Elements,70.8,0.9552523874488403,https://leetcode.com/problems/bitwise-or-of-adjacent-elements
+MEDIUM,Reverse Substrings Between Each Pair of Parentheses,70.8,0.7173210644970021,https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses
+EASY,Kth Largest Element in a Stream,70.8,0.5950794143149648,https://leetcode.com/problems/kth-largest-element-in-a-stream
+HARD,Count Ways to Build Rooms in an Ant Colony,70.8,0.4897875337480924,https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony
+EASY,Nim Game,70.8,0.5763499147623882,https://leetcode.com/problems/nim-game
+HARD,Preimage Size of Factorial Zeroes Function,70.8,0.4532049153105281,https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function
+MEDIUM,Number of Subarrays with Bounded Maximum,70.8,0.5344241697364288,https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum
+EASY,Smallest Range I,70.8,0.7111595355043866,https://leetcode.com/problems/smallest-range-i
+MEDIUM,Amount of Time for Binary Tree to Be Infected,70.8,0.6287165858341123,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected

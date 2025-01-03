@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Koko Eating Bananas,100.0,0.4868782402435765,https://leetcode.com/problems/koko-eating-bananas
+EASY,Valid Parentheses,94.4,0.41507160609697935,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Substring Without Repeating Characters,94.4,0.35935501792812213,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Minimum Cost For Tickets,87.1,0.6683416114935627,https://leetcode.com/problems/minimum-cost-for-tickets
+EASY,Partition Array Into Three Parts With Equal Sum,76.9,0.4202648733293679,https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum
+EASY,Best Time to Buy and Sell Stock,76.9,0.5449248660743906,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Minimum Length of Anagram Concatenation,76.9,0.4143186348663283,https://leetcode.com/problems/minimum-length-of-anagram-concatenation

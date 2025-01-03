@@ -1,0 +1,52 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Minimum Swaps to Group All 1's Together,100.0,0.6035866049343566,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together
+HARD,Minimum Replacements to Sort the Array,100.0,0.5337035514569582,https://leetcode.com/problems/minimum-replacements-to-sort-the-array
+MEDIUM,Find the Smallest Divisor Given a Threshold,100.0,0.6206619122350464,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+EASY,Valid Word,97.4,0.3816253559409785,https://leetcode.com/problems/valid-word
+HARD,Minimum One Bit Operations to Make Integers Zero,97.4,0.7357102771376376,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero
+EASY,Most Visited Sector in  a Circular Track,97.4,0.5898322318251144,https://leetcode.com/problems/most-visited-sector-in-a-circular-track
+MEDIUM,Number of Good Binary Strings,97.4,0.5206552137435078,https://leetcode.com/problems/number-of-good-binary-strings
+MEDIUM,Valid Triangle Number,97.4,0.5170074982958418,https://leetcode.com/problems/valid-triangle-number
+MEDIUM,The kth Factor of n,97.4,0.6883815864899157,https://leetcode.com/problems/the-kth-factor-of-n
+MEDIUM,Rearrange Words in a Sentence,97.4,0.6531915885671655,https://leetcode.com/problems/rearrange-words-in-a-sentence
+MEDIUM,Divide Players Into Teams of Equal Skill,97.4,0.6897336240401934,https://leetcode.com/problems/divide-players-into-teams-of-equal-skill
+MEDIUM,String Compression,97.4,0.5666226958274551,https://leetcode.com/problems/string-compression
+MEDIUM,The Earliest Moment When Everyone Become Friends,97.4,0.6552256674248773,https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends
+MEDIUM,Unique Substrings With Equal Digit Frequency,97.4,0.6136664773802764,https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency
+MEDIUM,Break a Palindrome,97.4,0.5157718967151665,https://leetcode.com/problems/break-a-palindrome
+EASY,Two Sum,87.9,0.5450375385417704,https://leetcode.com/problems/two-sum
+EASY,Valid Parentheses,78.9,0.41507135087778624,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Find the City With the Smallest Number of Neighbors at a Threshold Distance,78.9,0.6895674758125948,https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance
+MEDIUM,Capacity To Ship Packages Within D Days,73.0,0.7094552479757533,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+MEDIUM,Number of Islands,73.0,0.610740587873175,https://leetcode.com/problems/number-of-islands
+MEDIUM,Minimum Number of Swaps to Make the String Balanced,73.0,0.7801312638388712,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
+EASY,Roman to Integer,73.0,0.6354894845554888,https://leetcode.com/problems/roman-to-integer
+MEDIUM,Longest Substring Without Repeating Characters,65.3,0.35935502957095067,https://leetcode.com/problems/longest-substring-without-repeating-characters
+HARD,Trapping Rain Water,65.3,0.6373269063584714,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Search in Rotated Sorted Array,65.3,0.41984383354560556,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Jump Game II,65.3,0.40945263569027324,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Group Anagrams,65.3,0.6992934652022442,https://leetcode.com/problems/group-anagrams
+EASY,Best Time to Buy and Sell Stock,65.3,0.5449246375153194,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Palindrome Pairs,65.3,0.35838242028571005,https://leetcode.com/problems/palindrome-pairs
+MEDIUM,Merge Intervals,65.3,0.48439406967654164,https://leetcode.com/problems/merge-intervals
+MEDIUM,Set Matrix Zeroes,65.3,0.5830867551338337,https://leetcode.com/problems/set-matrix-zeroes
+MEDIUM,LRU Cache,54.6,0.4393131094403791,https://leetcode.com/problems/lru-cache
+EASY,Reverse Linked List,54.6,0.7822931168808346,https://leetcode.com/problems/reverse-linked-list
+HARD,Number of Visible People in a Queue,54.6,0.7031370730953485,https://leetcode.com/problems/number-of-visible-people-in-a-queue
+MEDIUM,Keys and Rooms,54.6,0.7394401985055304,https://leetcode.com/problems/keys-and-rooms
+EASY,Design HashMap,54.6,0.6560782581545886,https://leetcode.com/problems/design-hashmap
+EASY,Find Pivot Index,54.6,0.593580371428866,https://leetcode.com/problems/find-pivot-index
+MEDIUM,Subarray Sums Divisible by K,54.6,0.5549438111997897,https://leetcode.com/problems/subarray-sums-divisible-by-k
+MEDIUM,Max Consecutive Ones III,54.6,0.6477254708396929,https://leetcode.com/problems/max-consecutive-ones-iii
+MEDIUM,Rotting Oranges,54.6,0.5552280041858152,https://leetcode.com/problems/rotting-oranges
+EASY,Merge Two Sorted Lists,54.6,0.6585744397631091,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Least Number of Unique Integers after K Removals,54.6,0.6321634469008731,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
+MEDIUM,Permutation in String,54.6,0.4659428879558856,https://leetcode.com/problems/permutation-in-string
+MEDIUM,Min Stack,54.6,0.555193686295573,https://leetcode.com/problems/min-stack
+EASY,Count Number of Pairs With Absolute Difference K,54.6,0.8440733119586542,https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k
+MEDIUM,Add Two Numbers,54.6,0.4487593231375926,https://leetcode.com/problems/add-two-numbers
+EASY,Climbing Stairs,54.6,0.5326792844771415,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Kth Smallest Element in a BST,54.6,0.7427479431049675,https://leetcode.com/problems/kth-smallest-element-in-a-bst
+MEDIUM,Minimum Size Subarray Sum,54.6,0.48360821834739326,https://leetcode.com/problems/minimum-size-subarray-sum
+MEDIUM,House Robber,54.6,0.5179706603891455,https://leetcode.com/problems/house-robber
+MEDIUM,Remove Duplicate Letters,54.6,0.5051653515482032,https://leetcode.com/problems/remove-duplicate-letters

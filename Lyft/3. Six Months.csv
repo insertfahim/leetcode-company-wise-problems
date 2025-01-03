@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Time Based Key-Value Store,100.0,0.49284131134843906,https://leetcode.com/problems/time-based-key-value-store
+HARD,Minimum Window Substring,93.4,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Rotting Oranges,93.4,0.555227772856992,https://leetcode.com/problems/rotting-oranges
+HARD,Read N Characters Given read4 II - Call Multiple Times,93.4,0.4266533601274531,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+HARD,Max Stack,84.0,0.4516132651544263,https://leetcode.com/problems/max-stack
+MEDIUM,Longest Substring Without Repeating Characters,77.3,0.3593550679430123,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Car Pooling,68.0,0.5594997815185501,https://leetcode.com/problems/car-pooling
+MEDIUM,String Compression,68.0,0.5666226958274551,https://leetcode.com/problems/string-compression
+HARD,Smallest Range Covering Elements from K Lists,68.0,0.6979685192276134,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+HARD,Word Ladder II,68.0,0.27115518424266605,https://leetcode.com/problems/word-ladder-ii
+MEDIUM,Longest Consecutive Sequence,68.0,0.4769876346523907,https://leetcode.com/problems/longest-consecutive-sequence

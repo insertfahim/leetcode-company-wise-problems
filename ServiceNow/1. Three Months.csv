@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,String Compression,100.0,0.5666226958274551,https://leetcode.com/problems/string-compression
+MEDIUM,LRU Cache,92.3,0.43931297922662327,https://leetcode.com/problems/lru-cache
+MEDIUM,Kth Largest Element in an Array,81.4,0.6735617615424413,https://leetcode.com/problems/kth-largest-element-in-an-array
+HARD,Minimum One Bit Operations to Make Integers Zero,81.4,0.7357102771376376,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero
+HARD,LFU Cache,81.4,0.45428478596377225,https://leetcode.com/problems/lfu-cache
+EASY,Two Sum,81.4,0.5450374177475231,https://leetcode.com/problems/two-sum
+MEDIUM,"Pow(x, n)",81.4,0.36107232261170724,https://leetcode.com/problems/powx-n
+MEDIUM,Amount of Time for Binary Tree to Be Infected,81.4,0.6287165858341123,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected
+MEDIUM,Time Needed to Rearrange a Binary String,81.4,0.5121685850083033,https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string

@@ -1,0 +1,33 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Longest Subarray of 1's After Deleting One Element,100.0,0.6836715353202341,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element
+MEDIUM,Find K Closest Elements,85.8,0.48144587726004157,https://leetcode.com/problems/find-k-closest-elements
+MEDIUM,One Edit Distance,82.3,0.3442214858000498,https://leetcode.com/problems/one-edit-distance
+MEDIUM,String Compression,82.3,0.5666226958274551,https://leetcode.com/problems/string-compression
+EASY,Isomorphic Strings,78.1,0.4609218500466181,https://leetcode.com/problems/isomorphic-strings
+MEDIUM,Merge Intervals,78.1,0.48439387780618604,https://leetcode.com/problems/merge-intervals
+MEDIUM,Line Reflection,73.0,0.35815451183618024,https://leetcode.com/problems/line-reflection
+EASY,Valid Palindrome II,73.0,0.42042752126405164,https://leetcode.com/problems/valid-palindrome-ii
+MEDIUM,Maximize Distance to Closest Person,73.0,0.4854080870649804,https://leetcode.com/problems/maximize-distance-to-closest-person
+MEDIUM,Permutation in String,73.0,0.4659432787018599,https://leetcode.com/problems/permutation-in-string
+EASY,Summary Ranges,66.4,0.5220135425396785,https://leetcode.com/problems/summary-ranges
+MEDIUM,4Sum,66.4,0.37199079077259223,https://leetcode.com/problems/4sum
+HARD,Trapping Rain Water,66.4,0.6373268616227137,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Subarray Sum Equals K,66.4,0.4455161392371816,https://leetcode.com/problems/subarray-sum-equals-k
+EASY,Symmetric Tree,66.4,0.5818415354786285,https://leetcode.com/problems/symmetric-tree
+EASY,Squares of a Sorted Array,57.2,0.7301757147908535,https://leetcode.com/problems/squares-of-a-sorted-array
+HARD,Reconstruct Itinerary,57.2,0.4337038379707765,https://leetcode.com/problems/reconstruct-itinerary
+EASY,Valid Parentheses,57.2,0.41507093796402517,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Find Duplicate Subtrees,57.2,0.5982779534122231,https://leetcode.com/problems/find-duplicate-subtrees
+MEDIUM,Add Two Numbers,57.2,0.44875910922159873,https://leetcode.com/problems/add-two-numbers
+EASY,Majority Element,57.2,0.6537533375953605,https://leetcode.com/problems/majority-element
+EASY,Two Sum,57.2,0.5450372238154486,https://leetcode.com/problems/two-sum
+MEDIUM,LRU Cache,57.2,0.43931256039690747,https://leetcode.com/problems/lru-cache
+MEDIUM,Count Substrings Without Repeating Character,57.2,0.7677459526774595,https://leetcode.com/problems/count-substrings-without-repeating-character
+MEDIUM,Longest Substring with At Least K Repeating Characters,57.2,0.4527297255132288,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
+MEDIUM,Interval List Intersections,57.2,0.7224371283592612,https://leetcode.com/problems/interval-list-intersections
+MEDIUM,Binary Tree Right Side View,57.2,0.6463710057612293,https://leetcode.com/problems/binary-tree-right-side-view
+MEDIUM,Longest Increasing Subsequence,57.2,0.5682745186279383,https://leetcode.com/problems/longest-increasing-subsequence
+HARD,Merge k Sorted Lists,57.2,0.5509067439908152,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Number of Islands,57.2,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Design an ATM Machine,57.2,0.4326356925749023,https://leetcode.com/problems/design-an-atm-machine
+EASY,Merge Two Sorted Lists,57.2,0.6585744297830128,https://leetcode.com/problems/merge-two-sorted-lists

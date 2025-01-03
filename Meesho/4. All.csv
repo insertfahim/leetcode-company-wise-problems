@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Number of Strings Which Can Be Rearranged to Contain Substring,100.0,0.5506272764063133,https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring
+HARD,Number of Possible Sets of Closing Branches,95.7,0.506021756021756,https://leetcode.com/problems/number-of-possible-sets-of-closing-branches
+HARD,Count Complete Substrings,95.7,0.27684057250417304,https://leetcode.com/problems/count-complete-substrings
+HARD,Minimum Edge Reversals So Every Node Is Reachable,95.7,0.572940063837333,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable
+HARD,Minimum Number of Taps to Open to Water a Garden,83.7,0.5067444839239581,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+HARD,Making A Large Island,79.5,0.49518112029351563,https://leetcode.com/problems/making-a-large-island
+MEDIUM,Delete and Earn,74.2,0.5657237035197435,https://leetcode.com/problems/delete-and-earn
+EASY,Two Sum,67.5,0.5450377839153269,https://leetcode.com/problems/two-sum
+HARD,Subsequence With the Minimum Score,67.5,0.3226118220126029,https://leetcode.com/problems/subsequence-with-the-minimum-score
+HARD,Painting the Walls,67.5,0.5035497147483713,https://leetcode.com/problems/painting-the-walls
+MEDIUM,Consecutive Numbers,58.0,0.4485342652278376,https://leetcode.com/problems/consecutive-numbers
+MEDIUM,Search Suggestions System,58.0,0.6505675950786298,https://leetcode.com/problems/search-suggestions-system
+MEDIUM,Find the Longest Equal Subarray,58.0,0.360912777291882,https://leetcode.com/problems/find-the-longest-equal-subarray
+MEDIUM,Jump Game,58.0,0.38965453824928564,https://leetcode.com/problems/jump-game
+MEDIUM,Longest Non-decreasing Subarray From Two Arrays,58.0,0.2978515938923118,https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays
+HARD,Minimum Degree of a Connected Trio in a Graph,58.0,0.4311206646535987,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph
+HARD,Count Subarrays With Fixed Bounds,58.0,0.6777516212535288,https://leetcode.com/problems/count-subarrays-with-fixed-bounds

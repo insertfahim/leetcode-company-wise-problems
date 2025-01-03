@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.35935496202361333,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Two Sum,94.9,0.5450377073127061,https://leetcode.com/problems/two-sum
+EASY,Moving Average from Data Stream,91.9,0.7931199818984698,https://leetcode.com/problems/moving-average-from-data-stream
+EASY,Valid Parentheses,79.2,0.41507143404227376,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Analyze User Website Visit Pattern,79.2,0.42955439056356487,https://leetcode.com/problems/analyze-user-website-visit-pattern
+EASY,Valid Palindrome,79.2,0.4953346010812808,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Kth Largest Element in an Array,72.7,0.6735619952825546,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Step-By-Step Directions From a Binary Tree Node to Another,63.5,0.5634386884682323,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another
+HARD,Find Median from Data Stream,63.5,0.5268864985653805,https://leetcode.com/problems/find-median-from-data-stream
+EASY,Valid Anagram,63.5,0.6577863498389818,https://leetcode.com/problems/valid-anagram

@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Word Ladder,100.0,0.41208921460411657,https://leetcode.com/problems/word-ladder
+MEDIUM,Open the Lock,91.8,0.6050284436319101,https://leetcode.com/problems/open-the-lock
+MEDIUM,LRU Cache,91.8,0.43931282082485557,https://leetcode.com/problems/lru-cache
+EASY,Valid Parentheses,91.8,0.4150710712998599,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Partition Equal Subset Sum,80.3,0.46997442392474525,https://leetcode.com/problems/partition-equal-subset-sum
+EASY,Binary Gap,80.3,0.6416055317841861,https://leetcode.com/problems/binary-gap
+MEDIUM,Minimize Maximum Pair Sum in Array,80.3,0.8147015852940536,https://leetcode.com/problems/minimize-maximum-pair-sum-in-array
+EASY,Remove One Element to Make the Array Strictly Increasing,80.3,0.2827936635220732,https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing
+EASY,Alternating Digit Sum,80.3,0.6849288698096135,https://leetcode.com/problems/alternating-digit-sum
+HARD,Minimum Window Subsequence,80.3,0.43528697739216793,https://leetcode.com/problems/minimum-window-subsequence
+HARD,Design Skiplist,80.3,0.6173722730802721,https://leetcode.com/problems/design-skiplist
+EASY,Subtree of Another Tree,80.3,0.49146710783600706,https://leetcode.com/problems/subtree-of-another-tree
+HARD,Concatenated Words,80.3,0.4931461856038716,https://leetcode.com/problems/concatenated-words
+MEDIUM,Number of Islands,80.3,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+HARD,Reconstruct Itinerary,80.3,0.4337038379707765,https://leetcode.com/problems/reconstruct-itinerary
+MEDIUM,Spiral Matrix,80.3,0.5222658592193944,https://leetcode.com/problems/spiral-matrix

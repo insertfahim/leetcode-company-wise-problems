@@ -1,0 +1,22 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Group Anagrams,100.0,0.6992933830650978,https://leetcode.com/problems/group-anagrams
+MEDIUM,Number of Islands,100.0,0.6107408156573632,https://leetcode.com/problems/number-of-islands
+MEDIUM,Heaters,96.7,0.3901672280328547,https://leetcode.com/problems/heaters
+HARD,Maximum Number of Visible Points,96.7,0.37413526422246013,https://leetcode.com/problems/maximum-number-of-visible-points
+MEDIUM,Daily Temperatures,92.9,0.6670373930156986,https://leetcode.com/problems/daily-temperatures
+EASY,Shortest Word Distance,92.9,0.656403576812188,https://leetcode.com/problems/shortest-word-distance
+MEDIUM,Course Schedule,88.3,0.48040235964166944,https://leetcode.com/problems/course-schedule
+MEDIUM,Search Suggestions System,82.8,0.6505675950786298,https://leetcode.com/problems/search-suggestions-system
+HARD,Find Median from Data Stream,82.8,0.5268864985653805,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Flip Equivalent Binary Trees,75.7,0.6982715813866064,https://leetcode.com/problems/flip-equivalent-binary-trees
+MEDIUM,Search in Rotated Sorted Array,65.6,0.41984410168399167,https://leetcode.com/problems/search-in-rotated-sorted-array
+HARD,Merge k Sorted Lists,65.6,0.5509071538358283,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Snakes and Ladders,65.6,0.4391253770776238,https://leetcode.com/problems/snakes-and-ladders
+MEDIUM,Course Schedule II,65.6,0.5213310053732304,https://leetcode.com/problems/course-schedule-ii
+EASY,Move Zeroes,65.6,0.6235860403716793,https://leetcode.com/problems/move-zeroes
+MEDIUM,Game of Life,65.6,0.7054353312555584,https://leetcode.com/problems/game-of-life
+MEDIUM,Shortest Word Distance II,65.6,0.6164618286737332,https://leetcode.com/problems/shortest-word-distance-ii
+MEDIUM,Flatten Binary Tree to Linked List,65.6,0.6716053761732514,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+MEDIUM,Basic Calculator II,65.6,0.4484153543721402,https://leetcode.com/problems/basic-calculator-ii
+HARD,Basic Calculator,65.6,0.4440986991413884,https://leetcode.com/problems/basic-calculator
+MEDIUM,Find the Duplicate Number,65.6,0.6200870562544042,https://leetcode.com/problems/find-the-duplicate-number

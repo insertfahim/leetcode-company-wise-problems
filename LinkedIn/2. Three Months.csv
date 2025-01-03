@@ -1,0 +1,42 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Max Stack,100.0,0.4516132651544263,https://leetcode.com/problems/max-stack
+MEDIUM,Nested List Weight Sum II,97.7,0.645220867729789,https://leetcode.com/problems/nested-list-weight-sum-ii
+HARD,All O`one Data Structure,95.0,0.4503372877413352,https://leetcode.com/problems/all-oone-data-structure
+MEDIUM,Find First and Last Position of Element in Sorted Array,79.6,0.45709876714236936,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Max Consecutive Ones III,79.6,0.6477253322187545,https://leetcode.com/problems/max-consecutive-ones-iii
+MEDIUM,Find the Celebrity,76.6,0.48007969777121173,https://leetcode.com/problems/find-the-celebrity
+MEDIUM,Find Leaves of Binary Tree,76.6,0.8085756187538743,https://leetcode.com/problems/find-leaves-of-binary-tree
+MEDIUM,Lowest Common Ancestor of a Binary Search Tree,73.2,0.6685033352481168,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+EASY,Valid Parentheses,73.2,0.4150707845407542,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Maximum Subarray,73.2,0.5149489556769163,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Maximum Product Subarray,73.2,0.3430076624801673,https://leetcode.com/problems/maximum-product-subarray
+MEDIUM,Binary Tree Upside Down,69.2,0.6372233006250779,https://leetcode.com/problems/binary-tree-upside-down
+HARD,Word Ladder,69.2,0.41208921460411657,https://leetcode.com/problems/word-ladder
+MEDIUM,Factor Combinations,69.2,0.5002180680673154,https://leetcode.com/problems/factor-combinations
+MEDIUM,Nested List Weight Sum,64.2,0.8486775069250683,https://leetcode.com/problems/nested-list-weight-sum
+MEDIUM,LRU Cache,64.2,0.43931216975453147,https://leetcode.com/problems/lru-cache
+HARD,Insert Delete GetRandom O(1) - Duplicates allowed,64.2,0.35710778690405176,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+MEDIUM,Lowest Common Ancestor of a Binary Tree III,64.2,0.8140855097493771,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii
+MEDIUM,Insert Delete GetRandom O(1),64.2,0.5479315083048156,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Sort Transformed Array,64.2,0.5645912539706052,https://leetcode.com/problems/sort-transformed-array
+EASY,Can Place Flowers,57.8,0.28818621652848053,https://leetcode.com/problems/can-place-flowers
+MEDIUM,Flatten Nested List Iterator,57.8,0.6498427715949796,https://leetcode.com/problems/flatten-nested-list-iterator
+MEDIUM,Number of Islands,57.8,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Combination Sum II,57.8,0.5686400588927616,https://leetcode.com/problems/combination-sum-ii
+MEDIUM,Course Schedule II,57.8,0.5213306342998251,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Possible Bipartition,57.8,0.5100450743431018,https://leetcode.com/problems/possible-bipartition
+MEDIUM,Letter Combinations of a Phone Number,57.8,0.625286825377602,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Shortest Word Distance II,57.8,0.6164618286737332,https://leetcode.com/problems/shortest-word-distance-ii
+HARD,Robot Room Cleaner,48.9,0.7703000641778469,https://leetcode.com/problems/robot-room-cleaner
+MEDIUM,Kth Largest Element in an Array,48.9,0.6735615226465641,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Valid Triangle Number,48.9,0.5170075811061501,https://leetcode.com/problems/valid-triangle-number
+EASY,Isomorphic Strings,48.9,0.46092180495375684,https://leetcode.com/problems/isomorphic-strings
+EASY,Shortest Word Distance,48.9,0.656403576812188,https://leetcode.com/problems/shortest-word-distance
+MEDIUM,Permutations,48.9,0.7976510838958961,https://leetcode.com/problems/permutations
+MEDIUM,Paint House,48.9,0.6319346404854427,https://leetcode.com/problems/paint-house
+MEDIUM,Partition to K Equal Sum Subsets,48.9,0.3810220481631813,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+EASY,Second Minimum Node In a Binary Tree,48.9,0.44980104104164814,https://leetcode.com/problems/second-minimum-node-in-a-binary-tree
+MEDIUM,Shuffle an Array,48.9,0.5871100701328579,https://leetcode.com/problems/shuffle-an-array
+MEDIUM,Longest Palindromic Subsequence,48.9,0.6343483320840002,https://leetcode.com/problems/longest-palindromic-subsequence
+MEDIUM,Lowest Common Ancestor of a Binary Tree,48.9,0.6492100886357168,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+EASY,Long Pressed Name,48.9,0.3229183804415781,https://leetcode.com/problems/long-pressed-name

@@ -1,0 +1,32 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Merge Intervals,100.0,0.4843940590286502,https://leetcode.com/problems/merge-intervals
+HARD,First Missing Positive,90.9,0.403103684081158,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Meeting Rooms II,89.0,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Random Pick with Weight,86.9,0.478396720254369,https://leetcode.com/problems/random-pick-with-weight
+EASY,Logger Rate Limiter,84.5,0.7624629224195769,https://leetcode.com/problems/logger-rate-limiter
+MEDIUM,Top K Frequent Elements,78.9,0.6375223608504296,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Flatten Nested List Iterator,78.9,0.6498427715949796,https://leetcode.com/problems/flatten-nested-list-iterator
+MEDIUM,LRU Cache,78.9,0.43931282082485557,https://leetcode.com/problems/lru-cache
+EASY,Summary Ranges,75.5,0.5220135425396785,https://leetcode.com/problems/summary-ranges
+MEDIUM,Time Based Key-Value Store,71.4,0.49284131134843906,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Insert Delete GetRandom O(1),66.4,0.5479315927305727,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Daily Temperatures,66.4,0.6670368215424418,https://leetcode.com/problems/daily-temperatures
+EASY,Best Time to Buy and Sell Stock,60.0,0.5449243830356908,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Kth Largest Element in an Array,60.0,0.6735617615424413,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Top K Frequent Words,60.0,0.5870335655926149,https://leetcode.com/problems/top-k-frequent-words
+HARD,Reconstruct Itinerary,60.0,0.4337038379707765,https://leetcode.com/problems/reconstruct-itinerary
+MEDIUM,Spiral Matrix,60.0,0.5222660050697464,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Online Stock Span,51.0,0.6688706855169637,https://leetcode.com/problems/online-stock-span
+EASY,Contains Duplicate II,51.0,0.4742414946223015,https://leetcode.com/problems/contains-duplicate-ii
+EASY,Merge Sorted Array,51.0,0.5174774063107299,https://leetcode.com/problems/merge-sorted-array
+EASY,Valid Parentheses,51.0,0.4150712490808782,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Substring Without Repeating Characters,51.0,0.3593551188188547,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Implement Queue using Stacks,51.0,0.6742486329871541,https://leetcode.com/problems/implement-queue-using-stacks
+MEDIUM,Minimum Remove to Make Valid Parentheses,51.0,0.6990283934239554,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
+MEDIUM,Search in Rotated Sorted Array,51.0,0.41984371635813456,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Course Schedule II,51.0,0.5213314490627796,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Rotate Array,51.0,0.4206103052756231,https://leetcode.com/problems/rotate-array
+MEDIUM,Find Duplicate File in System,51.0,0.6757875562231834,https://leetcode.com/problems/find-duplicate-file-in-system
+HARD,Text Justification,51.0,0.4625567955530371,https://leetcode.com/problems/text-justification
+MEDIUM,Rotate Image,51.0,0.7663568103363545,https://leetcode.com/problems/rotate-image
+HARD,Number of Flowers in Full Bloom,51.0,0.5696301469033692,https://leetcode.com/problems/number-of-flowers-in-full-bloom

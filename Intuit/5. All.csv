@@ -1,0 +1,70 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Minimum Number of Taps to Open to Water a Garden,100.0,0.5067444839239581,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+MEDIUM,Course Schedule II,92.0,0.5213314490627796,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Most Profitable Path in a Tree,90.1,0.49647672606545157,https://leetcode.com/problems/most-profitable-path-in-a-tree
+EASY,Maximum Product of Three Numbers,87.9,0.45188315387304057,https://leetcode.com/problems/maximum-product-of-three-numbers
+HARD,Basic Calculator IV,85.6,0.5493126407050821,https://leetcode.com/problems/basic-calculator-iv
+MEDIUM,Number of Distinct Substrings in a String,85.6,0.6447675652727659,https://leetcode.com/problems/number-of-distinct-substrings-in-a-string
+HARD,Maximum Total Beauty of the Gardens,85.6,0.29681490609013855,https://leetcode.com/problems/maximum-total-beauty-of-the-gardens
+MEDIUM,Maximum Difference Score in a Grid,85.6,0.4691867852604828,https://leetcode.com/problems/maximum-difference-score-in-a-grid
+HARD,Make String Anti-palindrome,85.6,0.4969108561341571,https://leetcode.com/problems/make-string-anti-palindrome
+EASY,Valid Parentheses,85.6,0.4150710712998599,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Destroy Sequential Targets,85.6,0.4000535574506653,https://leetcode.com/problems/destroy-sequential-targets
+MEDIUM,Length of the Longest Subsequence That Sums to Target,85.6,0.3631397147027793,https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target
+MEDIUM,Number of Substrings With Fixed Ratio,85.6,0.5595446584938704,https://leetcode.com/problems/number-of-substrings-with-fixed-ratio
+MEDIUM,Max Area of Island,85.6,0.7268940004770904,https://leetcode.com/problems/max-area-of-island
+MEDIUM,Product of Array Except Self,85.6,0.671004697106474,https://leetcode.com/problems/product-of-array-except-self
+HARD,Sudoku Solver,80.2,0.6353187693011552,https://leetcode.com/problems/sudoku-solver
+MEDIUM,Rotting Oranges,80.2,0.5552270788690786,https://leetcode.com/problems/rotting-oranges
+MEDIUM,LRU Cache,76.9,0.43931282082485557,https://leetcode.com/problems/lru-cache
+MEDIUM,Longest Substring Without Repeating Characters,68.7,0.35935510796865716,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Logger Rate Limiter,68.7,0.7624629224195769,https://leetcode.com/problems/logger-rate-limiter
+EASY,Two Sum,68.7,0.5450372779225481,https://leetcode.com/problems/two-sum
+MEDIUM,Group Anagrams,68.7,0.6992933816089633,https://leetcode.com/problems/group-anagrams
+HARD,Trapping Rain Water,68.7,0.6373266996622174,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Word Break,68.7,0.4761083778436794,https://leetcode.com/problems/word-break
+MEDIUM,Spiral Matrix,68.7,0.5222658592193944,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Top K Frequent Elements,63.2,0.6375225221350656,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Generate Parentheses,63.2,0.7608326432421841,https://leetcode.com/problems/generate-parentheses
+MEDIUM,Heaters,63.2,0.3901672280328547,https://leetcode.com/problems/heaters
+MEDIUM,3Sum,63.2,0.3596103588159522,https://leetcode.com/problems/3sum
+MEDIUM,Longest Increasing Subsequence,63.2,0.5682747680336958,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Min Stack,63.2,0.5551934352068475,https://leetcode.com/problems/min-stack
+MEDIUM,Coin Change,56.2,0.453944694150401,https://leetcode.com/problems/coin-change
+EASY,Unique Email Addresses,56.2,0.6739605360909752,https://leetcode.com/problems/unique-email-addresses
+EASY,Middle of the Linked List,56.2,0.7978568900670711,https://leetcode.com/problems/middle-of-the-linked-list
+MEDIUM,House Robber,56.2,0.5179710855435253,https://leetcode.com/problems/house-robber
+MEDIUM,Design Circular Queue,56.2,0.5212501011349177,https://leetcode.com/problems/design-circular-queue
+MEDIUM,132 Pattern,56.2,0.3379078286892234,https://leetcode.com/problems/132-pattern
+EASY,Best Time to Buy and Sell Stock,56.2,0.5449244699946929,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Insert Delete GetRandom O(1),56.2,0.5479318739788719,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Zigzag Conversion,46.5,0.5014873550995985,https://leetcode.com/problems/zigzag-conversion
+HARD,Get the Maximum Score,46.5,0.39764122495476784,https://leetcode.com/problems/get-the-maximum-score
+HARD,Russian Doll Envelopes,46.5,0.3710911627513705,https://leetcode.com/problems/russian-doll-envelopes
+MEDIUM,Shortest Path in Binary Matrix,46.5,0.48734273684736573,https://leetcode.com/problems/shortest-path-in-binary-matrix
+HARD,Maximal Rectangle,46.5,0.5240594700158641,https://leetcode.com/problems/maximal-rectangle
+HARD,Longest Valid Parentheses,46.5,0.3526399307559146,https://leetcode.com/problems/longest-valid-parentheses
+MEDIUM,Unique Paths,46.5,0.6516080911016299,https://leetcode.com/problems/unique-paths
+MEDIUM,Number of Operations to Make Network Connected,46.5,0.6378407469523643,https://leetcode.com/problems/number-of-operations-to-make-network-connected
+MEDIUM,Decode Ways,46.5,0.35836687811627116,https://leetcode.com/problems/decode-ways
+MEDIUM,Number of Longest Increasing Subsequence,46.5,0.4912007842471887,https://leetcode.com/problems/number-of-longest-increasing-subsequence
+MEDIUM,Daily Temperatures,46.5,0.6670368215424418,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Decode String,46.5,0.6036416170670444,https://leetcode.com/problems/decode-string
+MEDIUM,Course Schedule,46.5,0.48040217444192185,https://leetcode.com/problems/course-schedule
+MEDIUM,Reorganize String,46.5,0.5549914651197273,https://leetcode.com/problems/reorganize-string
+MEDIUM,Number of Islands,46.5,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+EASY,Climbing Stairs,46.5,0.5326794419052254,https://leetcode.com/problems/climbing-stairs
+HARD,Serialize and Deserialize Binary Tree,46.5,0.5798676566304269,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+HARD,Median of Two Sorted Arrays,46.5,0.42307985052918434,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Find All Anagrams in a String,46.5,0.5161078803093353,https://leetcode.com/problems/find-all-anagrams-in-a-string
+MEDIUM,Minimum Cost For Tickets,46.5,0.6681712560157209,https://leetcode.com/problems/minimum-cost-for-tickets
+MEDIUM,Largest Plus Sign,46.5,0.48530065599088945,https://leetcode.com/problems/largest-plus-sign
+MEDIUM,Partition to K Equal Sum Subsets,46.5,0.3810220481631813,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+EASY,Merge Two Sorted Lists,46.5,0.6585744331097143,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Task Scheduler,46.5,0.6072305839602888,https://leetcode.com/problems/task-scheduler
+MEDIUM,Find First and Last Position of Element in Sorted Array,46.5,0.45709879993235825,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Pacific Atlantic Water Flow,46.5,0.5652043234855788,https://leetcode.com/problems/pacific-atlantic-water-flow
+EASY,Merge Sorted Array,46.5,0.5174772821513637,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Binary Tree Level Order Traversal,46.5,0.6925573181064969,https://leetcode.com/problems/binary-tree-level-order-traversal
+EASY,Palindrome Linked List,46.5,0.547152476831458,https://leetcode.com/problems/palindrome-linked-list
+MEDIUM,Kth Largest Element in an Array,46.5,0.6735616801922868,https://leetcode.com/problems/kth-largest-element-in-an-array

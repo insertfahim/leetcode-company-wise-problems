@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Maximum Earnings From Taxi,100.0,0.4453779373201965,https://leetcode.com/problems/maximum-earnings-from-taxi
+MEDIUM,Asteroid Collision,83.7,0.44934041464280844,https://leetcode.com/problems/asteroid-collision
+HARD,Trapping Rain Water,71.7,0.637327110360939,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,LRU Cache,71.7,0.4393134826181801,https://leetcode.com/problems/lru-cache
+MEDIUM,Largest Number,71.7,0.40500247721710925,https://leetcode.com/problems/largest-number
+HARD,Largest Rectangle in Histogram,71.7,0.4611588908174122,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Flatten Binary Tree to Linked List,62.2,0.6716055783982704,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+HARD,Word Break II,62.2,0.524554630268935,https://leetcode.com/problems/word-break-ii
+MEDIUM,Maximal Square,62.2,0.4785891172618285,https://leetcode.com/problems/maximal-square
+EASY,Repeated Substring Pattern,62.2,0.4645018249118077,https://leetcode.com/problems/repeated-substring-pattern
+MEDIUM,Minimum Time to Collect All Apples in a Tree,62.2,0.6265401534916494,https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree
+MEDIUM,Lowest Common Ancestor of a Binary Tree,62.2,0.6492100586428183,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+MEDIUM,Group Anagrams,62.2,0.6992936525583329,https://leetcode.com/problems/group-anagrams
+EASY,Best Time to Buy and Sell Stock,62.2,0.5449247963951888,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,First Missing Positive,62.2,0.4031048651556867,https://leetcode.com/problems/first-missing-positive
+MEDIUM,3Sum,62.2,0.35961075320545,https://leetcode.com/problems/3sum

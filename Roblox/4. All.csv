@@ -1,0 +1,45 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Design Browser History,100.0,0.777895945515583,https://leetcode.com/problems/design-browser-history
+MEDIUM,Reorganize String,93.3,0.5549907850364677,https://leetcode.com/problems/reorganize-string
+MEDIUM,Design Hit Counter,83.3,0.6891976154137153,https://leetcode.com/problems/design-hit-counter
+MEDIUM,Merge Intervals,77.9,0.4843939710794396,https://leetcode.com/problems/merge-intervals
+MEDIUM,Task Scheduler,77.9,0.6072305839602888,https://leetcode.com/problems/task-scheduler
+MEDIUM,Minimum Number of Frogs Croaking,74.5,0.5051515011760366,https://leetcode.com/problems/minimum-number-of-frogs-croaking
+MEDIUM,Maximize Distance to Closest Person,74.5,0.4854080870649804,https://leetcode.com/problems/maximize-distance-to-closest-person
+HARD,Text Justification,74.5,0.4625562871305861,https://leetcode.com/problems/text-justification
+MEDIUM,Maximum Number of Occurrences of a Substring,72.6,0.5263140215483578,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+MEDIUM,Subdomain Visit Count,72.6,0.7661744156504064,https://leetcode.com/problems/subdomain-visit-count
+MEDIUM,Group the People Given the Group Size They Belong To,72.6,0.8740580673758864,https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to
+EASY,Convert Binary Number in a Linked List to Integer,72.6,0.8117064358628765,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+EASY,Students and Examinations,72.6,0.5983076503800603,https://leetcode.com/problems/students-and-examinations
+MEDIUM,Number of Trusted Contacts of a Customer,72.6,0.7496190608117468,https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer
+MEDIUM,Magnetic Force Between Two Balls,72.6,0.7110767829204048,https://leetcode.com/problems/magnetic-force-between-two-balls
+MEDIUM,Count Number of Nice Subarrays,72.6,0.7198076694764336,https://leetcode.com/problems/count-number-of-nice-subarrays
+HARD,Integer to English Words,70.5,0.3416010309069405,https://leetcode.com/problems/integer-to-english-words
+HARD,Number of Flowers in Full Bloom,58.7,0.5696301469033692,https://leetcode.com/problems/number-of-flowers-in-full-bloom
+MEDIUM,Rotate Image,58.7,0.7663568103363545,https://leetcode.com/problems/rotate-image
+HARD,Split Message Based on Limit,54.2,0.43436143608611916,https://leetcode.com/problems/split-message-based-on-limit
+EASY,Valid Parentheses,54.2,0.4150711601903826,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Implement Trie (Prefix Tree),54.2,0.670010578455768,https://leetcode.com/problems/implement-trie-prefix-tree
+HARD,Largest Rectangle in Histogram,48.4,0.4611583227769792,https://leetcode.com/problems/largest-rectangle-in-histogram
+HARD,Subarrays with K Different Integers,48.4,0.647056599779226,https://leetcode.com/problems/subarrays-with-k-different-integers
+HARD,Minimum Falling Path Sum II,48.4,0.642270956173925,https://leetcode.com/problems/minimum-falling-path-sum-ii
+MEDIUM,Find the Length of the Longest Common Prefix,48.4,0.5619652393436256,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
+MEDIUM,Spiral Matrix II,40.4,0.7258340452266985,https://leetcode.com/problems/spiral-matrix-ii
+HARD,Block Placement Queries,40.4,0.15156909121942894,https://leetcode.com/problems/block-placement-queries
+MEDIUM,Brightest Position on Street,40.4,0.6156953756231734,https://leetcode.com/problems/brightest-position-on-street
+MEDIUM,Rotting Oranges,40.4,0.5552270788690786,https://leetcode.com/problems/rotting-oranges
+HARD,Employee Free Time,40.4,0.7240852892108691,https://leetcode.com/problems/employee-free-time
+EASY,Two Sum,40.4,0.5450373224341762,https://leetcode.com/problems/two-sum
+MEDIUM,Spiral Matrix,40.4,0.5222658592193944,https://leetcode.com/problems/spiral-matrix
+HARD,Word Search II,40.4,0.3683882028354497,https://leetcode.com/problems/word-search-ii
+MEDIUM,Accounts Merge,40.4,0.5849885129158102,https://leetcode.com/problems/accounts-merge
+HARD,First Missing Positive,40.4,0.40310332883394395,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Longest Consecutive Sequence,40.4,0.4769876149732026,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Unique Paths,40.4,0.6516080911016299,https://leetcode.com/problems/unique-paths
+MEDIUM,Word Search,40.4,0.44185956031572565,https://leetcode.com/problems/word-search
+EASY,Best Time to Buy and Sell Stock,40.4,0.5449243916755069,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Remove Colored Pieces if Both Neighbors are the Same Color,40.4,0.6281798823554215,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color
+MEDIUM,Minimum Absolute Difference Between Elements With Constraint,40.4,0.3451167856710638,https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint
+EASY,Longest Common Prefix,40.4,0.44416891359667043,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Longest Substring Without Repeating Characters,40.4,0.35935513800490265,https://leetcode.com/problems/longest-substring-without-repeating-characters

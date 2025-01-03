@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,String Transformation,100.0,0.30096546602302265,https://leetcode.com/problems/string-transformation
+HARD,Number of Ways to Form a Target String Given a Dictionary,93.3,0.5756844560710946,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary
+HARD,Painting the Walls,89.1,0.503545992952995,https://leetcode.com/problems/painting-the-walls
+HARD,Maximum Profit in Job Scheduling,89.1,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Trapping Rain Water,77.2,0.6373269761547354,https://leetcode.com/problems/trapping-rain-water
+EASY,Count Vowel Substrings of a String,77.2,0.6923318802258271,https://leetcode.com/problems/count-vowel-substrings-of-a-string
+MEDIUM,Maximum Number of Upgradable Servers,67.8,0.44717588527948493,https://leetcode.com/problems/maximum-number-of-upgradable-servers
+MEDIUM,Course Schedule,67.8,0.4804021845862543,https://leetcode.com/problems/course-schedule

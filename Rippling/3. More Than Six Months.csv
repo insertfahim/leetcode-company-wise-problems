@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Design Excel Sum Formula,100.0,0.4384048353174198,https://leetcode.com/problems/design-excel-sum-formula
+HARD,Median of Two Sorted Arrays,75.8,0.4230805531106941,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Evaluate Division,75.8,0.6251132432759107,https://leetcode.com/problems/evaluate-division
+MEDIUM,Employee Importance,69.9,0.6777194217010108,https://leetcode.com/problems/employee-importance
+MEDIUM,Synonymous Sentences,61.6,0.5649204780303712,https://leetcode.com/problems/synonymous-sentences
+MEDIUM,Maximum Subarray,61.6,0.514949316153832,https://leetcode.com/problems/maximum-subarray
+HARD,Text Justification,61.6,0.4625573039745261,https://leetcode.com/problems/text-justification
+HARD,Longest Duplicate Substring,61.6,0.30599395709197713,https://leetcode.com/problems/longest-duplicate-substring

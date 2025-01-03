@@ -1,0 +1,21 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Combination Sum,100.0,0.734157776816848,https://leetcode.com/problems/combination-sum
+HARD,Palindrome Pairs,93.4,0.35838242028571005,https://leetcode.com/problems/palindrome-pairs
+HARD,Maximum Profit in Job Scheduling,90.1,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Shortest Path to Get All Keys,88.2,0.535966279960889,https://leetcode.com/problems/shortest-path-to-get-all-keys
+HARD,Minimum Window Substring,83.9,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Flatten 2D Vector,83.9,0.49852546013877147,https://leetcode.com/problems/flatten-2d-vector
+MEDIUM,Cheapest Flights Within K Stops,75.2,0.39879423303470807,https://leetcode.com/problems/cheapest-flights-within-k-stops
+HARD,Alien Dictionary,71.3,0.36263545601891617,https://leetcode.com/problems/alien-dictionary
+HARD,Text Justification,66.5,0.4625562871305861,https://leetcode.com/problems/text-justification
+MEDIUM,Smallest Common Region,66.5,0.6791497329616782,https://leetcode.com/problems/smallest-common-region
+HARD,Trapping Rain Water,66.5,0.63732700121548,https://leetcode.com/problems/trapping-rain-water
+HARD,Sliding Puzzle,66.5,0.7290578810402599,https://leetcode.com/problems/sliding-puzzle
+MEDIUM,Coin Change,60.3,0.4539448902435652,https://leetcode.com/problems/coin-change
+MEDIUM,Pour Water,60.3,0.4748302669996834,https://leetcode.com/problems/pour-water
+MEDIUM,Flatten Nested List Iterator,51.6,0.6498427715949796,https://leetcode.com/problems/flatten-nested-list-iterator
+MEDIUM,Merge Intervals,51.6,0.48439387780618604,https://leetcode.com/problems/merge-intervals
+MEDIUM,Sort Integers by The Power Value,51.6,0.7034620441154987,https://leetcode.com/problems/sort-integers-by-the-power-value
+HARD,Employee Free Time,51.6,0.7240852892108691,https://leetcode.com/problems/employee-free-time
+MEDIUM,IP to CIDR,51.6,0.558430821379852,https://leetcode.com/problems/ip-to-cidr
+MEDIUM,Simple Bank System,51.6,0.6360117481282787,https://leetcode.com/problems/simple-bank-system

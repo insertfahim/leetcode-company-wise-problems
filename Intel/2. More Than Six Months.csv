@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Trapping Rain Water,100.0,0.637326858930148,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Number of Islands,93.8,0.6107408156573632,https://leetcode.com/problems/number-of-islands
+EASY,Valid Parentheses,85.5,0.41507138959708056,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Copy List with Random Pointer,80.0,0.5874397483178054,https://leetcode.com/problems/copy-list-with-random-pointer
+EASY,Two Sum,73.0,0.5450377136028747,https://leetcode.com/problems/two-sum
+EASY,Best Time to Buy and Sell Stock,73.0,0.5449246904753777,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Longest Substring Without Repeating Characters,73.0,0.3593548594112661,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Reverse Words in a String,73.0,0.48477381985896495,https://leetcode.com/problems/reverse-words-in-a-string
+EASY,Roman to Integer,63.0,0.6354897645915242,https://leetcode.com/problems/roman-to-integer
+MEDIUM,Search a 2D Matrix,63.0,0.5146659115547664,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,Best Time to Buy and Sell Stock II,63.0,0.6834844839695594,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+MEDIUM,Add Two Numbers,63.0,0.4487592936541846,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Count Primes,63.0,0.34236658679187004,https://leetcode.com/problems/count-primes
+MEDIUM,Reverse Integer,63.0,0.2956530858271065,https://leetcode.com/problems/reverse-integer
+MEDIUM,Group Anagrams,63.0,0.699293300928019,https://leetcode.com/problems/group-anagrams
+MEDIUM,LRU Cache,63.0,0.43931313762817015,https://leetcode.com/problems/lru-cache

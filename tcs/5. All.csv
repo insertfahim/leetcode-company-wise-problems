@@ -1,0 +1,101 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,79.9,0.5450371506776766,https://leetcode.com/problems/two-sum
+EASY,Palindrome Number,76.3,0.5816769434116589,https://leetcode.com/problems/palindrome-number
+EASY,Best Time to Buy and Sell Stock,69.1,0.5449234456740408,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Majority Element,67.0,0.6537535007861291,https://leetcode.com/problems/majority-element
+MEDIUM,Maximum Subarray,65.8,0.5149490042468002,https://leetcode.com/problems/maximum-subarray
+EASY,Valid Parentheses,63.4,0.415070753001962,https://leetcode.com/problems/valid-parentheses
+EASY,Longest Common Prefix,62.0,0.44416888898684237,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Rotate Array,62.0,0.4206104821251176,https://leetcode.com/problems/rotate-array
+EASY,Move Zeroes,60.5,0.6235857956563541,https://leetcode.com/problems/move-zeroes
+EASY,Fibonacci Number,60.5,0.721907144207157,https://leetcode.com/problems/fibonacci-number
+MEDIUM,Subarray Sum Equals K,60.5,0.4455161074362173,https://leetcode.com/problems/subarray-sum-equals-k
+EASY,Count the Digits That Divide a Number,60.5,0.8529821090226194,https://leetcode.com/problems/count-the-digits-that-divide-a-number
+MEDIUM,Reverse Integer,58.9,0.2956527622240786,https://leetcode.com/problems/reverse-integer
+EASY,Roman to Integer,58.9,0.6354892167828345,https://leetcode.com/problems/roman-to-integer
+MEDIUM,Jump Game,57.1,0.38965493445603805,https://leetcode.com/problems/jump-game
+EASY,Remove Letter To Equalize Frequency,57.1,0.175978360846978,https://leetcode.com/problems/remove-letter-to-equalize-frequency
+EASY,Minimum Cuts to Divide a Circle,57.1,0.5451707465641299,https://leetcode.com/problems/minimum-cuts-to-divide-a-circle
+EASY,Minimum Operations to Exceed Threshold Value I,57.1,0.858715640437014,https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i
+MEDIUM,Minimum Operations to Exceed Threshold Value II,57.1,0.28824864643608017,https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii
+MEDIUM,Unique Paths,57.1,0.6516079702973944,https://leetcode.com/problems/unique-paths
+MEDIUM,3Sum,55.1,0.3596102388562313,https://leetcode.com/problems/3sum
+EASY,Merge Sorted Array,55.1,0.5174772335630198,https://leetcode.com/problems/merge-sorted-array
+EASY,Remove Duplicates from Sorted Array,53.0,0.5868531462203894,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+EASY,Climbing Stairs,53.0,0.5326793299760666,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Bitwise ORs of Subarrays,53.0,0.3997554282987354,https://leetcode.com/problems/bitwise-ors-of-subarrays
+EASY,Contains Duplicate,50.5,0.6254442538852341,https://leetcode.com/problems/contains-duplicate
+MEDIUM,Reverse Words in a String,50.5,0.4847726802189335,https://leetcode.com/problems/reverse-words-in-a-string
+EASY,Sqrt(x),50.5,0.3975125909263808,https://leetcode.com/problems/sqrtx
+MEDIUM,Second Highest Salary,50.5,0.4242446008814633,https://leetcode.com/problems/second-highest-salary
+MEDIUM,Longest Palindromic Substring,50.5,0.3494521456514611,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Reverse Linked List,47.6,0.7822930670501581,https://leetcode.com/problems/reverse-linked-list
+EASY,Find the Index of the First Occurrence in a String,47.6,0.4406804026334919,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+MEDIUM,Sort Colors,47.6,0.6576627271504549,https://leetcode.com/problems/sort-colors
+EASY,Length of Last Word,47.6,0.547384458458547,https://leetcode.com/problems/length-of-last-word
+EASY,Valid Anagram,47.6,0.6577867905002318,https://leetcode.com/problems/valid-anagram
+MEDIUM,Longest Substring Without Repeating Characters,47.6,0.3593551930487593,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Happy Number,47.6,0.572401132490335,https://leetcode.com/problems/happy-number
+MEDIUM,Add Two Numbers,47.6,0.44875890403097674,https://leetcode.com/problems/add-two-numbers
+EASY,Single Number,44.2,0.7481650605837948,https://leetcode.com/problems/single-number
+HARD,Sliding Window Maximum,44.2,0.47070035952422434,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Container With Most Water,44.2,0.5672667629329521,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Max Consecutive Ones III,44.2,0.6477242788047137,https://leetcode.com/problems/max-consecutive-ones-iii
+EASY,N-th Tribonacci Number,44.2,0.6371376732072048,https://leetcode.com/problems/n-th-tribonacci-number
+HARD,Trapping Rain Water,44.2,0.63732700121548,https://leetcode.com/problems/trapping-rain-water
+EASY,Plus One,44.2,0.4669196066748853,https://leetcode.com/problems/plus-one
+MEDIUM,Spiral Matrix,44.2,0.5222655811136241,https://leetcode.com/problems/spiral-matrix
+EASY,Toeplitz Matrix,40.1,0.6937690461098349,https://leetcode.com/problems/toeplitz-matrix
+MEDIUM,Single Element in a Sorted Array,40.1,0.5923866822178706,https://leetcode.com/problems/single-element-in-a-sorted-array
+MEDIUM,K-diff Pairs in an Array,40.1,0.4388457066061744,https://leetcode.com/problems/k-diff-pairs-in-an-array
+EASY,Merge Two Sorted Lists,40.1,0.6585743362100613,https://leetcode.com/problems/merge-two-sorted-lists
+EASY,Power of Two,40.1,0.48098533712591646,https://leetcode.com/problems/power-of-two
+EASY,Reverse String,40.1,0.7930056245593274,https://leetcode.com/problems/reverse-string
+MEDIUM,Longest Consecutive Sequence,34.9,0.47698736182507945,https://leetcode.com/problems/longest-consecutive-sequence
+EASY,Intersection of Two Arrays,34.9,0.7569196598691302,https://leetcode.com/problems/intersection-of-two-arrays
+MEDIUM,Set Matrix Zeroes,34.9,0.5830863352965622,https://leetcode.com/problems/set-matrix-zeroes
+MEDIUM,Coin Change,34.9,0.4539447723022182,https://leetcode.com/problems/coin-change
+EASY,Add Binary,34.9,0.5484892201651038,https://leetcode.com/problems/add-binary
+MEDIUM,Sort Characters By Frequency,34.9,0.7338152445277507,https://leetcode.com/problems/sort-characters-by-frequency
+EASY,First Unique Character in a String,34.9,0.6293503838445668,https://leetcode.com/problems/first-unique-character-in-a-string
+MEDIUM,Best Time to Buy and Sell Stock II,34.9,0.683483766934886,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+MEDIUM,Generate Parentheses,34.9,0.7608325577254301,https://leetcode.com/problems/generate-parentheses
+EASY,Binary Search,34.9,0.5884046324463601,https://leetcode.com/problems/binary-search
+EASY,Find Customer Referee,34.9,0.7131791714858339,https://leetcode.com/problems/find-customer-referee
+EASY,Missing Number,34.9,0.6877853895863304,https://leetcode.com/problems/missing-number
+EASY,Big Countries,34.9,0.6815857701673612,https://leetcode.com/problems/big-countries
+MEDIUM,Subsets,34.9,0.7982073038775261,https://leetcode.com/problems/subsets
+EASY,Same Tree,34.9,0.6399827394088802,https://leetcode.com/problems/same-tree
+MEDIUM,"Pow(x, n)",34.9,0.3610719538406236,https://leetcode.com/problems/powx-n
+EASY,Article Views I,34.9,0.7690976079537735,https://leetcode.com/problems/article-views-i
+EASY,Pascal's Triangle,34.9,0.7598850967807544,https://leetcode.com/problems/pascals-triangle
+MEDIUM,Largest Number,34.9,0.40500211989858115,https://leetcode.com/problems/largest-number
+HARD,Department Top Three Salaries,34.9,0.5612956982250029,https://leetcode.com/problems/department-top-three-salaries
+MEDIUM,Find First and Last Position of Element in Sorted Array,34.9,0.45709867980063634,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+EASY,Greatest Common Divisor of Strings,34.9,0.5225940108113549,https://leetcode.com/problems/greatest-common-divisor-of-strings
+HARD,Largest Rectangle in Histogram,34.9,0.4611576222104536,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Remove Duplicates from Sorted Array II,34.9,0.6127224824273878,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
+EASY,Number of Employees Who Met the Target,27.6,0.877396655365944,https://leetcode.com/problems/number-of-employees-who-met-the-target
+MEDIUM,3Sum Closest,27.6,0.46393092629070876,https://leetcode.com/problems/3sum-closest
+EASY,Find Pivot Index,27.6,0.593580825054682,https://leetcode.com/problems/find-pivot-index
+EASY,Rotate String,27.6,0.6328950015674201,https://leetcode.com/problems/rotate-string
+MEDIUM,Longest Common Subsequence,27.6,0.5785366299359,https://leetcode.com/problems/longest-common-subsequence
+MEDIUM,Path with Maximum Probability,27.6,0.6535965155115104,https://leetcode.com/problems/path-with-maximum-probability
+MEDIUM,Peak Index in a Mountain Array,27.6,0.6795606062945067,https://leetcode.com/problems/peak-index-in-a-mountain-array
+EASY,Add Digits,27.6,0.6739993362992616,https://leetcode.com/problems/add-digits
+EASY,Employee Bonus,27.6,0.7682976115720866,https://leetcode.com/problems/employee-bonus
+MEDIUM,Letter Combinations of a Phone Number,27.6,0.625286825377602,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,4Sum,27.6,0.37199079077259223,https://leetcode.com/problems/4sum
+EASY,Fizz Buzz,27.6,0.7351191150355767,https://leetcode.com/problems/fizz-buzz
+MEDIUM,Edit Distance,27.6,0.5783446547531759,https://leetcode.com/problems/edit-distance
+MEDIUM,Search a 2D Matrix II,27.6,0.5401894573550539,https://leetcode.com/problems/search-a-2d-matrix-ii
+MEDIUM,Product of Array Except Self,27.6,0.6710048369991132,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Next Permutation,27.6,0.41829510404852355,https://leetcode.com/problems/next-permutation
+MEDIUM,Kth Largest Element in an Array,27.6,0.6735616853471132,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Count Primes,27.6,0.34236701294935207,https://leetcode.com/problems/count-primes
+MEDIUM,Combination Sum,27.6,0.734157776816848,https://leetcode.com/problems/combination-sum
+MEDIUM,Maximum Product Subarray,27.6,0.34300811913721163,https://leetcode.com/problems/maximum-product-subarray
+HARD,Max Points on a Line,27.6,0.28036408739130997,https://leetcode.com/problems/max-points-on-a-line
+MEDIUM,Partition List,27.6,0.5785502692263629,https://leetcode.com/problems/partition-list
+MEDIUM,Word Search,27.6,0.4418596087861923,https://leetcode.com/problems/word-search
+EASY,Students and Examinations,27.6,0.5983076503800603,https://leetcode.com/problems/students-and-examinations

@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Valid Parentheses,100.0,0.41507160609697935,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Substring Without Repeating Characters,94.1,0.35935501792812213,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Koko Eating Bananas,90.4,0.4868782402435765,https://leetcode.com/problems/koko-eating-bananas
+EASY,Baseball Game,80.9,0.7781493579760059,https://leetcode.com/problems/baseball-game
+MEDIUM,Minimum Cost For Tickets,80.9,0.6683416114935627,https://leetcode.com/problems/minimum-cost-for-tickets
+EASY,Longest Common Prefix,74.1,0.4441695020446017,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Validate IP Address,74.1,0.2761567138718822,https://leetcode.com/problems/validate-ip-address
+MEDIUM,Longest Palindromic Substring,64.6,0.3494521478295882,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Maximum Repeating Substring,64.6,0.39093794961975015,https://leetcode.com/problems/maximum-repeating-substring
+EASY,Partition Array Into Three Parts With Equal Sum,64.6,0.4202648733293679,https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum
+EASY,Find the Town Judge,64.6,0.49815672321681986,https://leetcode.com/problems/find-the-town-judge
+MEDIUM,Kth Largest Element in an Array,64.6,0.6735616595730576,https://leetcode.com/problems/kth-largest-element-in-an-array
+EASY,Best Time to Buy and Sell Stock,64.6,0.5449248660743906,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Minimum Length of Anagram Concatenation,64.6,0.4143186348663283,https://leetcode.com/problems/minimum-length-of-anagram-concatenation

@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Maximize Amount After Two Days of Conversions,100.0,0.5742960691385559,https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions
+HARD,Bus Routes,84.2,0.4718293910417715,https://leetcode.com/problems/bus-routes
+MEDIUM,Number of Islands,72.5,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Design Hit Counter,72.5,0.6891976154137153,https://leetcode.com/problems/design-hit-counter
+MEDIUM,Evaluate Division,72.5,0.6251128117287361,https://leetcode.com/problems/evaluate-division
+HARD,Text Justification,72.5,0.4625562871305861,https://leetcode.com/problems/text-justification
+EASY,Squares of a Sorted Array,63.3,0.7301757824993639,https://leetcode.com/problems/squares-of-a-sorted-array
+HARD,Alien Dictionary,63.3,0.36263545601891617,https://leetcode.com/problems/alien-dictionary
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,63.3,0.5665081750132076,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+MEDIUM,Word Search,63.3,0.4418593502709327,https://leetcode.com/problems/word-search
+MEDIUM,Spiral Matrix,63.3,0.5222657405595416,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Design Memory Allocator,63.3,0.5343324746962246,https://leetcode.com/problems/design-memory-allocator
+HARD,Block Placement Queries,63.3,0.15156909121942894,https://leetcode.com/problems/block-placement-queries
+MEDIUM,Boundary of Binary Tree,63.3,0.463913351553801,https://leetcode.com/problems/boundary-of-binary-tree

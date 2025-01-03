@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Replace the Substring for Balanced String,100.0,0.38880913807600026,https://leetcode.com/problems/replace-the-substring-for-balanced-string
+EASY,Two Sum,93.9,0.5450382129832838,https://leetcode.com/problems/two-sum
+EASY,Climbing Stairs,93.9,0.5326796293635492,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Longest Substring Without Repeating Characters,86.0,0.3593549954351552,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Longest Common Prefix,86.0,0.44416993107388014,https://leetcode.com/problems/longest-common-prefix
+EASY,Valid Parentheses,86.0,0.4150716390901026,https://leetcode.com/problems/valid-parentheses
+HARD,Trapping Rain Water,74.8,0.6373273868516683,https://leetcode.com/problems/trapping-rain-water
+HARD,Dungeon Game,74.8,0.38825915629078234,https://leetcode.com/problems/dungeon-game
+MEDIUM,Binary Tree Right Side View,74.8,0.6463698016624364,https://leetcode.com/problems/binary-tree-right-side-view
+EASY,Reverse Vowels of a String,74.8,0.5590386460032212,https://leetcode.com/problems/reverse-vowels-of-a-string
+HARD,Largest Color Value in a Directed Graph,74.8,0.49647170291597137,https://leetcode.com/problems/largest-color-value-in-a-directed-graph
+MEDIUM,Longest Palindromic Substring,74.8,0.3494520195983813,https://leetcode.com/problems/longest-palindromic-substring

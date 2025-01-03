@@ -1,0 +1,101 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,98.2,0.5450370202875897,https://leetcode.com/problems/two-sum
+EASY,Roman to Integer,81.5,0.6354891498394752,https://leetcode.com/problems/roman-to-integer
+EASY,Best Time to Buy and Sell Stock,75.8,0.5449231215117354,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Longest Common Prefix,72.3,0.44416854581513276,https://leetcode.com/problems/longest-common-prefix
+HARD,Text Justification,71.5,0.4625562871305861,https://leetcode.com/problems/text-justification
+MEDIUM,Group Anagrams,70.7,0.699293194251338,https://leetcode.com/problems/group-anagrams
+MEDIUM,Word Search,70.7,0.44185947952859245,https://leetcode.com/problems/word-search
+MEDIUM,Add Two Numbers,69.8,0.4487589629977143,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Letter Combinations of a Phone Number,69.8,0.625286825377602,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Valid Sudoku,68.9,0.6118234077788327,https://leetcode.com/problems/valid-sudoku
+EASY,Merge Sorted Array,68.9,0.5174769942379774,https://leetcode.com/problems/merge-sorted-array
+EASY,Valid Parentheses,68.9,0.4150708791571594,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Search in Rotated Sorted Array,68.0,0.41984352369475475,https://leetcode.com/problems/search-in-rotated-sorted-array
+EASY,Merge Two Sorted Lists,67.0,0.6585742426370583,https://leetcode.com/problems/merge-two-sorted-lists
+HARD,Median of Two Sorted Arrays,66.0,0.4230793502036668,https://leetcode.com/problems/median-of-two-sorted-arrays
+HARD,Trapping Rain Water,66.0,0.6373268168868195,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Generate Parentheses,66.0,0.7608323866917388,https://leetcode.com/problems/generate-parentheses
+MEDIUM,3Sum,65.0,0.3596101188963053,https://leetcode.com/problems/3sum
+MEDIUM,Spiral Matrix,65.0,0.5222657405595416,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Reverse Integer,65.0,0.295652679070978,https://leetcode.com/problems/reverse-integer
+HARD,Minimum Window Substring,63.9,0.4424686828385219,https://leetcode.com/problems/minimum-window-substring
+EASY,Remove Element,62.7,0.589456990243369,https://leetcode.com/problems/remove-element
+MEDIUM,Longest Palindromic Substring,62.7,0.34945224985175394,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Decode Ways,62.7,0.35836687811627116,https://leetcode.com/problems/decode-ways
+MEDIUM,Next Permutation,62.7,0.41829506185018056,https://leetcode.com/problems/next-permutation
+MEDIUM,Rotate Image,61.5,0.7663562884172198,https://leetcode.com/problems/rotate-image
+MEDIUM,Merge Intervals,61.5,0.48439386715814914,https://leetcode.com/problems/merge-intervals
+MEDIUM,Container With Most Water,61.5,0.5672666007520818,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Jump Game II,60.2,0.40945451560515755,https://leetcode.com/problems/jump-game-ii
+EASY,Palindrome Number,60.2,0.5816771037724516,https://leetcode.com/problems/palindrome-number
+MEDIUM,Longest Substring Without Repeating Characters,58.8,0.35935531650111857,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Maximum Subarray,58.8,0.5149490767200227,https://leetcode.com/problems/maximum-subarray
+EASY,Climbing Stairs,57.3,0.5326794783045511,https://leetcode.com/problems/climbing-stairs
+EASY,Remove Duplicates from Sorted Array,57.3,0.5868531391395282,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+EASY,Maximum Depth of Binary Tree,57.3,0.7649301972894222,https://leetcode.com/problems/maximum-depth-of-binary-tree
+EASY,Sqrt(x),57.3,0.3975126919810383,https://leetcode.com/problems/sqrtx
+HARD,Merge k Sorted Lists,57.3,0.5509064181379404,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,String to Integer (atoi),55.7,0.1838714557568527,https://leetcode.com/problems/string-to-integer-atoi
+EASY,Search Insert Position,55.7,0.47853212186384425,https://leetcode.com/problems/search-insert-position
+MEDIUM,Subsets,55.7,0.7982072326382368,https://leetcode.com/problems/subsets
+HARD,Regular Expression Matching,55.7,0.28716839352395757,https://leetcode.com/problems/regular-expression-matching
+HARD,Largest Rectangle in Histogram,54.0,0.4611573886878736,https://leetcode.com/problems/largest-rectangle-in-histogram
+EASY,Find the Index of the First Occurrence in a String,54.0,0.4406804151825377,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+HARD,Longest Valid Parentheses,54.0,0.35263968066202894,https://leetcode.com/problems/longest-valid-parentheses
+MEDIUM,Swap Nodes in Pairs,54.0,0.6602519843999325,https://leetcode.com/problems/swap-nodes-in-pairs
+HARD,Sudoku Solver,52.1,0.6353187693011552,https://leetcode.com/problems/sudoku-solver
+EASY,Plus One,52.1,0.46691958339125433,https://leetcode.com/problems/plus-one
+MEDIUM,Binary Tree Level Order Traversal,52.1,0.6925571530210892,https://leetcode.com/problems/binary-tree-level-order-traversal
+MEDIUM,Combination Sum,52.1,0.7341575206017368,https://leetcode.com/problems/combination-sum
+EASY,Pascal's Triangle,50.1,0.7598850025011408,https://leetcode.com/problems/pascals-triangle
+MEDIUM,Find First and Last Position of Element in Sorted Array,50.1,0.4570986470105368,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Zigzag Conversion,47.8,0.5014876745969081,https://leetcode.com/problems/zigzag-conversion
+MEDIUM,Set Matrix Zeroes,47.8,0.583086055404578,https://leetcode.com/problems/set-matrix-zeroes
+MEDIUM,Jump Game,47.8,0.38965548487831414,https://leetcode.com/problems/jump-game
+MEDIUM,"Pow(x, n)",47.8,0.36107190332040645,https://leetcode.com/problems/powx-n
+EASY,Length of Last Word,45.3,0.5473845007817625,https://leetcode.com/problems/length-of-last-word
+MEDIUM,Divide Two Integers,42.5,0.17974976576376764,https://leetcode.com/problems/divide-two-integers
+MEDIUM,3Sum Closest,39.2,0.46393069700666606,https://leetcode.com/problems/3sum-closest
+MEDIUM,4Sum,39.2,0.3719905854224461,https://leetcode.com/problems/4sum
+HARD,N-Queens,39.2,0.7091787115322903,https://leetcode.com/problems/n-queens
+MEDIUM,Insert Interval,39.2,0.4263983441485063,https://leetcode.com/problems/insert-interval
+MEDIUM,Permutations,39.2,0.797650948204179,https://leetcode.com/problems/permutations
+EASY,Add Binary,39.2,0.5484890742479305,https://leetcode.com/problems/add-binary
+MEDIUM,Combination Sum II,35.4,0.5686398628743226,https://leetcode.com/problems/combination-sum-ii
+MEDIUM,Unique Paths,35.4,0.6516079702973944,https://leetcode.com/problems/unique-paths
+MEDIUM,Edit Distance,35.4,0.5783447425216649,https://leetcode.com/problems/edit-distance
+MEDIUM,Sort Colors,35.4,0.657662631062609,https://leetcode.com/problems/sort-colors
+MEDIUM,Remove Nth Node From End of List,35.4,0.47526524085981525,https://leetcode.com/problems/remove-nth-node-from-end-of-list
+MEDIUM,Validate Binary Search Tree,35.4,0.3374136366933338,https://leetcode.com/problems/validate-binary-search-tree
+EASY,Binary Tree Inorder Traversal,35.4,0.7760856641629181,https://leetcode.com/problems/binary-tree-inorder-traversal
+HARD,First Missing Positive,35.4,0.40310309354125773,https://leetcode.com/problems/first-missing-positive
+HARD,Reverse Nodes in k-Group,35.4,0.613503423046191,https://leetcode.com/problems/reverse-nodes-in-k-group
+EASY,Remove Duplicates from Sorted List,30.8,0.5396659484796952,https://leetcode.com/problems/remove-duplicates-from-sorted-list
+HARD,Distinct Subsequences,30.8,0.4896734587014164,https://leetcode.com/problems/distinct-subsequences
+EASY,Minimum Depth of Binary Tree,30.8,0.49573536063385826,https://leetcode.com/problems/minimum-depth-of-binary-tree
+MEDIUM,Minimum Path Sum,30.8,0.6546598285501876,https://leetcode.com/problems/minimum-path-sum
+MEDIUM,Spiral Matrix II,30.8,0.7258340452266985,https://leetcode.com/problems/spiral-matrix-ii
+MEDIUM,Search in Rotated Sorted Array II,30.8,0.38400211306124843,https://leetcode.com/problems/search-in-rotated-sorted-array-ii
+MEDIUM,Search a 2D Matrix,30.8,0.514665586452246,https://leetcode.com/problems/search-a-2d-matrix
+HARD,Wildcard Matching,25.0,0.29039880707773413,https://leetcode.com/problems/wildcard-matching
+MEDIUM,Unique Paths II,25.0,0.4251991173909648,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,Remove Duplicates from Sorted List II,25.0,0.4884613242617336,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii
+MEDIUM,Reverse Linked List II,25.0,0.4876159580180046,https://leetcode.com/problems/reverse-linked-list-ii
+MEDIUM,Unique Binary Search Trees II,25.0,0.5930928607545584,https://leetcode.com/problems/unique-binary-search-trees-ii
+MEDIUM,Flatten Binary Tree to Linked List,25.0,0.6716043650444208,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+EASY,Path Sum,25.0,0.5199162896082771,https://leetcode.com/problems/path-sum
+EASY,Same Tree,25.0,0.6399827192551153,https://leetcode.com/problems/same-tree
+MEDIUM,Integer to Roman,25.0,0.6717639570634879,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Simplify Path,17.5,0.45598417697481053,https://leetcode.com/problems/simplify-path
+EASY,Balanced Binary Tree,17.5,0.5411274647127217,https://leetcode.com/problems/balanced-binary-tree
+MEDIUM,Convert Sorted List to Binary Search Tree,17.5,0.6346746242469153,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
+HARD,Permutation Sequence,17.5,0.4867017979261366,https://leetcode.com/problems/permutation-sequence
+MEDIUM,Binary Tree Zigzag Level Order Traversal,17.5,0.6057800259691813,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+MEDIUM,Combinations,17.5,0.7187357082218546,https://leetcode.com/problems/combinations
+HARD,Maximal Rectangle,17.5,0.5240594700158641,https://leetcode.com/problems/maximal-rectangle
+MEDIUM,Multiply Strings,17.5,0.4147882183129358,https://leetcode.com/problems/multiply-strings
+MEDIUM,Interleaving String,17.5,0.4105515065361211,https://leetcode.com/problems/interleaving-string
+MEDIUM,Remove Duplicates from Sorted Array II,17.5,0.6127223014185226,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
+MEDIUM,Subsets II,17.5,0.5853803985340607,https://leetcode.com/problems/subsets-ii
+EASY,Symmetric Tree,17.5,0.5818412128932784,https://leetcode.com/problems/symmetric-tree

@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Text Justification,100.0,0.4625573039745261,https://leetcode.com/problems/text-justification
+EASY,Find Words That Can Be Formed by Characters,83.0,0.7081679412326275,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters
+EASY,Check if Every Row and Column Contains All Numbers,83.0,0.5227209027430814,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers
+MEDIUM,Course Schedule,83.0,0.48040235964166944,https://leetcode.com/problems/course-schedule
+MEDIUM,Number of Islands,72.0,0.6107409675133405,https://leetcode.com/problems/number-of-islands
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,72.0,0.46039031609128955,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
+MEDIUM,Subdomain Visit Count,63.3,0.7661744156504064,https://leetcode.com/problems/subdomain-visit-count
+MEDIUM,Word Search,63.3,0.4418594364461271,https://leetcode.com/problems/word-search
+HARD,Word Search II,63.3,0.3683882028354497,https://leetcode.com/problems/word-search-ii
+EASY,Two Sum,63.3,0.5450376945722714,https://leetcode.com/problems/two-sum

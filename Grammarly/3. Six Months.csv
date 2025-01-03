@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Merge Intervals,100.0,0.48439399237533154,https://leetcode.com/problems/merge-intervals
+EASY,Remove All Adjacent Duplicates In String,86.6,0.7065149374568584,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
+MEDIUM,Insert Delete GetRandom O(1),86.6,0.5479297576359211,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Vowel Spellchecker,81.5,0.514093000925091,https://leetcode.com/problems/vowel-spellchecker
+MEDIUM,Search in Rotated Sorted Array,81.5,0.4198439040610885,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Remove All Adjacent Duplicates in String II,81.5,0.5880057923115006,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii
+HARD,Word Break II,65.8,0.524554630268935,https://leetcode.com/problems/word-break-ii
+EASY,Climbing Stairs,65.8,0.532679117949512,https://leetcode.com/problems/climbing-stairs
+EASY,Sum of Left Leaves,65.8,0.6121673003802282,https://leetcode.com/problems/sum-of-left-leaves
+HARD,Special Binary String,65.8,0.6270371602213286,https://leetcode.com/problems/special-binary-string
+MEDIUM,Decode the Slanted Ciphertext,65.8,0.4915994731600758,https://leetcode.com/problems/decode-the-slanted-ciphertext
+MEDIUM,Implement Trie (Prefix Tree),65.8,0.6700109455193448,https://leetcode.com/problems/implement-trie-prefix-tree
+EASY,Perfect Number,65.8,0.4329291918686616,https://leetcode.com/problems/perfect-number
+MEDIUM,Maximum Palindromes After Operations,65.8,0.4266732283464567,https://leetcode.com/problems/maximum-palindromes-after-operations

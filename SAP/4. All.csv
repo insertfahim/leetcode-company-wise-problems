@@ -1,0 +1,37 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5450375385417704,https://leetcode.com/problems/two-sum
+HARD,Maximum Path Quality of a Graph,95.5,0.592417638608196,https://leetcode.com/problems/maximum-path-quality-of-a-graph
+HARD,Count Increasing Quadruplets,95.5,0.33334441821023575,https://leetcode.com/problems/count-increasing-quadruplets
+HARD,Maximum Students Taking Exam,95.5,0.5166615967478776,https://leetcode.com/problems/maximum-students-taking-exam
+HARD,Count the Number of Infection Sequences,95.5,0.3477627875376104,https://leetcode.com/problems/count-the-number-of-infection-sequences
+MEDIUM,Movie Rating,95.5,0.4099855389915573,https://leetcode.com/problems/movie-rating
+EASY,Valid Parentheses,92.8,0.41507135087778624,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Container With Most Water,89.9,0.5672664661189188,https://leetcode.com/problems/container-with-most-water
+EASY,Longest Common Prefix,82.7,0.4441691832113593,https://leetcode.com/problems/longest-common-prefix
+EASY,Reverse Linked List,78.2,0.7822931168808346,https://leetcode.com/problems/reverse-linked-list
+EASY,Maximum Depth of Binary Tree,72.7,0.764929649517007,https://leetcode.com/problems/maximum-depth-of-binary-tree
+MEDIUM,Number of Islands,72.7,0.6107404360169014,https://leetcode.com/problems/number-of-islands
+HARD,Trapping Rain Water,72.7,0.6373269063584714,https://leetcode.com/problems/trapping-rain-water
+EASY,Sqrt(x),65.5,0.3975128366599354,https://leetcode.com/problems/sqrtx
+EASY,Valid Palindrome,65.5,0.49533426241578016,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Maximal Square,65.5,0.4785887884532192,https://leetcode.com/problems/maximal-square
+MEDIUM,Maximum Number of Weeks for Which You Can Work,65.5,0.41028385221155533,https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work
+EASY,Remove Duplicates from Sorted Array,65.5,0.5868531816245811,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+MEDIUM,Maximum Subarray,65.5,0.5149493229834755,https://leetcode.com/problems/maximum-subarray
+HARD,Maximum Employees to Be Invited to a Meeting,65.5,0.3763138378129555,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting
+EASY,Fibonacci Number,65.5,0.7219069770100988,https://leetcode.com/problems/fibonacci-number
+MEDIUM,Longest Palindromic Substring,55.5,0.34945227606125395,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Linked List Cycle,55.5,0.5159053174300697,https://leetcode.com/problems/linked-list-cycle
+MEDIUM,Word Break,55.5,0.47610825843115107,https://leetcode.com/problems/word-break
+MEDIUM,Combination Sum II,55.5,0.5686400677628138,https://leetcode.com/problems/combination-sum-ii
+EASY,Move Zeroes,55.5,0.6235858424701257,https://leetcode.com/problems/move-zeroes
+EASY,Valid Perfect Square,55.5,0.4397276541940417,https://leetcode.com/problems/valid-perfect-square
+EASY,Rotate String,55.5,0.6328962897892295,https://leetcode.com/problems/rotate-string
+MEDIUM,Monotone Increasing Digits,55.5,0.48380511591388076,https://leetcode.com/problems/monotone-increasing-digits
+EASY,Sort Array by Increasing Frequency,55.5,0.799776016161971,https://leetcode.com/problems/sort-array-by-increasing-frequency
+MEDIUM,Daily Temperatures,55.5,0.6670370120337453,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Kth Largest Element in an Array,55.5,0.6735618428925549,https://leetcode.com/problems/kth-largest-element-in-an-array
+EASY,Majority Element,55.5,0.6537523241907058,https://leetcode.com/problems/majority-element
+MEDIUM,Longest Consecutive Sequence,55.5,0.4769876444919721,https://leetcode.com/problems/longest-consecutive-sequence
+EASY,Best Time to Buy and Sell Stock,55.5,0.5449246375153194,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,LRU Cache,55.5,0.43931297922662327,https://leetcode.com/problems/lru-cache

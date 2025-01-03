@@ -1,0 +1,23 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5450375385417704,https://leetcode.com/problems/two-sum
+EASY,Valid Parentheses,100.0,0.41507135087778624,https://leetcode.com/problems/valid-parentheses
+EASY,Longest Common Prefix,95.9,0.4441691832113593,https://leetcode.com/problems/longest-common-prefix
+EASY,Maximum Depth of Binary Tree,85.2,0.764929649517007,https://leetcode.com/problems/maximum-depth-of-binary-tree
+MEDIUM,Container With Most Water,85.2,0.5672664661189188,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Maximum Number of Weeks for Which You Can Work,77.6,0.41028385221155533,https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work
+EASY,Sqrt(x),77.6,0.3975128366599354,https://leetcode.com/problems/sqrtx
+EASY,Valid Palindrome,66.9,0.49533426241578016,https://leetcode.com/problems/valid-palindrome
+HARD,Trapping Rain Water,66.9,0.6373269063584714,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Number of Islands,66.9,0.6107404360169014,https://leetcode.com/problems/number-of-islands
+MEDIUM,Longest Consecutive Sequence,66.9,0.4769876444919721,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Maximal Square,66.9,0.4785887884532192,https://leetcode.com/problems/maximal-square
+EASY,Valid Perfect Square,66.9,0.4397276541940417,https://leetcode.com/problems/valid-perfect-square
+EASY,Fibonacci Number,66.9,0.7219069770100988,https://leetcode.com/problems/fibonacci-number
+EASY,Reverse Linked List,66.9,0.7822931168808346,https://leetcode.com/problems/reverse-linked-list
+EASY,Rotate String,66.9,0.6328962897892295,https://leetcode.com/problems/rotate-string
+MEDIUM,Daily Temperatures,66.9,0.6670370120337453,https://leetcode.com/problems/daily-temperatures
+HARD,Maximum Employees to Be Invited to a Meeting,66.9,0.3763138378129555,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting
+EASY,Majority Element,66.9,0.6537523241907058,https://leetcode.com/problems/majority-element
+EASY,Best Time to Buy and Sell Stock,66.9,0.5449246375153194,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Remove Duplicates from Sorted Array,66.9,0.5868531816245811,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+MEDIUM,Maximum Subarray,66.9,0.5149493229834755,https://leetcode.com/problems/maximum-subarray

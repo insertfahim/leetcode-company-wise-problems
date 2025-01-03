@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Minimum Edge Reversals So Every Node Is Reachable,100.0,0.572940063837333,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable
+HARD,Making A Large Island,88.9,0.49518112029351563,https://leetcode.com/problems/making-a-large-island
+HARD,Minimum Number of Taps to Open to Water a Garden,83.7,0.5067444839239581,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+HARD,Subsequence With the Minimum Score,76.9,0.3226118220126029,https://leetcode.com/problems/subsequence-with-the-minimum-score
+MEDIUM,Number of Strings Which Can Be Rearranged to Contain Substring,67.4,0.5506272764063133,https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring
+MEDIUM,Find the Longest Equal Subarray,67.4,0.360912777291882,https://leetcode.com/problems/find-the-longest-equal-subarray
+MEDIUM,Delete and Earn,67.4,0.5657237035197435,https://leetcode.com/problems/delete-and-earn
+HARD,Minimum Degree of a Connected Trio in a Graph,67.4,0.4311206646535987,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph

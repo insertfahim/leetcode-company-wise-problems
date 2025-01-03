@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Design Excel Sum Formula,100.0,0.4384048353174198,https://leetcode.com/problems/design-excel-sum-formula
+HARD,Median of Two Sorted Arrays,82.8,0.4230805531106941,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Evaluate Division,80.1,0.6251132432759107,https://leetcode.com/problems/evaluate-division
+MEDIUM,Synonymous Sentences,63.2,0.5649204780303712,https://leetcode.com/problems/synonymous-sentences
+MEDIUM,Employee Importance,63.2,0.6777194217010108,https://leetcode.com/problems/employee-importance
+MEDIUM,Maximum Subarray,55.2,0.514949316153832,https://leetcode.com/problems/maximum-subarray
+HARD,Text Justification,55.2,0.4625573039745261,https://leetcode.com/problems/text-justification
+HARD,Longest Duplicate Substring,55.2,0.30599395709197713,https://leetcode.com/problems/longest-duplicate-substring
+EASY,Last Stone Weight,55.2,0.6571614857464021,https://leetcode.com/problems/last-stone-weight
+HARD,Optimal Account Balancing,55.2,0.4967000672022789,https://leetcode.com/problems/optimal-account-balancing
+HARD,Number of Visible People in a Queue,55.2,0.7031370730953485,https://leetcode.com/problems/number-of-visible-people-in-a-queue

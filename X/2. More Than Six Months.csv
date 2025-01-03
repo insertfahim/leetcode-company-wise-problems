@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.5479315927305727,https://leetcode.com/problems/insert-delete-getrandom-o1
+HARD,Trapping Rain Water,83.2,0.6373269761547354,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Merge Intervals,83.2,0.48439406435259774,https://leetcode.com/problems/merge-intervals
+MEDIUM,Flatten Nested List Iterator,83.2,0.6498427715949796,https://leetcode.com/problems/flatten-nested-list-iterator
+MEDIUM,Implement Trie (Prefix Tree),73.3,0.670010578455768,https://leetcode.com/problems/implement-trie-prefix-tree
+MEDIUM,Tweet Counts Per Frequency,73.3,0.4495638762523167,https://leetcode.com/problems/tweet-counts-per-frequency
+MEDIUM,Design Twitter,73.3,0.41268872476281665,https://leetcode.com/problems/design-twitter
+MEDIUM,Gas Station,73.3,0.4578428903766499,https://leetcode.com/problems/gas-station

@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,LRU Cache,100.0,0.43931269061091177,https://leetcode.com/problems/lru-cache
+EASY,Two Sum,91.9,0.5450372047848187,https://leetcode.com/problems/two-sum
+EASY,Maximum Depth of Binary Tree,91.9,0.7649301224098738,https://leetcode.com/problems/maximum-depth-of-binary-tree
+EASY,Contains Duplicate,91.9,0.6254441696098314,https://leetcode.com/problems/contains-duplicate
+EASY,Roman to Integer,80.4,0.6354894435464306,https://leetcode.com/problems/roman-to-integer
+EASY,Reverse Linked List,80.4,0.7822930460316432,https://leetcode.com/problems/reverse-linked-list
+HARD,Median of Two Sorted Arrays,80.4,0.42307985052918434,https://leetcode.com/problems/median-of-two-sorted-arrays
+EASY,Matrix Cells in Distance Order,80.4,0.7208678396026652,https://leetcode.com/problems/matrix-cells-in-distance-order
+HARD,Serialize and Deserialize Binary Tree,80.4,0.5798680060916557,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+MEDIUM,Word Break,80.4,0.4761082344620192,https://leetcode.com/problems/word-break
+MEDIUM,Non-decreasing Subsequences,80.4,0.6128191093326625,https://leetcode.com/problems/non-decreasing-subsequences
+EASY,Linked List Cycle,80.4,0.5159051183819748,https://leetcode.com/problems/linked-list-cycle
+MEDIUM,Maximum Distance in Arrays,80.4,0.45716628435751944,https://leetcode.com/problems/maximum-distance-in-arrays
+EASY,Binary Number with Alternating Bits,80.4,0.6316811393293352,https://leetcode.com/problems/binary-number-with-alternating-bits
+MEDIUM,Peeking Iterator,80.4,0.60168160906907,https://leetcode.com/problems/peeking-iterator
+HARD,Largest Palindrome Product,80.4,0.3425917564342386,https://leetcode.com/problems/largest-palindrome-product

@@ -1,0 +1,21 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Trapping Rain Water,100.0,0.6373269761547354,https://leetcode.com/problems/trapping-rain-water
+HARD,Cherry Pickup II,100.0,0.7183214780456675,https://leetcode.com/problems/cherry-pickup-ii
+MEDIUM,Minimum Number of Coins to be Added,100.0,0.5691938679737198,https://leetcode.com/problems/minimum-number-of-coins-to-be-added
+MEDIUM,Search in Rotated Sorted Array,100.0,0.41984375806997803,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Maximum Points You Can Obtain from Cards,100.0,0.5448982008920097,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards
+HARD,Triples with Bitwise AND Equal To Zero,86.5,0.5875679920881933,https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero
+MEDIUM,Product of Array Except Self,86.5,0.6710046230904342,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Rotting Oranges,86.5,0.555227772856992,https://leetcode.com/problems/rotting-oranges
+HARD,Create Maximum Number,86.5,0.31335752937756145,https://leetcode.com/problems/create-maximum-number
+MEDIUM,Path Sum II,86.5,0.5970437247638672,https://leetcode.com/problems/path-sum-ii
+HARD,Maximum Performance of a Team,86.5,0.4758797706719121,https://leetcode.com/problems/maximum-performance-of-a-team
+HARD,Candy,86.5,0.44097611105089707,https://leetcode.com/problems/candy
+HARD,Dungeon Game,86.5,0.38825623907168977,https://leetcode.com/problems/dungeon-game
+MEDIUM,Filling Bookcase Shelves,86.5,0.6875289163338337,https://leetcode.com/problems/filling-bookcase-shelves
+MEDIUM,Minimum Limit of Balls in a Bag,86.5,0.6799893948432425,https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag
+MEDIUM,Minimum Cost to Reach City With Discounts,86.5,0.5978150692645569,https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts
+MEDIUM,Numbers With Same Consecutive Differences,86.5,0.5842144260548137,https://leetcode.com/problems/numbers-with-same-consecutive-differences
+HARD,Design Movie Rental System,86.5,0.3679065447969109,https://leetcode.com/problems/design-movie-rental-system
+HARD,The Score of Students Solving Math Expression,86.5,0.3336036189825879,https://leetcode.com/problems/the-score-of-students-solving-math-expression
+MEDIUM,Merge Intervals,86.5,0.4843939817273928,https://leetcode.com/problems/merge-intervals

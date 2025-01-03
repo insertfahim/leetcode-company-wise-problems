@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Valid Parentheses,100.0,0.4150716390901026,https://leetcode.com/problems/valid-parentheses
+EASY,Squares of a Sorted Array,81.6,0.7301761547036957,https://leetcode.com/problems/squares-of-a-sorted-array
+HARD,Department Top Three Salaries,81.6,0.5612962868543858,https://leetcode.com/problems/department-top-three-salaries
+EASY,Two Sum,75.0,0.5450381812123568,https://leetcode.com/problems/two-sum
+EASY,Move Zeroes,75.0,0.6235851133843958,https://leetcode.com/problems/move-zeroes
+EASY,Monotonic Array,75.0,0.6147843434740219,https://leetcode.com/problems/monotonic-array
+MEDIUM,Merge Intervals,75.0,0.4843936725231546,https://leetcode.com/problems/merge-intervals
+EASY,Remove Duplicates from Sorted Array,65.9,0.5868540226444248,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+MEDIUM,Number of Islands,65.9,0.6107408811099084,https://leetcode.com/problems/number-of-islands
+EASY,Reverse Linked List,65.9,0.7822935563806724,https://leetcode.com/problems/reverse-linked-list
+EASY,Merge Sorted Array,65.9,0.5174787045972647,https://leetcode.com/problems/merge-sorted-array
+EASY,First Unique Character in a String,65.9,0.6293509189528766,https://leetcode.com/problems/first-unique-character-in-a-string

@@ -1,0 +1,22 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Time Based Key-Value Store,100.0,0.49284131134843906,https://leetcode.com/problems/time-based-key-value-store
+EASY,Check if Every Row and Column Contains All Numbers,96.4,0.5227209027430814,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers
+EASY,Squares of a Sorted Array,68.8,0.7301765777854854,https://leetcode.com/problems/squares-of-a-sorted-array
+MEDIUM,Find First and Last Position of Element in Sorted Array,68.8,0.4570991603266975,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+HARD,Wildcard Matching,68.8,0.2903997487470529,https://leetcode.com/problems/wildcard-matching
+EASY,Word Pattern,60.1,0.4263537454458102,https://leetcode.com/problems/word-pattern
+MEDIUM,Best Time to Buy and Sell Stock II,60.1,0.6834847699507667,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+MEDIUM,Merge Intervals,60.1,0.48439374982409544,https://leetcode.com/problems/merge-intervals
+MEDIUM,Best Time to Buy and Sell Stock with Cooldown,60.1,0.5952273111853498,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown
+MEDIUM,Non-overlapping Intervals,60.1,0.5458528882396209,https://leetcode.com/problems/non-overlapping-intervals
+MEDIUM,"Pow(x, n)",60.1,0.3610726913813157,https://leetcode.com/problems/powx-n
+MEDIUM,Basic Calculator II,60.1,0.44841554049381427,https://leetcode.com/problems/basic-calculator-ii
+EASY,Search Insert Position,60.1,0.47853312125967734,https://leetcode.com/problems/search-insert-position
+MEDIUM,Valid Sudoku,60.1,0.6118233270530578,https://leetcode.com/problems/valid-sudoku
+EASY,Best Time to Buy and Sell Stock,60.1,0.5449248050350437,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,LRU Cache,60.1,0.4393134826181801,https://leetcode.com/problems/lru-cache
+MEDIUM,Edit Distance,60.1,0.5783447154034361,https://leetcode.com/problems/edit-distance
+MEDIUM,Maximum Number of Events That Can Be Attended,60.1,0.32631704362675984,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended
+MEDIUM,Minimum Number of Arrows to Burst Balloons,60.1,0.5970755748971487,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
+HARD,Valid Number,60.1,0.20776719981162356,https://leetcode.com/problems/valid-number
+HARD,Word Search II,60.1,0.3683880180059043,https://leetcode.com/problems/word-search-ii

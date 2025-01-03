@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Integer to Roman,100.0,0.6717659334286129,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Valid Sudoku,87.1,0.6118239132839288,https://leetcode.com/problems/valid-sudoku
+HARD,First Missing Positive,71.1,0.4031043184307003,https://leetcode.com/problems/first-missing-positive
+HARD,Count of Smaller Numbers After Self,71.1,0.4266071924160284,https://leetcode.com/problems/count-of-smaller-numbers-after-self
+MEDIUM,Rotate Array,71.1,0.420610163988509,https://leetcode.com/problems/rotate-array
+MEDIUM,Path with Maximum Gold,71.1,0.6804300060900613,https://leetcode.com/problems/path-with-maximum-gold
+MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,71.1,0.6143054982494985,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one
+MEDIUM,Boundary of Binary Tree,71.1,0.463913351553801,https://leetcode.com/problems/boundary-of-binary-tree

@@ -1,0 +1,101 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5450370202875897,https://leetcode.com/problems/two-sum
+EASY,Merge Sorted Array,78.6,0.5174769942379774,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Add Two Numbers,72.3,0.4487589629977143,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Longest Substring Without Repeating Characters,68.4,0.3593553507053231,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Recyclable and Low Fat Products,66.1,0.8936910543640745,https://leetcode.com/problems/recyclable-and-low-fat-products
+HARD,Trapping Rain Water,65.5,0.6373268168868195,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Merge Intervals,64.8,0.48439386715814914,https://leetcode.com/problems/merge-intervals
+HARD,Median of Two Sorted Arrays,64.1,0.4230793502036668,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Number of Islands,63.4,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+EASY,Climbing Stairs,62.7,0.5326794783045511,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Maximum Subarray,61.2,0.5149490767200227,https://leetcode.com/problems/maximum-subarray
+EASY,Palindrome Number,61.2,0.5816770440476622,https://leetcode.com/problems/palindrome-number
+EASY,Best Time to Buy and Sell Stock,60.3,0.5449230691119258,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Longest Palindromic Substring,59.5,0.34945224985175394,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Roman to Integer,58.6,0.6354891498394752,https://leetcode.com/problems/roman-to-integer
+EASY,Majority Element,57.6,0.6537537115215712,https://leetcode.com/problems/majority-element
+EASY,Remove Duplicates from Sorted Array,56.6,0.5868531391395282,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+EASY,Valid Parentheses,56.6,0.4150708791571594,https://leetcode.com/problems/valid-parentheses
+EASY,Logger Rate Limiter,56.6,0.7624629224195769,https://leetcode.com/problems/logger-rate-limiter
+MEDIUM,3Sum,55.6,0.3596101188963053,https://leetcode.com/problems/3sum
+EASY,Longest Common Prefix,55.6,0.44416854581513276,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Longest Increasing Subsequence,54.5,0.5682741445187618,https://leetcode.com/problems/longest-increasing-subsequence
+EASY,Reverse Linked List,54.5,0.7822929607762257,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Container With Most Water,54.5,0.5672666007520818,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Reverse Integer,53.3,0.295652679070978,https://leetcode.com/problems/reverse-integer
+EASY,Find the Index of the First Occurrence in a String,53.3,0.44068034994027705,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+MEDIUM,Next Permutation,53.3,0.41829506185018056,https://leetcode.com/problems/next-permutation
+MEDIUM,The Earliest Moment When Everyone Become Friends,53.3,0.6552256674248773,https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends
+MEDIUM,Course Schedule,52.0,0.4804021541532256,https://leetcode.com/problems/course-schedule
+MEDIUM,Jump Game,52.0,0.38965548487831414,https://leetcode.com/problems/jump-game
+MEDIUM,Minimum Area Rectangle,52.0,0.5460783771450696,https://leetcode.com/problems/minimum-area-rectangle
+MEDIUM,Subarray Sum Equals K,50.6,0.4455157837966562,https://leetcode.com/problems/subarray-sum-equals-k
+EASY,Remove Element,50.6,0.5894570556993949,https://leetcode.com/problems/remove-element
+MEDIUM,Decode String,50.6,0.6036411009633038,https://leetcode.com/problems/decode-string
+MEDIUM,Group Anagrams,49.1,0.699293194251338,https://leetcode.com/problems/group-anagrams
+MEDIUM,LRU Cache,49.1,0.4393121415662189,https://leetcode.com/problems/lru-cache
+MEDIUM,Letter Combinations of a Phone Number,49.1,0.625286825377602,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+EASY,Pascal's Triangle,49.1,0.7598850025011408,https://leetcode.com/problems/pascals-triangle
+EASY,Single Number,49.1,0.748165058924916,https://leetcode.com/problems/single-number
+MEDIUM,Rotate Image,47.5,0.7663562884172198,https://leetcode.com/problems/rotate-image
+HARD,N-Queens,47.5,0.7091787115322903,https://leetcode.com/problems/n-queens
+EASY,Sqrt(x),47.5,0.3975126919810383,https://leetcode.com/problems/sqrtx
+EASY,Search Insert Position,47.5,0.4785320551211567,https://leetcode.com/problems/search-insert-position
+MEDIUM,Generate Parentheses,45.8,0.7608323866917388,https://leetcode.com/problems/generate-parentheses
+MEDIUM,Sort Colors,45.8,0.657662631062609,https://leetcode.com/problems/sort-colors
+MEDIUM,"Pow(x, n)",45.8,0.36107190332040645,https://leetcode.com/problems/powx-n
+MEDIUM,Jump Game II,43.8,0.40945440576725134,https://leetcode.com/problems/jump-game-ii
+HARD,Binary Tree Maximum Path Sum,43.8,0.4069365068138884,https://leetcode.com/problems/binary-tree-maximum-path-sum
+EASY,Valid Anagram,43.8,0.6577869904836231,https://leetcode.com/problems/valid-anagram
+MEDIUM,Longest Consecutive Sequence,41.7,0.4769875559354364,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Gas Station,41.7,0.4578427717637239,https://leetcode.com/problems/gas-station
+MEDIUM,House Robber,41.7,0.5179715106992544,https://leetcode.com/problems/house-robber
+MEDIUM,Maximum Width Ramp,41.7,0.5551495930586595,https://leetcode.com/problems/maximum-width-ramp
+MEDIUM,Zigzag Conversion,41.7,0.5014876745969081,https://leetcode.com/problems/zigzag-conversion
+HARD,Finding MK Average,41.7,0.376837838286844,https://leetcode.com/problems/finding-mk-average
+MEDIUM,Random Pick with Weight,41.7,0.478396720254369,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,4Sum,39.2,0.3719905854224461,https://leetcode.com/problems/4sum
+HARD,Range Module,39.2,0.439709255727828,https://leetcode.com/problems/range-module
+EASY,Find Customer Referee,39.2,0.7131790132142741,https://leetcode.com/problems/find-customer-referee
+HARD,Maximal Rectangle,39.2,0.5240594700158641,https://leetcode.com/problems/maximal-rectangle
+MEDIUM,Spiral Matrix,39.2,0.5222657405595416,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Permutations,39.2,0.797650948204179,https://leetcode.com/problems/permutations
+HARD,Basic Calculator,39.2,0.44409823650329977,https://leetcode.com/problems/basic-calculator
+HARD,Sliding Window Maximum,36.4,0.4707001499470018,https://leetcode.com/problems/sliding-window-maximum
+EASY,Plus One,36.4,0.46691958339125433,https://leetcode.com/problems/plus-one
+MEDIUM,Unique Paths,36.4,0.6516079702973944,https://leetcode.com/problems/unique-paths
+EASY,Happy Number,36.4,0.5724008935059343,https://leetcode.com/problems/happy-number
+MEDIUM,Rotate Array,36.4,0.4206102954164583,https://leetcode.com/problems/rotate-array
+MEDIUM,Single Element in a Sorted Array,36.4,0.5923868192229181,https://leetcode.com/problems/single-element-in-a-sorted-array
+EASY,Contains Duplicate,33.1,0.6254442876911862,https://leetcode.com/problems/contains-duplicate
+HARD,Largest Rectangle in Histogram,33.1,0.4611573886878736,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Search in Rotated Sorted Array,33.1,0.41984352369475475,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Koko Eating Bananas,33.1,0.486879464660218,https://leetcode.com/problems/koko-eating-bananas
+EASY,Valid Palindrome,33.1,0.4953338525221935,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Longest Repeating Character Replacement,33.1,0.5593792612393995,https://leetcode.com/problems/longest-repeating-character-replacement
+MEDIUM,Maximal Square,33.1,0.47858813083475643,https://leetcode.com/problems/maximal-square
+EASY,Running Sum of 1d Array,29.1,0.8691140251995378,https://leetcode.com/problems/running-sum-of-1d-array
+MEDIUM,Search a 2D Matrix,29.1,0.514665586452246,https://leetcode.com/problems/search-a-2d-matrix
+EASY,Maximum Average Subarray I,29.1,0.44274201233828253,https://leetcode.com/problems/maximum-average-subarray-i
+MEDIUM,3Sum Closest,29.1,0.46393069700666606,https://leetcode.com/problems/3sum-closest
+MEDIUM,Capacity To Ship Packages Within D Days,29.1,0.7094541501485888,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+EASY,Add Binary,29.1,0.5484890742479305,https://leetcode.com/problems/add-binary
+MEDIUM,Insert Interval,29.1,0.4263983441485063,https://leetcode.com/problems/insert-interval
+MEDIUM,Combination Sum,29.1,0.7341575206017368,https://leetcode.com/problems/combination-sum
+EASY,Diameter of Binary Tree,29.1,0.6220184568006132,https://leetcode.com/problems/diameter-of-binary-tree
+MEDIUM,Number of Provinces,24.1,0.6763996643343927,https://leetcode.com/problems/number-of-provinces
+MEDIUM,Snapshot Array,24.1,0.3676088634213517,https://leetcode.com/problems/snapshot-array
+HARD,First Missing Positive,24.1,0.40310309354125773,https://leetcode.com/problems/first-missing-positive
+EASY,Moving Average from Data Stream,24.1,0.7931199818984698,https://leetcode.com/problems/moving-average-from-data-stream
+HARD,Burst Balloons,24.1,0.6028635534832957,https://leetcode.com/problems/burst-balloons
+MEDIUM,Swap Nodes in Pairs,24.1,0.6602519843999325,https://leetcode.com/problems/swap-nodes-in-pairs
+MEDIUM,Minimum Difference Between Largest and Smallest Value in Three Moves,24.1,0.592416384354789,https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves
+MEDIUM,Find All Possible Recipes from Given Supplies,17.4,0.504896929888866,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies
+MEDIUM,Check if Word Can Be Placed In Crossword,17.4,0.49841373805186573,https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword
+MEDIUM,Word Break,17.4,0.4761082224774353,https://leetcode.com/problems/word-break
+MEDIUM,String to Integer (atoi),17.4,0.1838714557568527,https://leetcode.com/problems/string-to-integer-atoi
+HARD,Longest Valid Parentheses,17.4,0.35263968066202894,https://leetcode.com/problems/longest-valid-parentheses
+HARD,Odd Even Jump,17.4,0.4040429172559496,https://leetcode.com/problems/odd-even-jump
+MEDIUM,Reverse Linked List II,17.4,0.4876159580180046,https://leetcode.com/problems/reverse-linked-list-ii
+MEDIUM,Find the Safest Path in a Grid,17.4,0.4859657457427062,https://leetcode.com/problems/find-the-safest-path-in-a-grid

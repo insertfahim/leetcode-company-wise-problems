@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Snapshot Array,100.0,0.3676087004750842,https://leetcode.com/problems/snapshot-array
+MEDIUM,Basic Calculator II,100.0,0.44841527084057453,https://leetcode.com/problems/basic-calculator-ii
+EASY,Transpose Matrix,92.7,0.731391002178543,https://leetcode.com/problems/transpose-matrix
+MEDIUM,Remove Sub-Folders from the Filesystem,82.5,0.7562952971684225,https://leetcode.com/problems/remove-sub-folders-from-the-filesystem
+HARD,Basic Calculator III,82.5,0.5156493398466447,https://leetcode.com/problems/basic-calculator-iii
+MEDIUM,LRU Cache,82.5,0.4393138732579176,https://leetcode.com/problems/lru-cache
+MEDIUM,Interval List Intersections,82.5,0.7224375574950332,https://leetcode.com/problems/interval-list-intersections
+HARD,Maximum Profit in Job Scheduling,82.5,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling

@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Decode the Message,100.0,0.8496698510817644,https://leetcode.com/problems/decode-the-message
+MEDIUM,Zigzag Iterator,95.4,0.6485291906134966,https://leetcode.com/problems/zigzag-iterator
+MEDIUM,Simple Bank System,95.4,0.6360117481282787,https://leetcode.com/problems/simple-bank-system
+HARD,Design In-Memory File System,89.7,0.4805692484300088,https://leetcode.com/problems/design-in-memory-file-system
+HARD,Text Justification,77.1,0.4625573039745261,https://leetcode.com/problems/text-justification
+MEDIUM,Design File System,77.1,0.6359392900764081,https://leetcode.com/problems/design-file-system
+MEDIUM,Time Based Key-Value Store,77.1,0.49284131134843906,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Number of Orders in the Backlog,70.5,0.5095024689821155,https://leetcode.com/problems/number-of-orders-in-the-backlog
+MEDIUM,Check if There is a Valid Partition For The Array,70.5,0.5193213949104618,https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array
+MEDIUM,Simplify Path,61.4,0.4559861598097899,https://leetcode.com/problems/simplify-path
+MEDIUM,Evaluate Division,61.4,0.6251132432759107,https://leetcode.com/problems/evaluate-division
+MEDIUM,Find the Length of the Longest Common Prefix,61.4,0.5619652393436256,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix

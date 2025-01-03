@@ -1,0 +1,24 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Minimum Deletions to Make Character Frequencies Unique,100.0,0.612938424887405,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
+MEDIUM,Minimum Number of Operations to Make Array XOR Equal to K,93.7,0.8587860435686523,https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k
+MEDIUM,Equal Sum Arrays With Minimum Number of Operations,93.7,0.5383825768592496,https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations
+MEDIUM,Maximum XOR After Operations ,93.7,0.7944125659305628,https://leetcode.com/problems/maximum-xor-after-operations
+MEDIUM,Maximize the Topmost Element After K Moves,93.7,0.23142527169889543,https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves
+HARD,Find a Value of a Mysterious Function Closest to Target,93.7,0.4558092575333955,https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target
+HARD,Maximum Equal Frequency,93.7,0.3727880367055625,https://leetcode.com/problems/maximum-equal-frequency
+EASY,Percentage of Letter in String,93.7,0.7417451563227447,https://leetcode.com/problems/percentage-of-letter-in-string
+HARD,Divide an Array Into Subarrays With Minimum Cost II,93.7,0.3087879454465464,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii
+EASY,Divide an Array Into Subarrays With Minimum Cost I,93.7,0.6599908466819222,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i
+MEDIUM,Ugly Number III,93.7,0.3005907797956676,https://leetcode.com/problems/ugly-number-iii
+EASY,Add Digits,77.1,0.6740000689168518,https://leetcode.com/problems/add-digits
+EASY,Two Sum,64.8,0.5450378284267283,https://leetcode.com/problems/two-sum
+MEDIUM,Minimum Fuel Cost to Report to the Capital,64.8,0.642002364045797,https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital
+EASY,Valid Palindrome,64.8,0.49533493974614756,https://leetcode.com/problems/valid-palindrome
+HARD,Trapping Rain Water,64.8,0.637327110360939,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,3Sum,64.8,0.3596107839332335,https://leetcode.com/problems/3sum
+MEDIUM,Second Highest Salary,55.1,0.4242437956428645,https://leetcode.com/problems/second-highest-salary
+EASY,Valid Parentheses,55.1,0.4150716190033602,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Reconstruct a 2-Row Binary Matrix,55.1,0.4716168996188056,https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix
+EASY,Longest Common Prefix,55.1,0.4441695020446017,https://leetcode.com/problems/longest-common-prefix
+EASY,Valid Anagram,55.1,0.6577862560480727,https://leetcode.com/problems/valid-anagram
+MEDIUM,Longest Substring Without Repeating Characters,55.1,0.3593550629823892,https://leetcode.com/problems/longest-substring-without-repeating-characters

@@ -1,0 +1,47 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Best Time to Buy and Sell Stock,100.0,0.5449246375153194,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Minimum Cost to Move Chips to The Same Position,92.5,0.7195437838501939,https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position
+MEDIUM,Find The Original Array of Prefix Xor,92.5,0.8802819226198336,https://leetcode.com/problems/find-the-original-array-of-prefix-xor
+MEDIUM,Best Team With No Conflicts,90.2,0.5035898432587546,https://leetcode.com/problems/best-team-with-no-conflicts
+EASY,The Employee That Worked on the Longest Task,90.2,0.5040648243011296,https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task
+EASY,Find Subarrays With Equal Sum,90.2,0.6567766327777393,https://leetcode.com/problems/find-subarrays-with-equal-sum
+HARD,Find the Longest Valid Obstacle Course at Each Position,90.2,0.6279000777445886,https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position
+MEDIUM,Minimum Number of Lines to Cover Points,90.2,0.42480916030534355,https://leetcode.com/problems/minimum-number-of-lines-to-cover-points
+MEDIUM,Merge Intervals,77.9,0.48439406967654164,https://leetcode.com/problems/merge-intervals
+EASY,Two Sum,77.9,0.545037602083936,https://leetcode.com/problems/two-sum
+HARD,Count Subarrays With Fixed Bounds,73.5,0.6777516212535288,https://leetcode.com/problems/count-subarrays-with-fixed-bounds
+EASY,Valid Parentheses,68.1,0.41507135087778624,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Substring Without Repeating Characters,68.1,0.35935502540304237,https://leetcode.com/problems/longest-substring-without-repeating-characters
+HARD,First Missing Positive,61.2,0.40310439457431746,https://leetcode.com/problems/first-missing-positive
+MEDIUM,LRU Cache,61.2,0.4393131094403791,https://leetcode.com/problems/lru-cache
+HARD,Minimum Number of Refueling Stops,61.2,0.4029947699790133,https://leetcode.com/problems/minimum-number-of-refueling-stops
+MEDIUM,Maximum Subarray,61.2,0.5149493229834755,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Longest Palindromic Substring,61.2,0.34945227606125395,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Copy List with Random Pointer,61.2,0.5874394146604996,https://leetcode.com/problems/copy-list-with-random-pointer
+MEDIUM,Jump Game,61.2,0.38965400111148957,https://leetcode.com/problems/jump-game
+MEDIUM,Kth Largest Element in an Array,61.2,0.6735620055926607,https://leetcode.com/problems/kth-largest-element-in-an-array
+EASY,Minimum Absolute Difference,51.5,0.7008933310600625,https://leetcode.com/problems/minimum-absolute-difference
+EASY,Subtree of Another Tree,51.5,0.49146686047506544,https://leetcode.com/problems/subtree-of-another-tree
+EASY,Reverse Linked List,51.5,0.7822931168808346,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Contiguous Array,51.5,0.48931864413224085,https://leetcode.com/problems/contiguous-array
+MEDIUM,Add Two Numbers,51.5,0.4487593231375926,https://leetcode.com/problems/add-two-numbers
+HARD,Count of Integers,51.5,0.34938896997796287,https://leetcode.com/problems/count-of-integers
+MEDIUM,Subarray Sum Equals K,51.5,0.4455158763858988,https://leetcode.com/problems/subarray-sum-equals-k
+EASY,Count Binary Substrings,51.5,0.6573337452691743,https://leetcode.com/problems/count-binary-substrings
+HARD,Minimum Number of Taps to Open to Water a Garden,51.5,0.5067444839239581,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+EASY,Next Greater Element I,51.5,0.7358696978356943,https://leetcode.com/problems/next-greater-element-i
+MEDIUM,Rotate List,51.5,0.3906436843339667,https://leetcode.com/problems/rotate-list
+MEDIUM,Letter Combinations of a Phone Number,51.5,0.6252872269736137,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+EASY,Sqrt(x),51.5,0.3975129398442389,https://leetcode.com/problems/sqrtx
+MEDIUM,Elimination Game,51.5,0.4535942345781067,https://leetcode.com/problems/elimination-game
+MEDIUM,Number of Closed Islands,51.5,0.6655246453348476,https://leetcode.com/problems/number-of-closed-islands
+EASY,Reverse String,51.5,0.7930059567593304,https://leetcode.com/problems/reverse-string
+MEDIUM,Steps to Make Array Non-decreasing,51.5,0.22593050278505294,https://leetcode.com/problems/steps-to-make-array-non-decreasing
+MEDIUM,Lowest Common Ancestor of a Binary Tree,51.5,0.6492093312169248,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+MEDIUM,House Robber,51.5,0.5179705576646991,https://leetcode.com/problems/house-robber
+MEDIUM,Reverse Words in a String,51.5,0.48477368833957774,https://leetcode.com/problems/reverse-words-in-a-string
+MEDIUM,Gas Station,51.5,0.45784292991414355,https://leetcode.com/problems/gas-station
+MEDIUM,Best Time to Buy and Sell Stock II,51.5,0.6834842131830176,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+MEDIUM,Decode Ways,51.5,0.3583670456138446,https://leetcode.com/problems/decode-ways
+MEDIUM,Sort Colors,51.5,0.6576631794792814,https://leetcode.com/problems/sort-colors
+HARD,Count of Range Sum,51.5,0.3636008659849277,https://leetcode.com/problems/count-of-range-sum

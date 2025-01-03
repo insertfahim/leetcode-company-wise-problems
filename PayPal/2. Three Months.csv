@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Minimum Absolute Difference,100.0,0.7008978404861399,https://leetcode.com/problems/minimum-absolute-difference
+MEDIUM,Zigzag Conversion,100.0,0.5014875153205979,https://leetcode.com/problems/zigzag-conversion
+MEDIUM,Random Pick with Weight,100.0,0.478396720254369,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,Maximal Square,100.0,0.47858813083475643,https://leetcode.com/problems/maximal-square
+MEDIUM,Number of Islands,87.3,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Product of Array Except Self,87.3,0.6710048369991132,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Find Peak Element,87.3,0.4622915245051413,https://leetcode.com/problems/find-peak-element
+HARD,Find Median from Data Stream,87.3,0.5268862241059148,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Coin Change,87.3,0.4539448902435652,https://leetcode.com/problems/coin-change
+MEDIUM,Spiral Matrix,87.3,0.5222655811136241,https://leetcode.com/problems/spiral-matrix
+EASY,Best Time to Buy and Sell Stock,87.3,0.544923437034376,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,LRU Cache,87.3,0.43931229996871723,https://leetcode.com/problems/lru-cache
+MEDIUM,Longest Increasing Subsequence,87.3,0.5682743939249515,https://leetcode.com/problems/longest-increasing-subsequence

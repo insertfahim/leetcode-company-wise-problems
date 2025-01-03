@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Count Vowel Substrings of a String,100.0,0.6923318802258271,https://leetcode.com/problems/count-vowel-substrings-of-a-string
+MEDIUM,Decode Ways,95.5,0.35836726745219616,https://leetcode.com/problems/decode-ways
+MEDIUM,Reach a Number,92.9,0.4352815390361251,https://leetcode.com/problems/reach-a-number
+MEDIUM,Longest Increasing Subsequence,86.5,0.5682756867689472,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Number of Longest Increasing Subsequence,82.5,0.4912027026262756,https://leetcode.com/problems/number-of-longest-increasing-subsequence
+HARD,Reverse Nodes in k-Group,77.5,0.6135055751214555,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Count Unreachable Pairs of Nodes in an Undirected Graph,77.5,0.49222720775095297,https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph
+MEDIUM,Minimum Number of Swaps to Make the Binary String Alternating,62.1,0.43584955988263535,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating
+MEDIUM,Rotating the Box,62.1,0.7919556938587133,https://leetcode.com/problems/rotating-the-box
+MEDIUM,Longest Palindromic Substring,62.1,0.34945204952531234,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Find Peak Element,62.1,0.46228998316751246,https://leetcode.com/problems/find-peak-element

@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,First Missing Positive,100.0,0.4031049228232956,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Jump Game,100.0,0.389654453348564,https://leetcode.com/problems/jump-game
+MEDIUM,Jump Game II,91.5,0.4094530729005436,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Spiral Matrix,91.5,0.522266666341019,https://leetcode.com/problems/spiral-matrix
+HARD,Reverse Nodes in k-Group,79.6,0.6135053599150075,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Find First and Last Position of Element in Sorted Array,79.6,0.4570995752720758,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+HARD,Trapping Rain Water,79.6,0.637327110360939,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Next Greater Element III,79.6,0.343491179612422,https://leetcode.com/problems/next-greater-element-iii
+MEDIUM,Permutations,79.6,0.7976515627525151,https://leetcode.com/problems/permutations
+MEDIUM,LRU Cache,79.6,0.4393138732579176,https://leetcode.com/problems/lru-cache
+EASY,Majority Element,79.6,0.6537515557923591,https://leetcode.com/problems/majority-element
+MEDIUM,Product of Array Except Self,79.6,0.6710052268284257,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Increasing Triplet Subsequence,79.6,0.3925165594418901,https://leetcode.com/problems/increasing-triplet-subsequence
+MEDIUM,Generate Parentheses,79.6,0.7608334829119269,https://leetcode.com/problems/generate-parentheses
+HARD,Minimum Window Substring,79.6,0.4424691535929988,https://leetcode.com/problems/minimum-window-substring

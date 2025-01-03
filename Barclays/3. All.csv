@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Count Submatrices with Top-Left Element and Sum Less Than k,100.0,0.5826700705811684,https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k
+MEDIUM,Double Modular Exponentiation,100.0,0.47980265850873605,https://leetcode.com/problems/double-modular-exponentiation
+EASY,Furthest Point From Origin,100.0,0.646877814470129,https://leetcode.com/problems/furthest-point-from-origin
+MEDIUM,Mark Elements on Array by Performing Queries,100.0,0.49230532865592913,https://leetcode.com/problems/mark-elements-on-array-by-performing-queries
+EASY,Two Sum,83.4,0.5450379237396731,https://leetcode.com/problems/two-sum
+MEDIUM,3Sum,71.2,0.3596108079250005,https://leetcode.com/problems/3sum
+MEDIUM,Permutations,71.2,0.7976515627525151,https://leetcode.com/problems/permutations
+HARD,Minimum Number of Refueling Stops,71.2,0.4029947699790133,https://leetcode.com/problems/minimum-number-of-refueling-stops
+HARD,Maximum Employees to Be Invited to a Meeting,71.2,0.3763138378129555,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting
+EASY,Isomorphic Strings,71.2,0.46092200787081294,https://leetcode.com/problems/isomorphic-strings
+EASY,Palindrome Linked List,71.2,0.5471520649473638,https://leetcode.com/problems/palindrome-linked-list
+MEDIUM,Maximum Subarray,61.5,0.5149494201225576,https://leetcode.com/problems/maximum-subarray
+EASY,Merge Sorted Array,61.5,0.5174781548795176,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Find K Pairs with Smallest Sums,61.5,0.40279667030503347,https://leetcode.com/problems/find-k-pairs-with-smallest-sums
+MEDIUM,Lexicographical Numbers,61.5,0.7284318774844707,https://leetcode.com/problems/lexicographical-numbers
+EASY,Valid Parentheses,61.5,0.41507158746460293,https://leetcode.com/problems/valid-parentheses

@@ -1,0 +1,54 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Palindrome Pairs,100.0,0.35838242028571005,https://leetcode.com/problems/palindrome-pairs
+MEDIUM,Flatten 2D Vector,92.3,0.49852546013877147,https://leetcode.com/problems/flatten-2d-vector
+MEDIUM,Combination Sum,91.3,0.734157776816848,https://leetcode.com/problems/combination-sum
+HARD,Text Justification,89.0,0.4625562871305861,https://leetcode.com/problems/text-justification
+MEDIUM,Smallest Common Region,87.8,0.6791497329616782,https://leetcode.com/problems/smallest-common-region
+HARD,Sliding Puzzle,86.5,0.7290578810402599,https://leetcode.com/problems/sliding-puzzle
+MEDIUM,Cheapest Flights Within K Stops,86.5,0.39879423303470807,https://leetcode.com/problems/cheapest-flights-within-k-stops
+HARD,Maximum Profit in Job Scheduling,86.5,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Pour Water,85.2,0.4748302669996834,https://leetcode.com/problems/pour-water
+HARD,Alien Dictionary,85.2,0.36263545601891617,https://leetcode.com/problems/alien-dictionary
+HARD,Trapping Rain Water,83.7,0.63732700121548,https://leetcode.com/problems/trapping-rain-water
+HARD,Minimum Window Substring,83.7,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
+HARD,Employee Free Time,78.7,0.7240852892108691,https://leetcode.com/problems/employee-free-time
+MEDIUM,IP to CIDR,78.7,0.558430821379852,https://leetcode.com/problems/ip-to-cidr
+HARD,Shortest Path to Get All Keys,78.7,0.535966279960889,https://leetcode.com/problems/shortest-path-to-get-all-keys
+MEDIUM,Pyramid Transition Matrix,76.8,0.528092369773641,https://leetcode.com/problems/pyramid-transition-matrix
+HARD,Word Search II,76.8,0.36838788593974686,https://leetcode.com/problems/word-search-ii
+MEDIUM,Basic Calculator II,76.8,0.4484148365525702,https://leetcode.com/problems/basic-calculator-ii
+EASY,Contains Duplicate II,76.8,0.4742416454531233,https://leetcode.com/problems/contains-duplicate-ii
+EASY,Two Sum,76.8,0.5450371824488353,https://leetcode.com/problems/two-sum
+MEDIUM,House Robber,76.8,0.5179714008460793,https://leetcode.com/problems/house-robber
+EASY,Intersection of Two Linked Lists,76.8,0.596737478147886,https://leetcode.com/problems/intersection-of-two-linked-lists
+EASY,Happy Number,74.7,0.572401132490335,https://leetcode.com/problems/happy-number
+EASY,Contains Duplicate,74.7,0.6254442538852341,https://leetcode.com/problems/contains-duplicate
+HARD,Regular Expression Matching,74.7,0.28716839080183115,https://leetcode.com/problems/regular-expression-matching
+EASY,Valid Parentheses,74.7,0.415070753001962,https://leetcode.com/problems/valid-parentheses
+HARD,Merge k Sorted Lists,74.7,0.5509065267556179,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Minimize Rounding Error to Meet Target,74.7,0.453076643000182,https://leetcode.com/problems/minimize-rounding-error-to-meet-target
+MEDIUM,Convert to Base -2,74.7,0.6095982142857143,https://leetcode.com/problems/convert-to-base-2
+MEDIUM,Design File System,74.7,0.6359392900764081,https://leetcode.com/problems/design-file-system
+EASY,Convert Sorted Array to Binary Search Tree,74.7,0.7318223417417465,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+MEDIUM,Strings Differ by One Character,74.7,0.4138828703553989,https://leetcode.com/problems/strings-differ-by-one-character
+MEDIUM,Minimum Number of Vertices to Reach All Nodes,74.7,0.8104960127063963,https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes
+MEDIUM,Robot Bounded In Circle,74.7,0.5602990036959304,https://leetcode.com/problems/robot-bounded-in-circle
+EASY,Add Strings,74.7,0.5162948572951066,https://leetcode.com/problems/add-strings
+HARD,Maximum Candies You Can Get from Boxes,74.7,0.5767140778572913,https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes
+HARD,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix,74.7,0.7240216340716062,https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix
+MEDIUM,Mini Parser,74.7,0.3928465972552091,https://leetcode.com/problems/mini-parser
+MEDIUM,Number of Ways to Build House of Cards,74.7,0.6279713824140318,https://leetcode.com/problems/number-of-ways-to-build-house-of-cards
+EASY,Single Number,74.7,0.7481650605837948,https://leetcode.com/problems/single-number
+MEDIUM,Add Two Numbers,74.7,0.4487589509657958,https://leetcode.com/problems/add-two-numbers
+EASY,Reverse Bits,74.7,0.6137302568761662,https://leetcode.com/problems/reverse-bits
+MEDIUM,Maximal Square,74.7,0.47858813083475643,https://leetcode.com/problems/maximal-square
+HARD,Contains Duplicate III,74.7,0.23221689545716168,https://leetcode.com/problems/contains-duplicate-iii
+MEDIUM,Simple Bank System,54.2,0.6360117481282787,https://leetcode.com/problems/simple-bank-system
+MEDIUM,Design Tic-Tac-Toe,47.8,0.5833920511685031,https://leetcode.com/problems/design-tic-tac-toe
+MEDIUM,Flatten Nested List Iterator,47.8,0.6498427715949796,https://leetcode.com/problems/flatten-nested-list-iterator
+MEDIUM,Coin Change,47.8,0.4539448902435652,https://leetcode.com/problems/coin-change
+MEDIUM,Shortest Path in Binary Matrix,47.8,0.48734273684736573,https://leetcode.com/problems/shortest-path-in-binary-matrix
+MEDIUM,Sort Integers by The Power Value,38.9,0.7034620441154987,https://leetcode.com/problems/sort-integers-by-the-power-value
+MEDIUM,Shortest Uncommon Substring in an Array,38.9,0.4661581557330507,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array
+MEDIUM,Merge Intervals,38.9,0.48439387780618604,https://leetcode.com/problems/merge-intervals
+MEDIUM,Time Based Key-Value Store,38.9,0.49284131134843906,https://leetcode.com/problems/time-based-key-value-store

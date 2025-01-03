@@ -1,0 +1,22 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Count Visited Nodes in a Directed Graph,100.0,0.3265970003166652,https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph
+MEDIUM,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,97.7,0.4115265867869379,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+MEDIUM,Sum of Distances,97.7,0.31100039518997347,https://leetcode.com/problems/sum-of-distances
+MEDIUM,Minimize Length of Array Using Operations,97.7,0.34743901299186836,https://leetcode.com/problems/minimize-length-of-array-using-operations
+MEDIUM,Group Anagrams,75.6,0.6992936741842406,https://leetcode.com/problems/group-anagrams
+HARD,Minimum Number of Taps to Open to Water a Garden,75.6,0.5067444839239581,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+EASY,Two Sum,68.7,0.5450381653268916,https://leetcode.com/problems/two-sum
+MEDIUM,Minimum Number of Groups to Create a Valid Assignment,68.7,0.24564025909317386,https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment
+MEDIUM,Gas Station,68.7,0.4578438507608824,https://leetcode.com/problems/gas-station
+MEDIUM,Remove Duplicate Letters,58.9,0.5051667393520577,https://leetcode.com/problems/remove-duplicate-letters
+HARD,Find the Count of Monotonic Pairs II,58.9,0.22867994840189193,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii
+EASY,Count Vowel Substrings of a String,58.9,0.6923318802258271,https://leetcode.com/problems/count-vowel-substrings-of-a-string
+EASY,Convert Binary Number in a Linked List to Integer,58.9,0.8117070253736226,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+MEDIUM,Coin Change,58.9,0.453944972675542,https://leetcode.com/problems/coin-change
+MEDIUM,Palindromic Substrings,58.9,0.7099837701839508,https://leetcode.com/problems/palindromic-substrings
+EASY,Move Zeroes,58.9,0.6235853297841902,https://leetcode.com/problems/move-zeroes
+MEDIUM,Longest Substring Without Repeating Characters,58.9,0.3593550721790214,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Best Time to Buy and Sell Stock,58.9,0.5449246132774022,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Reverse Words in a String III,58.9,0.8343854530171865,https://leetcode.com/problems/reverse-words-in-a-string-iii
+EASY,Roman to Integer,58.9,0.6354903109923724,https://leetcode.com/problems/roman-to-integer
+MEDIUM,3Sum,58.9,0.3596108971559481,https://leetcode.com/problems/3sum

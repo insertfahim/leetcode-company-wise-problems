@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Snapshot Array,100.0,0.3676087004750842,https://leetcode.com/problems/snapshot-array
+MEDIUM,Interval List Intersections,81.3,0.7224375574950332,https://leetcode.com/problems/interval-list-intersections
+MEDIUM,Basic Calculator II,81.3,0.44841500118765915,https://leetcode.com/problems/basic-calculator-ii
+HARD,Maximum Profit in Job Scheduling,76.5,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Guess the Word,76.5,0.38273548671767665,https://leetcode.com/problems/guess-the-word
+HARD,Merge k Sorted Lists,70.3,0.5509065716193635,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Non-overlapping Intervals,70.3,0.5458536043120717,https://leetcode.com/problems/non-overlapping-intervals
+EASY,Transpose Matrix,70.3,0.731391002178543,https://leetcode.com/problems/transpose-matrix
+EASY,Image Smoother,61.7,0.677705339444995,https://leetcode.com/problems/image-smoother
+MEDIUM,Time Based Key-Value Store,61.7,0.49284131134843906,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Remove Sub-Folders from the Filesystem,61.7,0.7562952971684225,https://leetcode.com/problems/remove-sub-folders-from-the-filesystem
+HARD,Basic Calculator III,61.7,0.5156493398466447,https://leetcode.com/problems/basic-calculator-iii
+MEDIUM,LRU Cache,61.7,0.4393138732579176,https://leetcode.com/problems/lru-cache

@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Move Zeroes,100.0,0.6235852215842742,https://leetcode.com/problems/move-zeroes
+MEDIUM,Add Two Numbers,93.8,0.4487594486029545,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Remove Zero Sum Consecutive Nodes from Linked List,93.8,0.5274435176439096,https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list
+MEDIUM,Find the Minimum and Maximum Number of Nodes Between Critical Points,85.9,0.6961656776625536,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points
+MEDIUM,Number of Good Leaf Nodes Pairs,85.9,0.7185392116545423,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs
+EASY,Best Time to Buy and Sell Stock,85.9,0.5449246132774022,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Merge Nodes in Between Zeros,85.9,0.8970952788210067,https://leetcode.com/problems/merge-nodes-in-between-zeros
+MEDIUM,Longest Substring Without Repeating Characters,74.7,0.35935505299305176,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Find the Substring With Maximum Cost,74.7,0.5695997614331054,https://leetcode.com/problems/find-the-substring-with-maximum-cost
+MEDIUM,Construct Smallest Number From DI String,74.7,0.7627125572269458,https://leetcode.com/problems/construct-smallest-number-from-di-string
+MEDIUM,Minimum Swaps to Group All 1's Together II,74.7,0.655391043323057,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii
+EASY,Count Pairs Whose Sum is Less than Target,74.7,0.8738930912050746,https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target
+HARD,Reverse Nodes in k-Group,74.7,0.6135055751214555,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Reverse Odd Levels of Binary Tree,74.7,0.8675417925144102,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree

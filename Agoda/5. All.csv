@@ -1,0 +1,40 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7094552479757533,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+MEDIUM,3Sum,91.4,0.3596104825594868,https://leetcode.com/problems/3sum
+MEDIUM,Longest Substring Without Repeating Characters,89.2,0.3593549870309955,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Find the Child Who Has the Ball After K Seconds,89.2,0.6187247918990818,https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds
+MEDIUM,Brick Wall,81.1,0.5565026897305866,https://leetcode.com/problems/brick-wall
+EASY,Best Time to Buy and Sell Stock,77.6,0.5449246375153194,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,House Robber,73.4,0.517970550536825,https://leetcode.com/problems/house-robber
+MEDIUM,Unique Paths II,68.3,0.42519957322839663,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,Triangle,68.3,0.5820304075735512,https://leetcode.com/problems/triangle
+HARD,Minimum Window Substring,61.7,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Group Anagrams,61.7,0.6992933210982177,https://leetcode.com/problems/group-anagrams
+MEDIUM,Coin Change,61.7,0.4539446557882389,https://leetcode.com/problems/coin-change
+MEDIUM,Permutation in String,52.5,0.46594269258314425,https://leetcode.com/problems/permutation-in-string
+MEDIUM,Min Stack,52.5,0.5551938118398295,https://leetcode.com/problems/min-stack
+MEDIUM,Insert Delete GetRandom O(1),52.5,0.5479306505781428,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Integer to Roman,52.5,0.6717646586688519,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Find the Smallest Divisor Given a Threshold,52.5,0.6206619122350464,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+EASY,Next Greater Element I,52.5,0.7358699141189495,https://leetcode.com/problems/next-greater-element-i
+MEDIUM,Decode String,52.5,0.6036416170670444,https://leetcode.com/problems/decode-string
+EASY,Minimum Absolute Difference,52.5,0.7008933310600625,https://leetcode.com/problems/minimum-absolute-difference
+EASY,Squares of a Sorted Array,52.5,0.7301760983447046,https://leetcode.com/problems/squares-of-a-sorted-array
+MEDIUM,Daily Temperatures,52.5,0.6670370120337453,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Merge Intervals,52.5,0.48439406967654164,https://leetcode.com/problems/merge-intervals
+MEDIUM,Longest Palindromic Substring,52.5,0.34945227606125395,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Move Zeroes,52.5,0.6235861261470103,https://leetcode.com/problems/move-zeroes
+MEDIUM,Reverse Substrings Between Each Pair of Parentheses,52.5,0.7173210644970021,https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses
+MEDIUM,Lexicographically Smallest String After Substring Operation,52.5,0.3219707695323561,https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation
+MEDIUM,Permutations,52.5,0.7976510878337442,https://leetcode.com/problems/permutations
+EASY,Last Stone Weight,52.5,0.6571614857464021,https://leetcode.com/problems/last-stone-weight
+MEDIUM,Jump Game II,52.5,0.4094526842694007,https://leetcode.com/problems/jump-game-ii
+EASY,Sort Array by Increasing Frequency,52.5,0.799776016161971,https://leetcode.com/problems/sort-array-by-increasing-frequency
+EASY,Can Place Flowers,52.5,0.2881867346588765,https://leetcode.com/problems/can-place-flowers
+HARD,Find Median from Data Stream,52.5,0.5268862241059148,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Kth Smallest Element in a BST,52.5,0.7427479431049675,https://leetcode.com/problems/kth-smallest-element-in-a-bst
+MEDIUM,Course Schedule,52.5,0.48040208054085576,https://leetcode.com/problems/course-schedule
+HARD,Word Ladder,52.5,0.4120904024050558,https://leetcode.com/problems/word-ladder
+EASY,Plus One,52.5,0.46691965324204887,https://leetcode.com/problems/plus-one
+EASY,Valid Parentheses,52.5,0.41507139532300263,https://leetcode.com/problems/valid-parentheses
+EASY,Merge Sorted Array,52.5,0.5174776942226911,https://leetcode.com/problems/merge-sorted-array

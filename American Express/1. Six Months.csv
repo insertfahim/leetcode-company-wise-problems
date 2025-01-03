@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Minimum Number of Operations to Make Array XOR Equal to K,100.0,0.8587860435686523,https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k
+MEDIUM,Minimum Deletions to Make Character Frequencies Unique,73.8,0.612938424887405,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
+HARD,Maximum Equal Frequency,64.9,0.3727880367055625,https://leetcode.com/problems/maximum-equal-frequency
+MEDIUM,Maximize the Topmost Element After K Moves,64.9,0.23142527169889543,https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves
+MEDIUM,Maximum XOR After Operations ,64.9,0.7944125659305628,https://leetcode.com/problems/maximum-xor-after-operations
+HARD,Find a Value of a Mysterious Function Closest to Target,64.9,0.4558092575333955,https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target
+MEDIUM,Equal Sum Arrays With Minimum Number of Operations,64.9,0.5383825768592496,https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations
+MEDIUM,Ugly Number III,64.9,0.3005907797956676,https://leetcode.com/problems/ugly-number-iii
+HARD,Divide an Array Into Subarrays With Minimum Cost II,64.9,0.3087879454465464,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii
+EASY,Percentage of Letter in String,64.9,0.7417451563227447,https://leetcode.com/problems/percentage-of-letter-in-string
+EASY,Divide an Array Into Subarrays With Minimum Cost I,64.9,0.6599908466819222,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i
+MEDIUM,Longest Substring Without Repeating Characters,64.9,0.35935504796430334,https://leetcode.com/problems/longest-substring-without-repeating-characters

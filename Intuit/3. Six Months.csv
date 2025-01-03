@@ -1,0 +1,29 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Valid Parentheses,100.0,0.4150710712998599,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Rotting Oranges,95.0,0.5552270788690786,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Course Schedule II,88.9,0.5213314490627796,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Word Break,81.1,0.4761083778436794,https://leetcode.com/problems/word-break
+EASY,Logger Rate Limiter,81.1,0.7624629224195769,https://leetcode.com/problems/logger-rate-limiter
+HARD,Maximum Total Beauty of the Gardens,70.1,0.29681490609013855,https://leetcode.com/problems/maximum-total-beauty-of-the-gardens
+MEDIUM,Coin Change,70.1,0.453944694150401,https://leetcode.com/problems/coin-change
+MEDIUM,Spiral Matrix,70.1,0.5222658592193944,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Zigzag Conversion,70.1,0.5014873550995985,https://leetcode.com/problems/zigzag-conversion
+MEDIUM,Design Circular Queue,70.1,0.5212501011349177,https://leetcode.com/problems/design-circular-queue
+HARD,Longest Valid Parentheses,70.1,0.3526399307559146,https://leetcode.com/problems/longest-valid-parentheses
+HARD,Get the Maximum Score,70.1,0.39764122495476784,https://leetcode.com/problems/get-the-maximum-score
+MEDIUM,Number of Operations to Make Network Connected,70.1,0.6378407469523643,https://leetcode.com/problems/number-of-operations-to-make-network-connected
+MEDIUM,Maximum Difference Score in a Grid,70.1,0.4691867852604828,https://leetcode.com/problems/maximum-difference-score-in-a-grid
+MEDIUM,Max Area of Island,70.1,0.7268940004770904,https://leetcode.com/problems/max-area-of-island
+MEDIUM,LRU Cache,70.1,0.43931282082485557,https://leetcode.com/problems/lru-cache
+MEDIUM,Destroy Sequential Targets,70.1,0.4000535574506653,https://leetcode.com/problems/destroy-sequential-targets
+EASY,Maximum Product of Three Numbers,70.1,0.45188315387304057,https://leetcode.com/problems/maximum-product-of-three-numbers
+MEDIUM,Number of Distinct Substrings in a String,70.1,0.6447675652727659,https://leetcode.com/problems/number-of-distinct-substrings-in-a-string
+HARD,Basic Calculator IV,70.1,0.5493126407050821,https://leetcode.com/problems/basic-calculator-iv
+MEDIUM,Number of Substrings With Fixed Ratio,70.1,0.5595446584938704,https://leetcode.com/problems/number-of-substrings-with-fixed-ratio
+MEDIUM,Most Profitable Path in a Tree,70.1,0.49647672606545157,https://leetcode.com/problems/most-profitable-path-in-a-tree
+MEDIUM,Length of the Longest Subsequence That Sums to Target,70.1,0.3631397147027793,https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target
+HARD,Make String Anti-palindrome,70.1,0.4969108561341571,https://leetcode.com/problems/make-string-anti-palindrome
+EASY,Middle of the Linked List,70.1,0.7978568900670711,https://leetcode.com/problems/middle-of-the-linked-list
+MEDIUM,Top K Frequent Elements,70.1,0.6375225221350656,https://leetcode.com/problems/top-k-frequent-elements
+HARD,Sudoku Solver,70.1,0.6353187693011552,https://leetcode.com/problems/sudoku-solver
+MEDIUM,Group Anagrams,70.1,0.6992933196419551,https://leetcode.com/problems/group-anagrams

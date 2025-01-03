@@ -1,0 +1,22 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Possible Bipartition,100.0,0.5100450743431018,https://leetcode.com/problems/possible-bipartition
+HARD,Design In-Memory File System,100.0,0.48056705621183154,https://leetcode.com/problems/design-in-memory-file-system
+MEDIUM,Unique Paths II,96.0,0.42519934989573543,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,LRU Cache,96.0,0.43931297922662327,https://leetcode.com/problems/lru-cache
+MEDIUM,Unique Paths,85.3,0.6516079980306344,https://leetcode.com/problems/unique-paths
+MEDIUM,Design Twitter,85.3,0.41268872476281665,https://leetcode.com/problems/design-twitter
+HARD,Regular Expression Matching,85.3,0.28716739243046585,https://leetcode.com/problems/regular-expression-matching
+MEDIUM,Number of Islands,77.8,0.6107404360169014,https://leetcode.com/problems/number-of-islands
+MEDIUM,Search a 2D Matrix,77.8,0.5146653293521513,https://leetcode.com/problems/search-a-2d-matrix
+HARD,LFU Cache,77.8,0.45428478596377225,https://leetcode.com/problems/lfu-cache
+MEDIUM,Course Schedule,67.2,0.4804021947305761,https://leetcode.com/problems/course-schedule
+HARD,Bus Routes,67.2,0.4718293910417715,https://leetcode.com/problems/bus-routes
+HARD,Maximum Number of Tasks You Can Assign,67.2,0.3369575738022262,https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign
+HARD,Number of Atoms,67.2,0.6503793822410421,https://leetcode.com/problems/number-of-atoms
+MEDIUM,Decode String,67.2,0.6036416170670444,https://leetcode.com/problems/decode-string
+MEDIUM,Search a 2D Matrix II,67.2,0.5401891368931583,https://leetcode.com/problems/search-a-2d-matrix-ii
+MEDIUM,Basic Calculator II,67.2,0.44841529233128374,https://leetcode.com/problems/basic-calculator-ii
+MEDIUM,Cheapest Flights Within K Stops,67.2,0.39879423303470807,https://leetcode.com/problems/cheapest-flights-within-k-stops
+MEDIUM,Subsets,67.2,0.7982075175950925,https://leetcode.com/problems/subsets
+MEDIUM,Word Break,67.2,0.47610825843115107,https://leetcode.com/problems/word-break
+HARD,Basic Calculator,67.2,0.4440986991413884,https://leetcode.com/problems/basic-calculator

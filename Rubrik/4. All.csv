@@ -1,0 +1,29 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Maximum Points After Enemy Battles,100.0,0.3208883205867451,https://leetcode.com/problems/maximum-points-after-enemy-battles
+HARD,Stamping the Grid,68.3,0.32722610529798585,https://leetcode.com/problems/stamping-the-grid
+MEDIUM,Count Lattice Points Inside a Circle,63.2,0.5410953427943234,https://leetcode.com/problems/count-lattice-points-inside-a-circle
+MEDIUM,Candy Crush,63.2,0.7709174665665524,https://leetcode.com/problems/candy-crush
+MEDIUM,Random Pick with Weight,63.2,0.4783963400035999,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,Alice and Bob Playing Flower Game,61.6,0.4788885295883956,https://leetcode.com/problems/alice-and-bob-playing-flower-game
+HARD,Find the Sum of Subsequence Powers,61.6,0.24131983842418195,https://leetcode.com/problems/find-the-sum-of-subsequence-powers
+EASY,Existence of a Substring in a String and Its Reverse,61.6,0.6617163775531428,https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse
+HARD,Distribute Candies Among Children III,61.6,0.4392655367231638,https://leetcode.com/problems/distribute-candies-among-children-iii
+MEDIUM,Distribute Candies Among Children II,61.6,0.3531625109303373,https://leetcode.com/problems/distribute-candies-among-children-ii
+EASY,Distribute Candies Among Children I,61.6,0.7455124191191816,https://leetcode.com/problems/distribute-candies-among-children-i
+MEDIUM,Find Longest Special Substring That Occurs Thrice II,61.6,0.38488873095544796,https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii
+MEDIUM,LRU Cache,59.8,0.4393131094403791,https://leetcode.com/problems/lru-cache
+HARD,Scramble String,55.6,0.41267137672982807,https://leetcode.com/problems/scramble-string
+MEDIUM,Insert Delete GetRandom O(1),53.1,0.5479309318249479,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Web Crawler Multithreaded,53.1,0.49542823261402114,https://leetcode.com/problems/web-crawler-multithreaded
+MEDIUM,Edit Distance,53.1,0.5783445669848835,https://leetcode.com/problems/edit-distance
+MEDIUM,4Sum,46.3,0.37199108770773326,https://leetcode.com/problems/4sum
+MEDIUM,Design Add and Search Words Data Structure,46.3,0.4637563470184798,https://leetcode.com/problems/design-add-and-search-words-data-structure
+MEDIUM,Next Permutation,41.5,0.41829523064329116,https://leetcode.com/problems/next-permutation
+HARD,Cherry Pickup II,34.8,0.7183214780456675,https://leetcode.com/problems/cherry-pickup-ii
+HARD,Alien Dictionary,34.8,0.3626351398479459,https://leetcode.com/problems/alien-dictionary
+HARD,Sliding Window Maximum,34.8,0.4707005691012809,https://leetcode.com/problems/sliding-window-maximum
+HARD,Minimum Number of Refueling Stops,34.8,0.4029947699790133,https://leetcode.com/problems/minimum-number-of-refueling-stops
+HARD,Design a Text Editor,34.8,0.466553546955557,https://leetcode.com/problems/design-a-text-editor
+MEDIUM,Design Bounded Blocking Queue,34.8,0.7268963692877455,https://leetcode.com/problems/design-bounded-blocking-queue
+MEDIUM,Task Scheduler,34.8,0.6072309135737819,https://leetcode.com/problems/task-scheduler
+HARD,Remove Invalid Parentheses,34.8,0.4876168221801534,https://leetcode.com/problems/remove-invalid-parentheses

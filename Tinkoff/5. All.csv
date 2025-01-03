@@ -1,0 +1,37 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3593549837240331,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Min Stack,88.2,0.5551940629281298,https://leetcode.com/problems/min-stack
+EASY,Two Sum,85.5,0.5450378060909996,https://leetcode.com/problems/two-sum
+MEDIUM,Keys and Rooms,82.4,0.7394402584645434,https://leetcode.com/problems/keys-and-rooms
+MEDIUM,Rotate Image,78.8,0.766357742821923,https://leetcode.com/problems/rotate-image
+EASY,Backspace String Compare,78.8,0.4934066638802828,https://leetcode.com/problems/backspace-string-compare
+MEDIUM,Longest Palindromic Substring,74.6,0.3494521478295882,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Find First and Last Position of Element in Sorted Array,74.6,0.4570991603266975,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Simplify Path,74.6,0.45598668959079836,https://leetcode.com/problems/simplify-path
+EASY,Form Smallest Number From Two Digit Arrays,69.5,0.543403795308613,https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays
+MEDIUM,Number of Islands,69.5,0.6107411193691994,https://leetcode.com/problems/number-of-islands
+MEDIUM,Battleships in a Board,69.5,0.760151801389844,https://leetcode.com/problems/battleships-in-a-board
+EASY,Find All Numbers Disappeared in an Array,69.5,0.616925900746945,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
+MEDIUM,Search a 2D Matrix,69.5,0.5146655294669352,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,Longest Subarray of 1's After Deleting One Element,69.5,0.6836721409398802,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element
+MEDIUM,Search in Rotated Sorted Array,62.8,0.4198437402022146,https://leetcode.com/problems/search-in-rotated-sorted-array
+EASY,Best Time to Buy and Sell Stock,62.8,0.5449248660743906,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Maximize Distance to Closest Person,62.8,0.4854080870649804,https://leetcode.com/problems/maximize-distance-to-closest-person
+MEDIUM,Daily Temperatures,62.8,0.6670373923794126,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Event Emitter,62.8,0.7406202507598785,https://leetcode.com/problems/event-emitter
+MEDIUM,Subarray Sums Divisible by K,62.8,0.5549438111997897,https://leetcode.com/problems/subarray-sums-divisible-by-k
+EASY,Squares of a Sorted Array,62.8,0.7301764818974655,https://leetcode.com/problems/squares-of-a-sorted-array
+MEDIUM,Count Square Submatrices with All Ones,62.8,0.7844390550700884,https://leetcode.com/problems/count-square-submatrices-with-all-ones
+MEDIUM,Decode String,62.8,0.6036418751184107,https://leetcode.com/problems/decode-string
+EASY,Minimum Difference Between Highest and Lowest of K Scores,53.5,0.5782917371730429,https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores
+MEDIUM,Paint House,53.5,0.6319346404854427,https://leetcode.com/problems/paint-house
+MEDIUM,Subarray Sum Equals K,53.5,0.44551564815087735,https://leetcode.com/problems/subarray-sum-equals-k
+EASY,Isomorphic Strings,53.5,0.46092180726634824,https://leetcode.com/problems/isomorphic-strings
+MEDIUM,Line Reflection,53.5,0.35815451183618024,https://leetcode.com/problems/line-reflection
+EASY,Is Subsequence,53.5,0.4813636146255666,https://leetcode.com/problems/is-subsequence
+MEDIUM,Remove Nth Node From End of List,53.5,0.47526593912823517,https://leetcode.com/problems/remove-nth-node-from-end-of-list
+EASY,Valid Parentheses,53.5,0.41507156165182957,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Meeting Rooms II,53.5,0.5177049026734343,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Department Highest Salary,53.5,0.5343417963141269,https://leetcode.com/problems/department-highest-salary
+EASY,Monotonic Array,53.5,0.6147843434740219,https://leetcode.com/problems/monotonic-array
+EASY,Merge Sorted Array,53.5,0.5174780487101976,https://leetcode.com/problems/merge-sorted-array

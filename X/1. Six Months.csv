@@ -1,0 +1,50 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Binary Gap,100.0,0.6416055317841861,https://leetcode.com/problems/binary-gap
+MEDIUM,Count Student Number in Departments,100.0,0.594583518036818,https://leetcode.com/problems/count-student-number-in-departments
+MEDIUM,Number of Black Blocks,100.0,0.36783251030486064,https://leetcode.com/problems/number-of-black-blocks
+EASY,Happy Number,100.0,0.5724017543051088,https://leetcode.com/problems/happy-number
+EASY,Customer Placing the Largest Number of Orders,100.0,0.6454939542952683,https://leetcode.com/problems/customer-placing-the-largest-number-of-orders
+MEDIUM,Investments in 2016,100.0,0.49503898470588587,https://leetcode.com/problems/investments-in-2016
+EASY,Reverse Linked List,100.0,0.7822930814562448,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Implement Trie (Prefix Tree),100.0,0.670010578455768,https://leetcode.com/problems/implement-trie-prefix-tree
+MEDIUM,Validate IP Address,100.0,0.27615757038158184,https://leetcode.com/problems/validate-ip-address
+MEDIUM,Flatten Nested List Iterator,100.0,0.6498427715949796,https://leetcode.com/problems/flatten-nested-list-iterator
+MEDIUM,Masking Personal Information,100.0,0.4981228551028398,https://leetcode.com/problems/masking-personal-information
+HARD,The Skyline Problem,100.0,0.43379989881031455,https://leetcode.com/problems/the-skyline-problem
+MEDIUM,Process Tasks Using Servers,100.0,0.4070978037844821,https://leetcode.com/problems/process-tasks-using-servers
+MEDIUM,Tree Node,100.0,0.7329080503124026,https://leetcode.com/problems/tree-node
+MEDIUM,Design Twitter,100.0,0.41268872476281665,https://leetcode.com/problems/design-twitter
+MEDIUM,Remove All Occurrences of a Substring,100.0,0.7826311008165412,https://leetcode.com/problems/remove-all-occurrences-of-a-substring
+MEDIUM,Lowest Common Ancestor of a Binary Search Tree,100.0,0.6685035920561466,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+MEDIUM,Design Authentication Manager,100.0,0.5802996080515512,https://leetcode.com/problems/design-authentication-manager
+MEDIUM,Count Sub Islands,100.0,0.7282439710877462,https://leetcode.com/problems/count-sub-islands
+EASY,Pascal's Triangle,100.0,0.7598852853397601,https://leetcode.com/problems/pascals-triangle
+MEDIUM,Minimum Elements to Add to Form a Given Sum,100.0,0.440504245688849,https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum
+MEDIUM,Kth Smallest Element in a Sorted Matrix,100.0,0.6304196547019361,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
+MEDIUM,Flatten 2D Vector,100.0,0.49852546013877147,https://leetcode.com/problems/flatten-2d-vector
+MEDIUM,Rectangles Area,100.0,0.6856456997111886,https://leetcode.com/problems/rectangles-area
+MEDIUM,Number of Connected Components in an Undirected Graph,100.0,0.6352693147632789,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
+HARD,Regular Expression Matching,100.0,0.2871676996209158,https://leetcode.com/problems/regular-expression-matching
+MEDIUM,Tweet Counts Per Frequency,100.0,0.4495638762523167,https://leetcode.com/problems/tweet-counts-per-frequency
+HARD,Word Break II,100.0,0.5245542784239083,https://leetcode.com/problems/word-break-ii
+MEDIUM,Integer to Roman,100.0,0.6717640921057799,https://leetcode.com/problems/integer-to-roman
+HARD,Alien Dictionary,100.0,0.36263545601891617,https://leetcode.com/problems/alien-dictionary
+MEDIUM,LRU Cache,100.0,0.43931297922662327,https://leetcode.com/problems/lru-cache
+EASY,Time Needed to Buy Tickets,100.0,0.7014097741548387,https://leetcode.com/problems/time-needed-to-buy-tickets
+EASY,Valid Parentheses,100.0,0.4150713379713469,https://leetcode.com/problems/valid-parentheses
+HARD,Max Points on a Line,100.0,0.2803645522780964,https://leetcode.com/problems/max-points-on-a-line
+HARD,Merge k Sorted Lists,100.0,0.550907069843217,https://leetcode.com/problems/merge-k-sorted-lists
+HARD,Trapping Rain Water II,100.0,0.48636026007590627,https://leetcode.com/problems/trapping-rain-water-ii
+MEDIUM,Finding the Users Active Minutes,100.0,0.8044138253152733,https://leetcode.com/problems/finding-the-users-active-minutes
+MEDIUM,One Edit Distance,100.0,0.3442214858000498,https://leetcode.com/problems/one-edit-distance
+EASY,Invalid Tweets,100.0,0.8564603415761318,https://leetcode.com/problems/invalid-tweets
+HARD,Best Meeting Point,100.0,0.6113123814350384,https://leetcode.com/problems/best-meeting-point
+HARD,Trapping Rain Water,100.0,0.6373269761547354,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Multiply Strings,100.0,0.4147882183129358,https://leetcode.com/problems/multiply-strings
+HARD,Wildcard Matching,100.0,0.29039943485755765,https://leetcode.com/problems/wildcard-matching
+MEDIUM,Minimum Genetic Mutation,100.0,0.5480535887337327,https://leetcode.com/problems/minimum-genetic-mutation
+MEDIUM,Merge Intervals,100.0,0.48439406435259774,https://leetcode.com/problems/merge-intervals
+HARD,Design Skiplist,100.0,0.6173812773568033,https://leetcode.com/problems/design-skiplist
+HARD,Permutation Sequence,100.0,0.4867017979261366,https://leetcode.com/problems/permutation-sequence
+MEDIUM,Minimum Number of Steps to Make Two Strings Anagram,100.0,0.8211011461270433,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.5479315927305727,https://leetcode.com/problems/insert-delete-getrandom-o1

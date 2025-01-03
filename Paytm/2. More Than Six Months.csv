@@ -1,0 +1,23 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Min Stack,100.0,0.5551940629281298,https://leetcode.com/problems/min-stack
+MEDIUM,Next Permutation,94.9,0.41829542305832024,https://leetcode.com/problems/next-permutation
+MEDIUM,Linked List Cycle II,88.7,0.5337373970627151,https://leetcode.com/problems/linked-list-cycle-ii
+MEDIUM,3Sum,80.7,0.3596105785268592,https://leetcode.com/problems/3sum
+HARD,Trapping Rain Water,80.7,0.6373267193380583,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Container With Most Water,80.7,0.567266952658218,https://leetcode.com/problems/container-with-most-water
+EASY,Move Zeroes,80.7,0.623585781083319,https://leetcode.com/problems/move-zeroes
+MEDIUM,Find the Duplicate Number,69.4,0.6200871750795373,https://leetcode.com/problems/find-the-duplicate-number
+EASY,Reverse Linked List,69.4,0.7822931667114138,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Largest Number,69.4,0.40500247721710925,https://leetcode.com/problems/largest-number
+MEDIUM,Coin Change II,69.4,0.6370747596491274,https://leetcode.com/problems/coin-change-ii
+MEDIUM,Number of Operations to Make Network Connected,69.4,0.6378407469523643,https://leetcode.com/problems/number-of-operations-to-make-network-connected
+MEDIUM,Coin Change,69.4,0.45394461742619285,https://leetcode.com/problems/coin-change
+EASY,Unique Number of Occurrences,69.4,0.7782197681180303,https://leetcode.com/problems/unique-number-of-occurrences
+EASY,Palindrome Number,69.4,0.5816772743360251,https://leetcode.com/problems/palindrome-number
+MEDIUM,Product of Array Except Self,69.4,0.6710049606115683,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Find Minimum in Rotated Sorted Array,69.4,0.5180761853385828,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+MEDIUM,LRU Cache,69.4,0.43931293357650353,https://leetcode.com/problems/lru-cache
+MEDIUM,Longest Consecutive Sequence,69.4,0.47698775630623985,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Word Search,69.4,0.4418594364461271,https://leetcode.com/problems/word-search
+MEDIUM,Permutations,69.4,0.7976511556794194,https://leetcode.com/problems/permutations
+MEDIUM,Reverse Words in a String,69.4,0.48477406821819025,https://leetcode.com/problems/reverse-words-in-a-string

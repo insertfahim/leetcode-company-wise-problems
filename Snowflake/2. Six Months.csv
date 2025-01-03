@@ -1,0 +1,25 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,String Transformation,100.0,0.30096546602302265,https://leetcode.com/problems/string-transformation
+HARD,Trapping Rain Water,96.6,0.6373269761547354,https://leetcode.com/problems/trapping-rain-water
+HARD,Number of Ways to Form a Target String Given a Dictionary,92.7,0.5756844560710946,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary
+HARD,Painting the Walls,92.7,0.503545992952995,https://leetcode.com/problems/painting-the-walls
+MEDIUM,Maximum Number of Upgradable Servers,88.1,0.44717588527948493,https://leetcode.com/problems/maximum-number-of-upgradable-servers
+HARD,Maximum Profit in Job Scheduling,88.1,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+EASY,Happy Number,88.1,0.5724017055919531,https://leetcode.com/problems/happy-number
+MEDIUM,Course Schedule,75.2,0.4804021845862543,https://leetcode.com/problems/course-schedule
+MEDIUM,Course Schedule II,75.2,0.5213314490627796,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Find the Maximum Length of a Good Subsequence I,75.2,0.30788676248966956,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i
+EASY,Count Vowel Substrings of a String,75.2,0.6923318802258271,https://leetcode.com/problems/count-vowel-substrings-of-a-string
+EASY,Design HashMap,75.2,0.6560778990236517,https://leetcode.com/problems/design-hashmap
+MEDIUM,Min Stack,64.9,0.5551935607512457,https://leetcode.com/problems/min-stack
+HARD,Regular Expression Matching,64.9,0.2871675460256087,https://leetcode.com/problems/regular-expression-matching
+MEDIUM,Random Pick with Weight,64.9,0.4783963022508038,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,Container With Most Water,64.9,0.5672667297128677,https://leetcode.com/problems/container-with-most-water
+HARD,Merge k Sorted Lists,64.9,0.550907069843217,https://leetcode.com/problems/merge-k-sorted-lists
+HARD,Minimum Window Substring,64.9,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
+EASY,Leaf-Similar Trees,64.9,0.7003474626334746,https://leetcode.com/problems/leaf-similar-trees
+HARD,Word Search II,64.9,0.3683882028354497,https://leetcode.com/problems/word-search-ii
+MEDIUM,Maximum Number of Removable Characters,64.9,0.4482286875741033,https://leetcode.com/problems/maximum-number-of-removable-characters
+HARD,Find the Maximum Length of a Good Subsequence II,64.9,0.2393385837064148,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii
+MEDIUM,Minimum Array Length After Pair Removals,64.9,0.2359784080650015,https://leetcode.com/problems/minimum-array-length-after-pair-removals
+EASY,Calculate Amount Paid in Taxes,64.9,0.6654973301875077,https://leetcode.com/problems/calculate-amount-paid-in-taxes

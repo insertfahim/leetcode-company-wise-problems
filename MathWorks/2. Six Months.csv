@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Pass the Pillow,100.0,0.5675506541013964,https://leetcode.com/problems/pass-the-pillow
+HARD,Count Subarrays With Fixed Bounds,100.0,0.6777516212535288,https://leetcode.com/problems/count-subarrays-with-fixed-bounds
+MEDIUM,Total Cost to Hire K Workers,86.6,0.42771688861747686,https://leetcode.com/problems/total-cost-to-hire-k-workers
+HARD,Minimum Edge Reversals So Every Node Is Reachable,86.6,0.572940063837333,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable
+MEDIUM,Remove Colored Pieces if Both Neighbors are the Same Color,76.0,0.6281772335509116,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color
+MEDIUM,Minimum Cost Tree From Leaf Values,76.0,0.6769583304400523,https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
+HARD,Last Substring in Lexicographical Order,76.0,0.34526769591483647,https://leetcode.com/problems/last-substring-in-lexicographical-order
+HARD,Count Anagrams,76.0,0.34261522130884503,https://leetcode.com/problems/count-anagrams
+EASY,Keyboard Row,76.0,0.7174346201743462,https://leetcode.com/problems/keyboard-row
+MEDIUM,Maximum Palindromes After Operations,76.0,0.4266732283464567,https://leetcode.com/problems/maximum-palindromes-after-operations
+EASY,Reshape the Matrix,76.0,0.6356330644083047,https://leetcode.com/problems/reshape-the-matrix
+MEDIUM,Maximum Number of Alloys,76.0,0.38679864653300344,https://leetcode.com/problems/maximum-number-of-alloys
+HARD,Earliest Second to Mark Indices II,76.0,0.20596246973365617,https://leetcode.com/problems/earliest-second-to-mark-indices-ii
+MEDIUM,Earliest Second to Mark Indices I,76.0,0.3543499704083646,https://leetcode.com/problems/earliest-second-to-mark-indices-i
+HARD,String Transformation,76.0,0.30096546602302265,https://leetcode.com/problems/string-transformation

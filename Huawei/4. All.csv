@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Minimum Number of Visited Cells in a Grid,100.0,0.2339708651273412,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid
+MEDIUM,Maximum Binary String After Change,100.0,0.4690644679607869,https://leetcode.com/problems/maximum-binary-string-after-change
+EASY,Valid Parentheses,87.7,0.41507138959708056,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Decode String,87.7,0.6036416170670444,https://leetcode.com/problems/decode-string
+EASY,Two Sum,83.3,0.545037665786198,https://leetcode.com/problems/two-sum
+MEDIUM,Number of Islands,83.3,0.6107408156573632,https://leetcode.com/problems/number-of-islands
+MEDIUM,Combination Sum,71.0,0.7341585454592183,https://leetcode.com/problems/combination-sum
+MEDIUM,Largest Number,71.0,0.40500247721710925,https://leetcode.com/problems/largest-number
+MEDIUM,Generate Parentheses,71.0,0.7608329853085884,https://leetcode.com/problems/generate-parentheses
+EASY,Merge Two Sorted Lists,71.0,0.6585743963034119,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Longest Palindromic Substring,71.0,0.3494522413278998,https://leetcode.com/problems/longest-palindromic-substring
+HARD,24 Game,61.3,0.49658314350797267,https://leetcode.com/problems/24-game
+MEDIUM,Maximum Subarray,61.3,0.5149492607546071,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Daily Temperatures,61.3,0.6670372025248309,https://leetcode.com/problems/daily-temperatures

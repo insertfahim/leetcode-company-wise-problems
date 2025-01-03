@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Minimum Time to Revert Word to Initial State II,100.0,0.3484980083260954,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii
+MEDIUM,Minimum Time to Revert Word to Initial State I,100.0,0.4116120406598376,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i
+HARD,Create Components With Same Value,100.0,0.532940719647942,https://leetcode.com/problems/create-components-with-same-value
+MEDIUM,Maximum Subarray Sum After One Operation,100.0,0.6541510221109721,https://leetcode.com/problems/maximum-subarray-sum-after-one-operation
+HARD,Minimum Edge Weight Equilibrium Queries in a Tree,100.0,0.4417935812798222,https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree
+MEDIUM,Apply Bitwise Operations to Make Strings Equal,100.0,0.41619194145286703,https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal
+HARD,Number of Great Partitions,100.0,0.3223809672679526,https://leetcode.com/problems/number-of-great-partitions
+HARD,Count the Number of Powerful Integers,100.0,0.2648269777472797,https://leetcode.com/problems/count-the-number-of-powerful-integers
+MEDIUM,Number of Same-End Substrings,100.0,0.6170886075949367,https://leetcode.com/problems/number-of-same-end-substrings
+HARD,Apply Operations on Array to Maximize Sum of Squares,100.0,0.4538524026744986,https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares
+HARD,Maximize Score After N Operations,100.0,0.5779859696763974,https://leetcode.com/problems/maximize-score-after-n-operations
+MEDIUM,Choose Edges to Maximize Score in a Tree,100.0,0.5840861709520501,https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree
+HARD,Closest Subsequence Sum,100.0,0.4060182823963278,https://leetcode.com/problems/closest-subsequence-sum
+MEDIUM,Next Greater Numerically Balanced Number,100.0,0.48806670824989323,https://leetcode.com/problems/next-greater-numerically-balanced-number
+HARD,First Missing Positive,100.0,0.40310455833961717,https://leetcode.com/problems/first-missing-positive

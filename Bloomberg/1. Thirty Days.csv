@@ -1,0 +1,48 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.5479315083048156,https://leetcode.com/problems/insert-delete-getrandom-o1
+EASY,Two Sum,95.4,0.5450370012569495,https://leetcode.com/problems/two-sum
+MEDIUM,Add Two Numbers,95.4,0.44875892478860463,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Merge Intervals,95.4,0.48439386715814914,https://leetcode.com/problems/merge-intervals
+MEDIUM,Invalid Transactions,90.0,0.31151595297762125,https://leetcode.com/problems/invalid-transactions
+EASY,Merge Sorted Array,90.0,0.5174770563178255,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Sort Integers by The Power Value,83.4,0.7034620441154987,https://leetcode.com/problems/sort-integers-by-the-power-value
+HARD,Trapping Rain Water,83.4,0.6373268168868195,https://leetcode.com/problems/trapping-rain-water
+EASY,Maximum Nesting Depth of the Parentheses,83.4,0.8406872522641045,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses
+EASY,Remove Letter To Equalize Frequency,83.4,0.1759757199720536,https://leetcode.com/problems/remove-letter-to-equalize-frequency
+MEDIUM,Remove All Adjacent Duplicates in String II,83.4,0.5880057923115006,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii
+MEDIUM,Meeting Rooms II,74.9,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+EASY,Valid Parentheses,74.9,0.4150708791571594,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Best Sightseeing Pair,74.9,0.6249006165763568,https://leetcode.com/problems/best-sightseeing-pair
+EASY,Check if All Characters Have Equal Number of Occurrences,74.9,0.7825626568570152,https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences
+MEDIUM,Maximum Subarray,74.9,0.5149490767200227,https://leetcode.com/problems/maximum-subarray
+EASY,Remove Duplicates from Sorted Array,74.9,0.5868531391395282,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+MEDIUM,Number of Islands,74.9,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+HARD,Maximum Sum of 3 Non-Overlapping Subarrays,74.9,0.5927738616242942,https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays
+EASY,Reverse Linked List,74.9,0.7822929962008814,https://leetcode.com/problems/reverse-linked-list
+HARD,Word Break II,74.9,0.5245542784239083,https://leetcode.com/problems/word-break-ii
+EASY,Merge Two Sorted Lists,74.9,0.6585742426370583,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Subsets,74.9,0.7982072326382368,https://leetcode.com/problems/subsets
+MEDIUM,Frequency of the Most Frequent Element,63.0,0.44009835210550496,https://leetcode.com/problems/frequency-of-the-most-frequent-element
+HARD,Count the Number of Arrays with K Matching Adjacent Elements,63.0,0.33990706109033214,https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements
+EASY,Defanging an IP Address,63.0,0.8945563014540856,https://leetcode.com/problems/defanging-an-ip-address
+MEDIUM,Search a 2D Matrix,63.0,0.514665586452246,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,Container With Most Water,63.0,0.5672666007520818,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Sort Colors,63.0,0.657662631062609,https://leetcode.com/problems/sort-colors
+MEDIUM,Longest Consecutive Sequence,63.0,0.4769875559354364,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Binary Tree Zigzag Level Order Traversal,63.0,0.6057800259691813,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+MEDIUM,Find First and Last Position of Element in Sorted Array,63.0,0.4570987507473561,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+EASY,Find the Index of the First Occurrence in a String,63.0,0.4406802846980358,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+EASY,Create Hello World Function,63.0,0.817035290118342,https://leetcode.com/problems/create-hello-world-function
+MEDIUM,Find Score of an Array After Marking All Elements,63.0,0.6494244714023547,https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements
+HARD,Median of Two Sorted Arrays,63.0,0.4230793502036668,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Find Largest Value in Each Tree Row,63.0,0.6642110875442849,https://leetcode.com/problems/find-largest-value-in-each-tree-row
+MEDIUM,Insert Interval,63.0,0.4263983441485063,https://leetcode.com/problems/insert-interval
+EASY,Contains Duplicate,63.0,0.6254443381606594,https://leetcode.com/problems/contains-duplicate
+MEDIUM,Count Beautiful Splits in an Array,63.0,0.14537671232876712,https://leetcode.com/problems/count-beautiful-splits-in-an-array
+EASY,Is Subsequence,63.0,0.4813627870014961,https://leetcode.com/problems/is-subsequence
+MEDIUM,Minimum Limit of Balls in a Bag,63.0,0.6799946973405123,https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag
+EASY,Palindrome Number,63.0,0.5816770440476622,https://leetcode.com/problems/palindrome-number
+MEDIUM,Combination Sum,63.0,0.7341575206017368,https://leetcode.com/problems/combination-sum
+HARD,Number of Ships in a Rectangle,63.0,0.6873990858026516,https://leetcode.com/problems/number-of-ships-in-a-rectangle
+MEDIUM,Word Search,63.0,0.44185947952859245,https://leetcode.com/problems/word-search
+EASY,Valid Anagram,63.0,0.6577869904836231,https://leetcode.com/problems/valid-anagram

@@ -1,0 +1,27 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Reachable Nodes With Restrictions,100.0,0.5924451081245506,https://leetcode.com/problems/reachable-nodes-with-restrictions
+MEDIUM,Longest Ideal Subsequence,100.0,0.47069633734245125,https://leetcode.com/problems/longest-ideal-subsequence
+HARD,Sum Of Special Evenly-Spaced Elements In Array,100.0,0.4889402443050512,https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array
+MEDIUM,Length of Longest Subarray With at Most K Frequency,100.0,0.558338720103426,https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency
+HARD,First Missing Positive,91.2,0.4031049228232956,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Cheapest Flights Within K Stops,77.3,0.39879423303470807,https://leetcode.com/problems/cheapest-flights-within-k-stops
+MEDIUM,Jump Game,77.3,0.389654453348564,https://leetcode.com/problems/jump-game
+MEDIUM,Spiral Matrix,70.2,0.522266666341019,https://leetcode.com/problems/spiral-matrix
+HARD,Minimum Window Substring,70.2,0.4424691535929988,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Jump Game II,70.2,0.4094530729005436,https://leetcode.com/problems/jump-game-ii
+HARD,Trapping Rain Water,70.2,0.637327110360939,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Generate Parentheses,70.2,0.7608334829119269,https://leetcode.com/problems/generate-parentheses
+MEDIUM,Merge Intervals,60.2,0.4843935845741031,https://leetcode.com/problems/merge-intervals
+MEDIUM,Product of Array Except Self,60.2,0.6710052268284257,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Maximum Product Subarray,60.2,0.3430086283653834,https://leetcode.com/problems/maximum-product-subarray
+MEDIUM,Longest Substring Without Repeating Characters,60.2,0.3593551380727703,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Best Time to Buy and Sell Stock,60.2,0.5449246391968489,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Longest Valid Parentheses,60.2,0.35264112989623186,https://leetcode.com/problems/longest-valid-parentheses
+EASY,Majority Element,60.2,0.6537515557923591,https://leetcode.com/problems/majority-element
+MEDIUM,Increasing Triplet Subsequence,60.2,0.3925165594418901,https://leetcode.com/problems/increasing-triplet-subsequence
+HARD,Reverse Nodes in k-Group,60.2,0.6135053599150075,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,LRU Cache,60.2,0.4393138732579176,https://leetcode.com/problems/lru-cache
+MEDIUM,Permutations,60.2,0.797651630597872,https://leetcode.com/problems/permutations
+MEDIUM,Next Greater Element III,60.2,0.343491179612422,https://leetcode.com/problems/next-greater-element-iii
+MEDIUM,Find First and Last Position of Element in Sorted Array,60.2,0.4570995752720758,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Evaluate Division,60.2,0.6251129552311654,https://leetcode.com/problems/evaluate-division

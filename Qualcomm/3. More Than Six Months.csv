@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Reverse Linked List,100.0,0.7822931168808346,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,LRU Cache,91.2,0.43931297922662327,https://leetcode.com/problems/lru-cache
+EASY,Valid Parentheses,91.2,0.4150713824165711,https://leetcode.com/problems/valid-parentheses
+EASY,Palindrome Number,78.8,0.5816769810386204,https://leetcode.com/problems/palindrome-number
+MEDIUM,Longest Substring Without Repeating Characters,78.8,0.3593550487569805,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Palindrome Linked List,78.8,0.547152476831458,https://leetcode.com/problems/palindrome-linked-list
+EASY,Single Number,78.8,0.7481655728434717,https://leetcode.com/problems/single-number
+EASY,Power of Two,78.8,0.48098569772420546,https://leetcode.com/problems/power-of-two
+EASY,Number of 1 Bits,78.8,0.7321092978446293,https://leetcode.com/problems/number-of-1-bits
+MEDIUM,Rotate Image,78.8,0.7663569843088811,https://leetcode.com/problems/rotate-image
+MEDIUM,Rectangle Area,78.8,0.4696746916095355,https://leetcode.com/problems/rectangle-area
+EASY,Find Winner on a Tic Tac Toe Game,78.8,0.5400791243671768,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game
+MEDIUM,Min Stack,78.8,0.555193686295573,https://leetcode.com/problems/min-stack
+EASY,Climbing Stairs,78.8,0.5326792935769163,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Maximum Subarray,78.8,0.5149493229834755,https://leetcode.com/problems/maximum-subarray
+HARD,Reverse Nodes in k-Group,78.8,0.613504499086819,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Swap Nodes in Pairs,78.8,0.6602517062273011,https://leetcode.com/problems/swap-nodes-in-pairs

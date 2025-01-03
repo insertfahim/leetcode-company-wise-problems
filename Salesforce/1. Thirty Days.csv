@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,LFU Cache,100.0,0.45428478596377225,https://leetcode.com/problems/lfu-cache
+MEDIUM,K-diff Pairs in an Array,88.6,0.4388450380360643,https://leetcode.com/problems/k-diff-pairs-in-an-array
+MEDIUM,Palindromic Substrings,88.6,0.7099839709545972,https://leetcode.com/problems/palindromic-substrings
+MEDIUM,Maximum Number of Occurrences of a Substring,88.6,0.5263140215483578,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+MEDIUM,String Compression,88.6,0.5666217027523721,https://leetcode.com/problems/string-compression
+MEDIUM,Meeting Rooms II,88.6,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Subarray Product Less Than K,88.6,0.5214636236934599,https://leetcode.com/problems/subarray-product-less-than-k
+MEDIUM,Game of Life,88.6,0.7054349379137028,https://leetcode.com/problems/game-of-life

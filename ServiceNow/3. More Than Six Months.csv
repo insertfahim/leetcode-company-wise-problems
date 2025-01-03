@@ -1,0 +1,60 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Subarray Product Less Than K,100.0,0.5214641735241873,https://leetcode.com/problems/subarray-product-less-than-k
+EASY,Valid Parentheses,96.2,0.41507129352611594,https://leetcode.com/problems/valid-parentheses
+HARD,Trapping Rain Water,96.2,0.6373269761547354,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Group Anagrams,94.0,0.6992936294767401,https://leetcode.com/problems/group-anagrams
+MEDIUM,Merge Intervals,82.7,0.48439406435259774,https://leetcode.com/problems/merge-intervals
+MEDIUM,LRU Cache,78.9,0.43931297922662327,https://leetcode.com/problems/lru-cache
+MEDIUM,Generate Parentheses,78.9,0.7608326432421841,https://leetcode.com/problems/generate-parentheses
+EASY,Design HashMap,74.3,0.6560778990236517,https://leetcode.com/problems/design-hashmap
+MEDIUM,Search in Rotated Sorted Array,74.3,0.4198437372140617,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Maximal Square,68.8,0.4785887884532192,https://leetcode.com/problems/maximal-square
+MEDIUM,Longest Substring Without Repeating Characters,68.8,0.3593550612607232,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Best Time to Buy and Sell Stock,68.8,0.5449244095159034,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Validate Binary Search Tree,68.8,0.33741363200385754,https://leetcode.com/problems/validate-binary-search-tree
+EASY,Two Sum,68.8,0.5450374336330771,https://leetcode.com/problems/two-sum
+MEDIUM,Zigzag Conversion,68.8,0.5014875134308154,https://leetcode.com/problems/zigzag-conversion
+MEDIUM,Number of Islands,68.8,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Validate IP Address,61.7,0.27615757038158184,https://leetcode.com/problems/validate-ip-address
+MEDIUM,Valid Parenthesis String,61.7,0.38424309366549736,https://leetcode.com/problems/valid-parenthesis-string
+MEDIUM,Largest Number,61.7,0.40500247721710925,https://leetcode.com/problems/largest-number
+EASY,First Unique Character in a String,61.7,0.6293505082297683,https://leetcode.com/problems/first-unique-character-in-a-string
+MEDIUM,Daily Temperatures,61.7,0.6670368215424418,https://leetcode.com/problems/daily-temperatures
+EASY,Move Zeroes,61.7,0.6235858629324657,https://leetcode.com/problems/move-zeroes
+MEDIUM,Number of Distinct Substrings in a String,61.7,0.6447675652727659,https://leetcode.com/problems/number-of-distinct-substrings-in-a-string
+MEDIUM,Meeting Rooms II,61.7,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Fraction to Recurring Decimal,61.7,0.2566699160722933,https://leetcode.com/problems/fraction-to-recurring-decimal
+MEDIUM,Sum Root to Leaf Numbers,61.7,0.6740766784823122,https://leetcode.com/problems/sum-root-to-leaf-numbers
+HARD,Median of Two Sorted Arrays,61.7,0.4230800527869237,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,3Sum,61.7,0.3596104307916864,https://leetcode.com/problems/3sum
+MEDIUM,Top K Frequent Words,61.7,0.5870335655926149,https://leetcode.com/problems/top-k-frequent-words
+MEDIUM,Maximum Subarray,61.7,0.5149492190145646,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Find Minimum in Rotated Sorted Array,61.7,0.5180755302391636,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+MEDIUM,Find First and Last Position of Element in Sorted Array,51.7,0.4570989036690095,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Kth Largest Element in an Array,51.7,0.6735617615424413,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Longest Consecutive Sequence,51.7,0.4769876149732026,https://leetcode.com/problems/longest-consecutive-sequence
+EASY,Reverse Linked List,51.7,0.7822930814562448,https://leetcode.com/problems/reverse-linked-list
+EASY,Valid Palindrome,51.7,0.49533405996488794,https://leetcode.com/problems/valid-palindrome
+HARD,Number of Visible People in a Queue,51.7,0.7031370730953485,https://leetcode.com/problems/number-of-visible-people-in-a-queue
+HARD,First Missing Positive,51.7,0.40310386170460644,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Coin Change,51.7,0.45394483198639796,https://leetcode.com/problems/coin-change
+MEDIUM,Maximum Product Subarray,51.7,0.3430083441030819,https://leetcode.com/problems/maximum-product-subarray
+MEDIUM,Permutations,51.7,0.7976508842964455,https://leetcode.com/problems/permutations
+EASY,Merge Sorted Array,51.7,0.5174774018135673,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Decode String,51.7,0.6036416170670444,https://leetcode.com/problems/decode-string
+MEDIUM,Product of Array Except Self,51.7,0.6710046943932678,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Search Suggestions System,51.7,0.650566861644452,https://leetcode.com/problems/search-suggestions-system
+HARD,N-Queens II,51.7,0.755466487101053,https://leetcode.com/problems/n-queens-ii
+MEDIUM,Binary Tree Zigzag Level Order Traversal,51.7,0.6057802027227276,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+HARD,Minimum Number of Taps to Open to Water a Garden,51.7,0.5067444839239581,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+MEDIUM,Vowels of All Substrings,51.7,0.5433808960889762,https://leetcode.com/problems/vowels-of-all-substrings
+MEDIUM,Single Element in a Sorted Array,51.7,0.5923861059743479,https://leetcode.com/problems/single-element-in-a-sorted-array
+MEDIUM,Partition Equal Subset Sum,51.7,0.4699749242370252,https://leetcode.com/problems/partition-equal-subset-sum
+MEDIUM,Implement Trie (Prefix Tree),51.7,0.670010578455768,https://leetcode.com/problems/implement-trie-prefix-tree
+MEDIUM,Min Stack,51.7,0.5551935607512457,https://leetcode.com/problems/min-stack
+HARD,Word Break II,51.7,0.5245542784239083,https://leetcode.com/problems/word-break-ii
+HARD,Best Time to Buy and Sell Stock III,51.7,0.4980069082586628,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+MEDIUM,Search a 2D Matrix,51.7,0.5146653364752145,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,Container With Most Water,51.7,0.5672665251304524,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Longest Palindromic Substring,51.7,0.3494521216198164,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Populating Next Right Pointers in Each Node,51.7,0.6437152852581337,https://leetcode.com/problems/populating-next-right-pointers-in-each-node

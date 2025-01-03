@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Number of Divisible Substrings,100.0,0.737146529562982,https://leetcode.com/problems/number-of-divisible-substrings
+MEDIUM,Find Indices With Index and Value Difference II,77.2,0.31958043120501356,https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii
+MEDIUM,Minimize Maximum of Array,77.2,0.4640358092877669,https://leetcode.com/problems/minimize-maximum-of-array
+EASY,Number of Unequal Triplets in Array,77.2,0.7181894129262552,https://leetcode.com/problems/number-of-unequal-triplets-in-array
+EASY,Remove All Adjacent Duplicates In String,77.2,0.7065149374568584,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
+EASY,Find Indices With Index and Value Difference I,77.2,0.611675484016209,https://leetcode.com/problems/find-indices-with-index-and-value-difference-i
+MEDIUM,Longest Nice Subarray,77.2,0.5212950041864359,https://leetcode.com/problems/longest-nice-subarray
+EASY,Valid Parentheses,77.2,0.41507143404227376,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Min Stack,77.2,0.5551940629281298,https://leetcode.com/problems/min-stack

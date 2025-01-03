@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5450375385417704,https://leetcode.com/problems/two-sum
+MEDIUM,Container With Most Water,94.1,0.567266555513882,https://leetcode.com/problems/container-with-most-water
+EASY,Reverse Linked List,86.4,0.7822931168808346,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Movie Rating,75.7,0.4099855389915573,https://leetcode.com/problems/movie-rating
+HARD,Maximum Path Quality of a Graph,75.7,0.592417638608196,https://leetcode.com/problems/maximum-path-quality-of-a-graph
+HARD,Count the Number of Infection Sequences,75.7,0.3477627875376104,https://leetcode.com/problems/count-the-number-of-infection-sequences
+HARD,Count Increasing Quadruplets,75.7,0.33334441821023575,https://leetcode.com/problems/count-increasing-quadruplets
+HARD,Maximum Students Taking Exam,75.7,0.5166615967478776,https://leetcode.com/problems/maximum-students-taking-exam
+EASY,Valid Parentheses,75.7,0.41507135087778624,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Palindromic Substring,75.7,0.34945227606125395,https://leetcode.com/problems/longest-palindromic-substring
+HARD,Trapping Rain Water,75.7,0.6373269063584714,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Number of Islands,75.7,0.6107404360169014,https://leetcode.com/problems/number-of-islands

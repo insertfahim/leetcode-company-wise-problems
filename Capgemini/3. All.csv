@@ -1,0 +1,20 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5450379237396731,https://leetcode.com/problems/two-sum
+EASY,Number of Unique Subjects Taught by Each Teacher,94.0,0.8912676413286236,https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher
+EASY,Count Elements With Maximum Frequency,78.3,0.7836932969874887,https://leetcode.com/problems/count-elements-with-maximum-frequency
+EASY,Remove Duplicates from Sorted Array,66.7,0.5868538562611934,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+EASY,Best Time to Buy and Sell Stock,66.7,0.5449246915962854,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Longest Common Prefix,66.7,0.4441695266540836,https://leetcode.com/problems/longest-common-prefix
+EASY,Fibonacci Number,66.7,0.7219063441111535,https://leetcode.com/problems/fibonacci-number
+EASY,Palindrome Number,57.5,0.5816775676325866,https://leetcode.com/problems/palindrome-number
+MEDIUM,Nth Highest Salary,57.5,0.37954539074601956,https://leetcode.com/problems/nth-highest-salary
+HARD,Median of Two Sorted Arrays,57.5,0.42308081391687985,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Longest Substring Without Repeating Characters,57.5,0.3593551614266739,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Longest Happy String,57.5,0.6549365579494166,https://leetcode.com/problems/longest-happy-string
+MEDIUM,Delete Node in a Linked List,57.5,0.8132132295671866,https://leetcode.com/problems/delete-node-in-a-linked-list
+MEDIUM,Remove Nth Node From End of List,57.5,0.4752661043952755,https://leetcode.com/problems/remove-nth-node-from-end-of-list
+MEDIUM,Add Two Numbers,57.5,0.4487593547336808,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Rotate Array,57.5,0.42060979057444325,https://leetcode.com/problems/rotate-array
+MEDIUM,Reverse Words in a String,57.5,0.4847745722751688,https://leetcode.com/problems/reverse-words-in-a-string
+EASY,Valid Palindrome,57.5,0.4953349409937631,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Group Anagrams,57.5,0.6992937764916243,https://leetcode.com/problems/group-anagrams

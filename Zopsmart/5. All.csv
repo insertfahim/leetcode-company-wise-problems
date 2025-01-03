@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Zigzag Conversion,100.0,0.5014875049268539,https://leetcode.com/problems/zigzag-conversion
+MEDIUM,Reverse Nodes in Even Length Groups,87.2,0.5965798973969219,https://leetcode.com/problems/reverse-nodes-in-even-length-groups
+HARD,Minimum Window Substring,75.3,0.442469467428875,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Fraction Addition and Subtraction,71.7,0.6609532071235393,https://leetcode.com/problems/fraction-addition-and-subtraction
+HARD,Trapping Rain Water,67.3,0.6373278476686137,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Remove K Digits,67.3,0.34199459778369645,https://leetcode.com/problems/remove-k-digits
+MEDIUM,Bulls and Cows,61.6,0.5087372757338009,https://leetcode.com/problems/bulls-and-cows
+MEDIUM,Group Anagrams,53.7,0.6992939840168088,https://leetcode.com/problems/group-anagrams
+EASY,Best Time to Buy and Sell Stock,53.7,0.5449249023145925,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,3Sum,53.7,0.3596107982366773,https://leetcode.com/problems/3sum
+MEDIUM,Container With Most Water,53.7,0.5672676437745069,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Add Two Numbers,53.7,0.4487595511977919,https://leetcode.com/problems/add-two-numbers

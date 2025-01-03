@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Jump Game,100.0,0.38965493445603805,https://leetcode.com/problems/jump-game
+HARD,Split Array With Same Average,91.4,0.2557333805783578,https://leetcode.com/problems/split-array-with-same-average
+EASY,Find the Index of the First Occurrence in a String,85.7,0.4406804026334919,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+EASY,Count Number of Pairs With Absolute Difference K,78.3,0.8440733119586542,https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k
+EASY,Palindrome Number,78.3,0.5816769434116589,https://leetcode.com/problems/palindrome-number
+EASY,Two Sum,68.0,0.5450371347920956,https://leetcode.com/problems/two-sum
+EASY,Longest Common Prefix,68.0,0.44416893793323536,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Group Anagrams,68.0,0.6992932360482793,https://leetcode.com/problems/group-anagrams
+MEDIUM,K-diff Pairs in an Array,68.0,0.4388457066061744,https://leetcode.com/problems/k-diff-pairs-in-an-array
+MEDIUM,3Sum,68.0,0.3596102388562313,https://leetcode.com/problems/3sum
+EASY,Valid Parentheses,68.0,0.415070753001962,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Reverse Words in a String,68.0,0.4847726802189335,https://leetcode.com/problems/reverse-words-in-a-string
+MEDIUM,Maximum Sum of Distinct Subarrays With Length K,68.0,0.4284608277684868,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k
+MEDIUM,Subarray Sum Equals K,68.0,0.44551594561648394,https://leetcode.com/problems/subarray-sum-equals-k
+MEDIUM,Jump Game II,68.0,0.40945434450790136,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Unique Paths,68.0,0.6516079702973944,https://leetcode.com/problems/unique-paths

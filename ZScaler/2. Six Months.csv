@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Optimal Account Balancing,100.0,0.4967000672022789,https://leetcode.com/problems/optimal-account-balancing
+MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,74.8,0.4423192330773847,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k
+EASY,Day of the Year,74.8,0.4881047643567388,https://leetcode.com/problems/day-of-the-year
+EASY,Largest Number After Digit Swaps by Parity,74.8,0.6272004156512488,https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity
+EASY,Maximum Strong Pair XOR I,74.8,0.7495803844889344,https://leetcode.com/problems/maximum-strong-pair-xor-i
+HARD,Maximum Strong Pair XOR II,74.8,0.29984051036682613,https://leetcode.com/problems/maximum-strong-pair-xor-ii
+MEDIUM,Robot Bounded In Circle,74.8,0.5602990036959304,https://leetcode.com/problems/robot-bounded-in-circle

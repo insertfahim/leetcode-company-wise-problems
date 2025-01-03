@@ -1,0 +1,25 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Peaks in Array,100.0,0.2629501726689689,https://leetcode.com/problems/peaks-in-array
+MEDIUM,Minimized Maximum of Products Distributed to Any Store,100.0,0.6260652170709785,https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store
+MEDIUM,Number of Islands,87.5,0.6107411193691994,https://leetcode.com/problems/number-of-islands
+EASY,Best Time to Buy and Sell Stock,70.6,0.5449247963951888,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,LFU Cache,70.6,0.45428478596377225,https://leetcode.com/problems/lfu-cache
+EASY,Reverse Linked List,70.6,0.7822934146829216,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,3Sum,70.6,0.35961075320545,https://leetcode.com/problems/3sum
+EASY,Two Sum,70.6,0.5450378760832058,https://leetcode.com/problems/two-sum
+MEDIUM,Merge Intervals,70.6,0.4843936671990852,https://leetcode.com/problems/merge-intervals
+HARD,First Missing Positive,70.6,0.4031048651556867,https://leetcode.com/problems/first-missing-positive
+EASY,Merge Two Sorted Lists,70.6,0.6585748641667409,https://leetcode.com/problems/merge-two-sorted-lists
+EASY,Valid Parentheses,70.6,0.41507158746460293,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Letter Combinations of a Phone Number,70.6,0.6252878293660171,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+EASY,Palindrome Linked List,60.7,0.5471520883444959,https://leetcode.com/problems/palindrome-linked-list
+EASY,Palindrome Number,60.7,0.581677395825408,https://leetcode.com/problems/palindrome-number
+MEDIUM,Rotate Array,60.7,0.4206098954862384,https://leetcode.com/problems/rotate-array
+EASY,Valid Anagram,60.7,0.6577863091436837,https://leetcode.com/problems/valid-anagram
+MEDIUM,Rotate List,60.7,0.3906441144849195,https://leetcode.com/problems/rotate-list
+MEDIUM,Largest Number,60.7,0.40500247721710925,https://leetcode.com/problems/largest-number
+EASY,Contains Duplicate,60.7,0.6254449766400317,https://leetcode.com/problems/contains-duplicate
+MEDIUM,Longest Subarray With Maximum Bitwise AND,60.7,0.6184803762568927,https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and
+MEDIUM,Top K Frequent Elements,60.7,0.6375236446735257,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Jump Game II,60.7,0.40945291448544663,https://leetcode.com/problems/jump-game-ii
+EASY,Maximum Product of Three Numbers,60.7,0.45188131696420475,https://leetcode.com/problems/maximum-product-of-three-numbers

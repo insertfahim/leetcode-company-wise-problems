@@ -1,0 +1,36 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Design Hit Counter,100.0,0.6891976154137153,https://leetcode.com/problems/design-hit-counter
+MEDIUM,IP to CIDR,91.8,0.558430821379852,https://leetcode.com/problems/ip-to-cidr
+MEDIUM,House Robber,89.0,0.5179709828188317,https://leetcode.com/problems/house-robber
+MEDIUM,Design Tic-Tac-Toe,84.9,0.5833920511685031,https://leetcode.com/problems/design-tic-tac-toe
+MEDIUM,House Robber II,84.9,0.4287251364396007,https://leetcode.com/problems/house-robber-ii
+MEDIUM,Time Based Key-Value Store,83.0,0.49284131134843906,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Longest Palindrome by Concatenating Two Letter Words,70.6,0.47864738133300777,https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words
+MEDIUM,Closest Leaf in a Binary Tree,70.6,0.46710264806647606,https://leetcode.com/problems/closest-leaf-in-a-binary-tree
+MEDIUM,Snapshot Array,68.6,0.367609283014682,https://leetcode.com/problems/snapshot-array
+HARD,Smallest Range Covering Elements from K Lists,63.7,0.6979685192276134,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+MEDIUM,Minimum Absolute Difference Between Elements With Constraint,63.7,0.3451167856710638,https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint
+MEDIUM,Web Crawler Multithreaded,63.7,0.49542823261402114,https://leetcode.com/problems/web-crawler-multithreaded
+HARD,Split Message Based on Limit,60.8,0.43436143608611916,https://leetcode.com/problems/split-message-based-on-limit
+HARD,Number of Flowers in Full Bloom,57.3,0.5696301469033692,https://leetcode.com/problems/number-of-flowers-in-full-bloom
+HARD,Text Justification,57.3,0.4625567955530371,https://leetcode.com/problems/text-justification
+MEDIUM,Step-By-Step Directions From a Binary Tree Node to Another,53.0,0.5634386884682323,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another
+HARD,Count Integers in Intervals,47.5,0.35569688585984677,https://leetcode.com/problems/count-integers-in-intervals
+MEDIUM,Longest Mountain in Array,47.5,0.4068583527854032,https://leetcode.com/problems/longest-mountain-in-array
+MEDIUM,Second Degree Follower,47.5,0.39406406728042354,https://leetcode.com/problems/second-degree-follower
+MEDIUM,Merge Intervals,39.8,0.4843940590286502,https://leetcode.com/problems/merge-intervals
+MEDIUM,Spiral Matrix,39.8,0.5222660050697464,https://leetcode.com/problems/spiral-matrix
+EASY,Number of Recent Calls,39.8,0.7672537165220947,https://leetcode.com/problems/number-of-recent-calls
+MEDIUM,Finding Pairs With a Certain Sum,39.8,0.5143149284253579,https://leetcode.com/problems/finding-pairs-with-a-certain-sum
+MEDIUM,Find the Length of the Longest Common Prefix,39.8,0.5619652393436256,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
+MEDIUM,String to Integer (atoi),39.8,0.1838717050677604,https://leetcode.com/problems/string-to-integer-atoi
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,39.8,0.5665081750132076,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+HARD,Maximum Profit in Job Scheduling,39.8,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Rotating the Box,39.8,0.7919556938587133,https://leetcode.com/problems/rotating-the-box
+HARD,Data Stream as Disjoint Intervals,39.8,0.6022324332263276,https://leetcode.com/problems/data-stream-as-disjoint-intervals
+HARD,First Missing Positive,39.8,0.403103684081158,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Web Crawler,39.8,0.6827953422021696,https://leetcode.com/problems/web-crawler
+MEDIUM,Course Schedule II,39.8,0.5213314490627796,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Accounts Merge,39.8,0.5849885129158102,https://leetcode.com/problems/accounts-merge
+MEDIUM,Design A Leaderboard,39.8,0.6787329532655219,https://leetcode.com/problems/design-a-leaderboard
+MEDIUM,Find Peak Element,39.8,0.46229158630968314,https://leetcode.com/problems/find-peak-element

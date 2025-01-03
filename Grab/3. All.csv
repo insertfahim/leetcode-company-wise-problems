@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Minimum Cost For Tickets,100.0,0.6683063986427866,https://leetcode.com/problems/minimum-cost-for-tickets
+MEDIUM,Adding Two Negabinary Numbers,100.0,0.36937893233489016,https://leetcode.com/problems/adding-two-negabinary-numbers
+MEDIUM,Minimum Number of Food Buckets to Feed the Hamsters,100.0,0.4691518994843833,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters
+MEDIUM,Reconstruct a 2-Row Binary Matrix,100.0,0.4716168996188056,https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix
+EASY,Two Sum,83.7,0.5450376914271884,https://leetcode.com/problems/two-sum
+MEDIUM,Longest Substring Without Repeating Characters,71.8,0.35935492781950124,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Longest Palindromic Substring,62.3,0.3494521670548817,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,3Sum,62.3,0.3596105785268592,https://leetcode.com/problems/3sum
+MEDIUM,Next Permutation,62.3,0.41829542305832024,https://leetcode.com/problems/next-permutation
+MEDIUM,Search a 2D Matrix,62.3,0.5146656615782447,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,LRU Cache,62.3,0.43931303560231316,https://leetcode.com/problems/lru-cache
+MEDIUM,Kth Largest Element in an Array,62.3,0.6735619952825546,https://leetcode.com/problems/kth-largest-element-in-an-array

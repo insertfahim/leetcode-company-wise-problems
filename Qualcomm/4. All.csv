@@ -1,0 +1,28 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Maximum Number of Ones,100.0,0.6844523870308908,https://leetcode.com/problems/maximum-number-of-ones
+MEDIUM,String Compression III,100.0,0.6806271453752667,https://leetcode.com/problems/string-compression-iii
+EASY,Reverse Linked List,77.0,0.7822931168808346,https://leetcode.com/problems/reverse-linked-list
+EASY,Valid Parentheses,69.7,0.4150713824165711,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Swap Nodes in Pairs,69.7,0.6602517062273011,https://leetcode.com/problems/swap-nodes-in-pairs
+MEDIUM,LRU Cache,69.7,0.43931297922662327,https://leetcode.com/problems/lru-cache
+HARD,Serialize and Deserialize Binary Tree,69.7,0.5798665119852953,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+EASY,Palindrome Number,69.7,0.5816769810386204,https://leetcode.com/problems/palindrome-number
+EASY,Power of Two,69.7,0.48098569772420546,https://leetcode.com/problems/power-of-two
+EASY,Find Winner on a Tic Tac Toe Game,59.6,0.5400791243671768,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game
+EASY,Length of Last Word,59.6,0.5473849214722817,https://leetcode.com/problems/length-of-last-word
+MEDIUM,Best Time to Buy and Sell Stock II,59.6,0.6834841178555799,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+EASY,Reverse Bits,59.6,0.6137305160602015,https://leetcode.com/problems/reverse-bits
+EASY,Middle of the Linked List,59.6,0.7978563213536382,https://leetcode.com/problems/middle-of-the-linked-list
+MEDIUM,Design Memory Allocator,59.6,0.5343324746962246,https://leetcode.com/problems/design-memory-allocator
+EASY,Average of Levels in Binary Tree,59.6,0.7354591652716387,https://leetcode.com/problems/average-of-levels-in-binary-tree
+MEDIUM,Longest Substring Without Repeating Characters,59.6,0.3593550487569805,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Palindrome Linked List,59.6,0.547152476831458,https://leetcode.com/problems/palindrome-linked-list
+MEDIUM,Rectangle Area,59.6,0.4696746916095355,https://leetcode.com/problems/rectangle-area
+EASY,Number of 1 Bits,59.6,0.7321092978446293,https://leetcode.com/problems/number-of-1-bits
+MEDIUM,Min Stack,59.6,0.555193686295573,https://leetcode.com/problems/min-stack
+EASY,Single Number,59.6,0.7481656297610848,https://leetcode.com/problems/single-number
+EASY,Climbing Stairs,59.6,0.5326792935769163,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Maximum Subarray,59.6,0.5149493229834755,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Rotate Image,59.6,0.7663570712950474,https://leetcode.com/problems/rotate-image
+HARD,Reverse Nodes in k-Group,59.6,0.613504499086819,https://leetcode.com/problems/reverse-nodes-in-k-group
+EASY,Remove Duplicates from Sorted Array,59.6,0.5868531371207599,https://leetcode.com/problems/remove-duplicates-from-sorted-array

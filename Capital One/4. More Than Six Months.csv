@@ -1,0 +1,21 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Split Message Based on Limit,100.0,0.43436143608611916,https://leetcode.com/problems/split-message-based-on-limit
+HARD,Text Justification,100.0,0.4625562871305861,https://leetcode.com/problems/text-justification
+MEDIUM,Candy Crush,88.2,0.7709174665665524,https://leetcode.com/problems/candy-crush
+MEDIUM,Word Search,82.6,0.4418596087861923,https://leetcode.com/problems/word-search
+EASY,Two Sum,75.4,0.5450371793037798,https://leetcode.com/problems/two-sum
+MEDIUM,Coin Change,75.4,0.4539448902435652,https://leetcode.com/problems/coin-change
+HARD,Number of Flowers in Full Bloom,75.4,0.5696301469033692,https://leetcode.com/problems/number-of-flowers-in-full-bloom
+HARD,Word Search II,75.4,0.36838788593974686,https://leetcode.com/problems/word-search-ii
+HARD,Remove Boxes,75.4,0.48104023158719383,https://leetcode.com/problems/remove-boxes
+MEDIUM,Find the Length of the Longest Common Prefix,75.4,0.5619652393436256,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
+MEDIUM,Rotate Array,65.3,0.4206104174638311,https://leetcode.com/problems/rotate-array
+MEDIUM,Add Two Numbers,65.3,0.44875895969152035,https://leetcode.com/problems/add-two-numbers
+MEDIUM,K-diff Pairs in an Array,65.3,0.4388457066061744,https://leetcode.com/problems/k-diff-pairs-in-an-array
+HARD,Reverse Nodes in k-Group,65.3,0.6135036382547959,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Diagonal Traverse,65.3,0.6190844026026596,https://leetcode.com/problems/diagonal-traverse
+MEDIUM,Get Biggest Three Rhombus Sums in a Grid,65.3,0.4870935300033523,https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid
+MEDIUM,Rotate Image,65.3,0.7663565493770786,https://leetcode.com/problems/rotate-image
+MEDIUM,Simplify Path,65.3,0.455984441868086,https://leetcode.com/problems/simplify-path
+MEDIUM,Simple Bank System,65.3,0.6360117481282787,https://leetcode.com/problems/simple-bank-system
+EASY,Binary Tree Paths,65.3,0.6536946478089601,https://leetcode.com/problems/binary-tree-paths

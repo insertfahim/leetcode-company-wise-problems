@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,LFU Cache,100.0,0.45428478596377225,https://leetcode.com/problems/lfu-cache
+MEDIUM,Single Element in a Sorted Array,89.1,0.5923867104431928,https://leetcode.com/problems/single-element-in-a-sorted-array
+MEDIUM,Course Schedule,89.1,0.4804021947305761,https://leetcode.com/problems/course-schedule
+MEDIUM,Open the Lock,89.1,0.6050284436319101,https://leetcode.com/problems/open-the-lock

@@ -1,0 +1,48 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Friday Purchases I,100.0,0.7972166998011929,https://leetcode.com/problems/friday-purchases-i
+EASY,Two Sum,62.9,0.5450371347920956,https://leetcode.com/problems/two-sum
+MEDIUM,Jump Game,55.4,0.38965493445603805,https://leetcode.com/problems/jump-game
+HARD,Split Array With Same Average,49.7,0.2557333805783578,https://leetcode.com/problems/split-array-with-same-average
+EASY,Find the Index of the First Occurrence in a String,46.0,0.4406804026334919,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+EASY,Valid Parentheses,46.0,0.415070753001962,https://leetcode.com/problems/valid-parentheses
+EASY,Longest Common Prefix,46.0,0.44416893793323536,https://leetcode.com/problems/longest-common-prefix
+EASY,Count Number of Pairs With Absolute Difference K,46.0,0.8440733119586542,https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k
+EASY,Maximum Ascending Subarray Sum,41.2,0.6198109449836301,https://leetcode.com/problems/maximum-ascending-subarray-sum
+MEDIUM,Subarray Sum Equals K,41.2,0.44551594561648394,https://leetcode.com/problems/subarray-sum-equals-k
+EASY,Project Employees I,41.2,0.6442976915518948,https://leetcode.com/problems/project-employees-i
+EASY,Count the Digits That Divide a Number,41.2,0.8529821090226194,https://leetcode.com/problems/count-the-digits-that-divide-a-number
+MEDIUM,Sort Colors,41.2,0.6576627271504549,https://leetcode.com/problems/sort-colors
+MEDIUM,3Sum,41.2,0.3596102388562313,https://leetcode.com/problems/3sum
+MEDIUM,Maximum Subarray,41.2,0.5149490042468002,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Reverse Words in a String,41.2,0.4847726802189335,https://leetcode.com/problems/reverse-words-in-a-string
+EASY,Majority Element,41.2,0.6537535007861291,https://leetcode.com/problems/majority-element
+EASY,Palindrome Number,41.2,0.5816769434116589,https://leetcode.com/problems/palindrome-number
+EASY,Single Number,34.4,0.7481650036659243,https://leetcode.com/problems/single-number
+EASY,Sqrt(x),34.4,0.3975125909263808,https://leetcode.com/problems/sqrtx
+MEDIUM,Unique Paths,34.4,0.6516079702973944,https://leetcode.com/problems/unique-paths
+HARD,Binary Tree Maximum Path Sum,34.4,0.40693689658335985,https://leetcode.com/problems/binary-tree-maximum-path-sum
+MEDIUM,Maximum Sum of Distinct Subarrays With Length K,34.4,0.4284608277684868,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k
+MEDIUM,Jump Game II,34.4,0.40945434450790136,https://leetcode.com/problems/jump-game-ii
+HARD,N-Queens,34.4,0.7091787115322903,https://leetcode.com/problems/n-queens
+MEDIUM,Longest Palindromic Substring,34.4,0.3494521803848851,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Valid Palindrome,34.4,0.495334056221323,https://leetcode.com/problems/valid-palindrome
+MEDIUM,String Compression III,34.4,0.6806271453752667,https://leetcode.com/problems/string-compression-iii
+HARD,Trapping Rain Water,34.4,0.63732700121548,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,K-diff Pairs in an Array,34.4,0.4388457066061744,https://leetcode.com/problems/k-diff-pairs-in-an-array
+EASY,Roman to Integer,34.4,0.6354892167828345,https://leetcode.com/problems/roman-to-integer
+EASY,Move Zeroes,34.4,0.6235857956563541,https://leetcode.com/problems/move-zeroes
+MEDIUM,Majority Element II,34.4,0.5320037884767167,https://leetcode.com/problems/majority-element-ii
+MEDIUM,Maximum Swap,34.4,0.5164069029942475,https://leetcode.com/problems/maximum-swap
+EASY,Number of Good Pairs,34.4,0.8938809506978402,https://leetcode.com/problems/number-of-good-pairs
+MEDIUM,Group Anagrams,34.4,0.6992932360482793,https://leetcode.com/problems/group-anagrams
+MEDIUM,Largest Number,34.4,0.40500211989858115,https://leetcode.com/problems/largest-number
+MEDIUM,The kth Factor of n,34.4,0.6883808390816728,https://leetcode.com/problems/the-kth-factor-of-n
+HARD,Palindrome Partitioning IV,34.4,0.44501282925720226,https://leetcode.com/problems/palindrome-partitioning-iv
+EASY,Minimum Cuts to Divide a Circle,34.4,0.5451707465641299,https://leetcode.com/problems/minimum-cuts-to-divide-a-circle
+EASY,Remove Letter To Equalize Frequency,34.4,0.175978360846978,https://leetcode.com/problems/remove-letter-to-equalize-frequency
+MEDIUM,Minimum Operations to Exceed Threshold Value II,34.4,0.28824864643608017,https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii
+EASY,Minimum Operations to Exceed Threshold Value I,34.4,0.858715640437014,https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i
+HARD,Sliding Window Maximum,34.4,0.47070035952422434,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Second Highest Salary,34.4,0.4242446008814633,https://leetcode.com/problems/second-highest-salary
+EASY,Best Time to Buy and Sell Stock,34.4,0.5449234456740408,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Rotate Array,34.4,0.4206104821251176,https://leetcode.com/problems/rotate-array

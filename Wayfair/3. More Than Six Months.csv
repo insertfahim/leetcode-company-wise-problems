@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Maximum Product Subarray,100.0,0.343008403400284,https://leetcode.com/problems/maximum-product-subarray
+EASY,Add Strings,94.9,0.5162951894513198,https://leetcode.com/problems/add-strings
+MEDIUM,Longest Palindromic Substring,78.3,0.349452296375502,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Valid Palindrome,59.1,0.49533466856476704,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Lowest Common Ancestor of a Binary Tree,59.1,0.6492102775704801,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+MEDIUM,Palindromic Substrings,59.1,0.7099833221194736,https://leetcode.com/problems/palindromic-substrings
+MEDIUM,Longest Increasing Subsequence,59.1,0.5682749779970578,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Maximum Number of Vowels in a Substring of Given Length,59.1,0.5944446629674489,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length

@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Path Sum III,100.0,0.460505341064557,https://leetcode.com/problems/path-sum-iii
+HARD,Largest Rectangle in Histogram,92.0,0.4611595913789487,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Car Pooling,92.0,0.5595007999408136,https://leetcode.com/problems/car-pooling
+HARD,Trapping Rain Water,80.6,0.6373278476686137,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Longest Palindromic Substring,80.6,0.349451905786318,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Jump Game II,80.6,0.4094540951847518,https://leetcode.com/problems/jump-game-ii
+HARD,Maximum Sum BST in Binary Tree,80.6,0.4267469395159116,https://leetcode.com/problems/maximum-sum-bst-in-binary-tree
+MEDIUM,Word Search,80.6,0.4418599534745308,https://leetcode.com/problems/word-search
+MEDIUM,Open the Lock,80.6,0.6050291446868632,https://leetcode.com/problems/open-the-lock

@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,LRU Cache,100.0,0.4393131094403791,https://leetcode.com/problems/lru-cache
+MEDIUM,Edit Distance,90.5,0.5783445669848835,https://leetcode.com/problems/edit-distance
+HARD,Scramble String,86.2,0.41267137672982807,https://leetcode.com/problems/scramble-string
+MEDIUM,Web Crawler Multithreaded,86.2,0.49542823261402114,https://leetcode.com/problems/web-crawler-multithreaded
+HARD,Stamping the Grid,81.0,0.32722610529798585,https://leetcode.com/problems/stamping-the-grid
+MEDIUM,Insert Delete GetRandom O(1),81.0,0.5479309318249479,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Design Add and Search Words Data Structure,81.0,0.4637563470184798,https://leetcode.com/problems/design-add-and-search-words-data-structure
+MEDIUM,4Sum,64.8,0.37199108770773326,https://leetcode.com/problems/4sum
+MEDIUM,Next Permutation,64.8,0.41829523064329116,https://leetcode.com/problems/next-permutation
+HARD,Sliding Window Maximum,64.8,0.4707005691012809,https://leetcode.com/problems/sliding-window-maximum
+HARD,Minimum Number of Refueling Stops,64.8,0.4029947699790133,https://leetcode.com/problems/minimum-number-of-refueling-stops
+HARD,Design a Text Editor,64.8,0.466553546955557,https://leetcode.com/problems/design-a-text-editor
+MEDIUM,Design Bounded Blocking Queue,64.8,0.7268963692877455,https://leetcode.com/problems/design-bounded-blocking-queue

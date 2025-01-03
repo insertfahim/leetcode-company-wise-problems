@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Text Justification,100.0,0.4625573039745261,https://leetcode.com/problems/text-justification
+EASY,Find Words That Can Be Formed by Characters,95.8,0.7081679412326275,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters
+MEDIUM,Word Search,95.8,0.4418594364461271,https://leetcode.com/problems/word-search
+EASY,Check if Every Row and Column Contains All Numbers,74.9,0.5227209027430814,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers
+EASY,Ransom Note,74.9,0.6337340735497649,https://leetcode.com/problems/ransom-note
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,74.9,0.46039031609128955,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period

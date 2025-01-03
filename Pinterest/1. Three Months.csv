@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Shortest Path in a Grid with Obstacles Elimination,100.0,0.45417047111025677,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination
+HARD,Optimal Account Balancing,100.0,0.4967000672022789,https://leetcode.com/problems/optimal-account-balancing
+HARD,Count Subarrays With Score Less Than K,94.4,0.5546293038836287,https://leetcode.com/problems/count-subarrays-with-score-less-than-k
+MEDIUM,Count and Say,94.4,0.5729374434359321,https://leetcode.com/problems/count-and-say
+HARD,Maximum Profit in Job Scheduling,87.2,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Design Search Autocomplete System,87.2,0.49211659631134774,https://leetcode.com/problems/design-search-autocomplete-system
+HARD,Expression Add Operators,77.0,0.407360114823998,https://leetcode.com/problems/expression-add-operators
+HARD,Find Median from Data Stream,77.0,0.5268862241059148,https://leetcode.com/problems/find-median-from-data-stream
+HARD,Employee Free Time,77.0,0.7240852892108691,https://leetcode.com/problems/employee-free-time

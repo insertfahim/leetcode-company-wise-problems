@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Design Hit Counter,100.0,0.6891976154137153,https://leetcode.com/problems/design-hit-counter
+MEDIUM,House Robber,98.6,0.5179709828188317,https://leetcode.com/problems/house-robber
+MEDIUM,House Robber II,91.9,0.4287251364396007,https://leetcode.com/problems/house-robber-ii
+MEDIUM,Design Tic-Tac-Toe,91.9,0.5833920511685031,https://leetcode.com/problems/design-tic-tac-toe
+MEDIUM,Time Based Key-Value Store,85.0,0.49284131134843906,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,IP to CIDR,82.2,0.558430821379852,https://leetcode.com/problems/ip-to-cidr
+HARD,Split Message Based on Limit,78.8,0.43436143608611916,https://leetcode.com/problems/split-message-based-on-limit
+HARD,Text Justification,74.9,0.4625567955530371,https://leetcode.com/problems/text-justification
+MEDIUM,Longest Mountain in Array,63.9,0.4068583527854032,https://leetcode.com/problems/longest-mountain-in-array
+MEDIUM,Closest Leaf in a Binary Tree,55.2,0.46710264806647606,https://leetcode.com/problems/closest-leaf-in-a-binary-tree
+MEDIUM,Longest Palindrome by Concatenating Two Letter Words,55.2,0.47864738133300777,https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words
+HARD,Number of Flowers in Full Bloom,55.2,0.5696301469033692,https://leetcode.com/problems/number-of-flowers-in-full-bloom
+MEDIUM,Find the Length of the Longest Common Prefix,55.2,0.5619652393436256,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
+MEDIUM,Finding Pairs With a Certain Sum,55.2,0.5143149284253579,https://leetcode.com/problems/finding-pairs-with-a-certain-sum
+MEDIUM,Spiral Matrix,55.2,0.5222660050697464,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Step-By-Step Directions From a Binary Tree Node to Another,55.2,0.5634386884682323,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another
+MEDIUM,String to Integer (atoi),55.2,0.1838717050677604,https://leetcode.com/problems/string-to-integer-atoi

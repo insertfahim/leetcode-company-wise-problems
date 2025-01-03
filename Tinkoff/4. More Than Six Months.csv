@@ -1,0 +1,26 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3593549837240331,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Two Sum,84.2,0.5450378060909996,https://leetcode.com/problems/two-sum
+MEDIUM,Keys and Rooms,84.2,0.7394402584645434,https://leetcode.com/problems/keys-and-rooms
+MEDIUM,Min Stack,84.2,0.5551940629281298,https://leetcode.com/problems/min-stack
+MEDIUM,Rotate Image,80.7,0.766357742821923,https://leetcode.com/problems/rotate-image
+MEDIUM,Longest Palindromic Substring,76.5,0.3494521478295882,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Simplify Path,76.5,0.45598668959079836,https://leetcode.com/problems/simplify-path
+EASY,Backspace String Compare,76.5,0.4934066638802828,https://leetcode.com/problems/backspace-string-compare
+MEDIUM,Longest Subarray of 1's After Deleting One Element,71.4,0.6836721409398802,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element
+EASY,Squares of a Sorted Array,64.9,0.7301764818974655,https://leetcode.com/problems/squares-of-a-sorted-array
+MEDIUM,Battleships in a Board,64.9,0.760151801389844,https://leetcode.com/problems/battleships-in-a-board
+MEDIUM,Search in Rotated Sorted Array,64.9,0.4198437402022146,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Search a 2D Matrix,64.9,0.5146655294669352,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,Daily Temperatures,64.9,0.6670373923794126,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Subarray Sums Divisible by K,64.9,0.5549438111997897,https://leetcode.com/problems/subarray-sums-divisible-by-k
+EASY,Best Time to Buy and Sell Stock,64.9,0.5449249184738892,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Maximize Distance to Closest Person,64.9,0.4854080870649804,https://leetcode.com/problems/maximize-distance-to-closest-person
+MEDIUM,Find First and Last Position of Element in Sorted Array,64.9,0.4570991603266975,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+EASY,Is Subsequence,55.7,0.4813636146255666,https://leetcode.com/problems/is-subsequence
+EASY,Monotonic Array,55.7,0.6147843434740219,https://leetcode.com/problems/monotonic-array
+MEDIUM,Count Square Submatrices with All Ones,55.7,0.7844390550700884,https://leetcode.com/problems/count-square-submatrices-with-all-ones
+MEDIUM,Department Highest Salary,55.7,0.5343417963141269,https://leetcode.com/problems/department-highest-salary
+EASY,Find All Numbers Disappeared in an Array,55.7,0.616925900746945,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
+MEDIUM,Paint House,55.7,0.6319346404854427,https://leetcode.com/problems/paint-house
+MEDIUM,Event Emitter,55.7,0.7406202507598785,https://leetcode.com/problems/event-emitter

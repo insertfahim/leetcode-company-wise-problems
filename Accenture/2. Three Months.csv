@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Smallest Divisible Digit Product I,100.0,0.6512064762841873,https://leetcode.com/problems/smallest-divisible-digit-product-i
+HARD,Smallest Divisible Digit Product II,100.0,0.09081357935517761,https://leetcode.com/problems/smallest-divisible-digit-product-ii
+EASY,Water Bottles,83.7,0.709205288053641,https://leetcode.com/problems/water-bottles
+HARD,Shortest Palindrome,78.5,0.40034950852941054,https://leetcode.com/problems/shortest-palindrome
+MEDIUM,Maximum Width Ramp,71.7,0.5551495930586595,https://leetcode.com/problems/maximum-width-ramp
+MEDIUM,Letter Combinations of a Phone Number,71.7,0.6252870261757155,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Reverse Words in a String,71.7,0.4847733157999264,https://leetcode.com/problems/reverse-words-in-a-string
+MEDIUM,Bulb Switcher,62.2,0.5349441505518431,https://leetcode.com/problems/bulb-switcher
+MEDIUM,Delete and Earn,62.2,0.5657223962323504,https://leetcode.com/problems/delete-and-earn
+EASY,Best Time to Buy and Sell Stock,62.2,0.5449243484764593,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Longest Common Prefix,62.2,0.44416904840407434,https://leetcode.com/problems/longest-common-prefix
+EASY,Maximum Number of Balls in a Box,62.2,0.7371930378082768,https://leetcode.com/problems/maximum-number-of-balls-in-a-box
+MEDIUM,Maximum Subarray,62.2,0.5149491602004764,https://leetcode.com/problems/maximum-subarray
+EASY,Single Number,62.2,0.7481653451727616,https://leetcode.com/problems/single-number
+MEDIUM,Longest Substring Without Repeating Characters,62.2,0.35935512966904637,https://leetcode.com/problems/longest-substring-without-repeating-characters

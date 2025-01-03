@@ -1,0 +1,75 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Sort Integers by The Number of 1 Bits,100.0,0.7849289975412806,https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits
+HARD,Reaching Points,97.2,0.33458168031515745,https://leetcode.com/problems/reaching-points
+MEDIUM,Least Number of Unique Integers after K Removals,95.1,0.6321634469008731,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
+MEDIUM,Remove Colored Pieces if Both Neighbors are the Same Color,91.6,0.6281798823554215,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color
+MEDIUM,Minimum Suffix Flips,89.5,0.7338280875941839,https://leetcode.com/problems/minimum-suffix-flips
+MEDIUM,Next Permutation,88.8,0.418295146246823,https://leetcode.com/problems/next-permutation
+MEDIUM,Break a Palindrome,88.0,0.5157718967151665,https://leetcode.com/problems/break-a-palindrome
+EASY,Check Whether Two Strings are Almost Equivalent,82.8,0.6394125225457357,https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent
+EASY,Minimum Absolute Difference,79.6,0.7008955857658481,https://leetcode.com/problems/minimum-absolute-difference
+EASY,Valid Parentheses,79.6,0.4150708935187335,https://leetcode.com/problems/valid-parentheses
+EASY,Best Time to Buy and Sell Stock,75.8,0.5449242511951683,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Merge Intervals,72.8,0.48439387780618604,https://leetcode.com/problems/merge-intervals
+EASY,Determine Color of a Chessboard Square,71.2,0.7902311491056977,https://leetcode.com/problems/determine-color-of-a-chessboard-square
+HARD,Numbers With Repeated Digits,71.2,0.4275576449518692,https://leetcode.com/problems/numbers-with-repeated-digits
+MEDIUM,Minimum Swaps to Make Strings Equal,69.4,0.6445136118539301,https://leetcode.com/problems/minimum-swaps-to-make-strings-equal
+MEDIUM,Display Table of Food Orders in a Restaurant,69.4,0.7544611161073508,https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant
+EASY,Climbing Stairs,69.4,0.5326793859406694,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Reverse Odd Levels of Binary Tree,67.4,0.8675410597821578,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree
+EASY,Check if Number Has Equal Digit Count and Digit Value,67.4,0.7238165615211541,https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value
+EASY,Button with Longest Push Time,67.4,0.4061114821786386,https://leetcode.com/problems/button-with-longest-push-time
+HARD,Maximum Number of Points From Grid Queries,67.4,0.38857367162687795,https://leetcode.com/problems/maximum-number-of-points-from-grid-queries
+MEDIUM,Lexicographically Smallest String After Applying Operations,67.4,0.6578203091705087,https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations
+MEDIUM,Pairs of Songs With Total Durations Divisible by 60,67.4,0.53082795384998,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+MEDIUM,Suspicious Bank Accounts,67.4,0.450311448414119,https://leetcode.com/problems/suspicious-bank-accounts
+EASY,Lexicographically Smallest String After a Swap,67.4,0.5365708577905972,https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap
+MEDIUM,Longest Palindromic Substring,65.2,0.34945200191154263,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Count Numbers with Unique Digits,62.8,0.5359750438461837,https://leetcode.com/problems/count-numbers-with-unique-digits
+EASY,Fizz Buzz,60.0,0.7351192545720048,https://leetcode.com/problems/fizz-buzz
+EASY,Find Resultant Array After Removing Anagrams,60.0,0.588169095124469,https://leetcode.com/problems/find-resultant-array-after-removing-anagrams
+MEDIUM,Subarray Sum Equals K,56.8,0.4455161392371816,https://leetcode.com/problems/subarray-sum-equals-k
+MEDIUM,Maximum Number of Events That Can Be Attended,56.8,0.32631481401806367,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended
+MEDIUM,Non-overlapping Intervals,56.8,0.5458519587206231,https://leetcode.com/problems/non-overlapping-intervals
+MEDIUM,Generate Parentheses,56.8,0.7608325577254301,https://leetcode.com/problems/generate-parentheses
+EASY,Happy Number,56.8,0.572401035064631,https://leetcode.com/problems/happy-number
+MEDIUM,Longest Substring Without Repeating Characters,56.8,0.3593551655268207,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Maximum Units on a Truck,53.0,0.7393542370170462,https://leetcode.com/problems/maximum-units-on-a-truck
+EASY,Two Sum,53.0,0.5450372238154486,https://leetcode.com/problems/two-sum
+MEDIUM,Group Anagrams,53.0,0.6992931957078625,https://leetcode.com/problems/group-anagrams
+MEDIUM,Minimum Operations to Make All Array Elements Equal,48.4,0.36349324850688125,https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal
+MEDIUM,Minimum Cost to Connect Sticks,48.4,0.7061555267363708,https://leetcode.com/problems/minimum-cost-to-connect-sticks
+MEDIUM,Maximum Subarray,48.4,0.5149490528166287,https://leetcode.com/problems/maximum-subarray
+MEDIUM,"Pow(x, n)",42.5,0.36107192357979867,https://leetcode.com/problems/powx-n
+MEDIUM,Decode Ways,42.5,0.35836687811627116,https://leetcode.com/problems/decode-ways
+HARD,Minimum Cost to Make Array Equal,42.5,0.4611966153641148,https://leetcode.com/problems/minimum-cost-to-make-array-equal
+MEDIUM,Daily Temperatures,42.5,0.66703663105092,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Best Time to Buy and Sell Stock II,42.5,0.6834837517400567,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+EASY,Ugly Number,42.5,0.4220064637047189,https://leetcode.com/problems/ugly-number
+EASY,Intersection of Two Arrays,42.5,0.7569196598691302,https://leetcode.com/problems/intersection-of-two-arrays
+MEDIUM,Combination Sum,34.3,0.7341580330314653,https://leetcode.com/problems/combination-sum
+EASY,Minimum String Length After Removing Substrings,34.3,0.7750901844365391,https://leetcode.com/problems/minimum-string-length-after-removing-substrings
+MEDIUM,Max Consecutive Ones III,34.3,0.6477245652624688,https://leetcode.com/problems/max-consecutive-ones-iii
+HARD,Cherry Pickup,34.3,0.3739606219367923,https://leetcode.com/problems/cherry-pickup
+MEDIUM,Letter Combinations of a Phone Number,34.3,0.6252869257766857,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Integer to Roman,34.3,0.6717640921057799,https://leetcode.com/problems/integer-to-roman
+EASY,Fibonacci Number,34.3,0.7219073312536405,https://leetcode.com/problems/fibonacci-number
+MEDIUM,Reverse Integer,34.3,0.29565298119426275,https://leetcode.com/problems/reverse-integer
+EASY,Degree of an Array,34.3,0.5698956897862303,https://leetcode.com/problems/degree-of-an-array
+MEDIUM,Open the Lock,34.3,0.6050284436319101,https://leetcode.com/problems/open-the-lock
+EASY,Add Binary,34.3,0.5484892201651038,https://leetcode.com/problems/add-binary
+MEDIUM,Minimum Insertions to Balance a Parentheses String,34.3,0.5277177066300965,https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string
+MEDIUM,Unique Paths,34.3,0.6516079841640273,https://leetcode.com/problems/unique-paths
+MEDIUM,Coin Change,34.3,0.453944694150401,https://leetcode.com/problems/coin-change
+MEDIUM,Count Strictly Increasing Subarrays,34.3,0.7361356778691082,https://leetcode.com/problems/count-strictly-increasing-subarrays
+EASY,Pascal's Triangle,34.3,0.7598850967807544,https://leetcode.com/problems/pascals-triangle
+MEDIUM,Maximum Product Subarray,34.3,0.34300827135608536,https://leetcode.com/problems/maximum-product-subarray
+MEDIUM,Sum of Subarray Ranges,34.3,0.604300282119199,https://leetcode.com/problems/sum-of-subarray-ranges
+MEDIUM,Reconstruct Original Digits from English,34.3,0.5133792071982969,https://leetcode.com/problems/reconstruct-original-digits-from-english
+MEDIUM,Rotate Array,34.3,0.4206104662826751,https://leetcode.com/problems/rotate-array
+MEDIUM,Search Suggestions System,34.3,0.6505649285149212,https://leetcode.com/problems/search-suggestions-system
+MEDIUM,Binary Tree Right Side View,34.3,0.6463710057612293,https://leetcode.com/problems/binary-tree-right-side-view
+EASY,Reverse Linked List,34.3,0.7822931378993888,https://leetcode.com/problems/reverse-linked-list
+EASY,Contains Duplicate,34.3,0.6254441696098314,https://leetcode.com/problems/contains-duplicate
+EASY,Valid Anagram,34.3,0.6577861781513605,https://leetcode.com/problems/valid-anagram
+MEDIUM,Find the Duplicate Number,34.3,0.6200863433020448,https://leetcode.com/problems/find-the-duplicate-number

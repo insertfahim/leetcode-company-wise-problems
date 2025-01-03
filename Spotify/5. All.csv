@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3593549962277218,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Two Sum,97.8,0.5450377073127061,https://leetcode.com/problems/two-sum
+HARD,Leetcodify Friends Recommendations,97.8,0.2746001523229246,https://leetcode.com/problems/leetcodify-friends-recommendations
+HARD,Leetcodify Similar Friends,97.8,0.42501858484828003,https://leetcode.com/problems/leetcodify-similar-friends
+EASY,Moving Average from Data Stream,95.3,0.7931199818984698,https://leetcode.com/problems/moving-average-from-data-stream
+MEDIUM,Analyze User Website Visit Pattern,89.5,0.42955439056356487,https://leetcode.com/problems/analyze-user-website-visit-pattern
+EASY,Valid Parentheses,85.9,0.41507143404227376,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Kth Largest Element in an Array,81.7,0.6735619952825546,https://leetcode.com/problems/kth-largest-element-in-an-array
+EASY,Valid Palindrome,76.5,0.4953346010812808,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Step-By-Step Directions From a Binary Tree Node to Another,60.5,0.5634386884682323,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another
+EASY,Valid Anagram,60.5,0.6577863498389818,https://leetcode.com/problems/valid-anagram
+HARD,Find Median from Data Stream,60.5,0.5268864985653805,https://leetcode.com/problems/find-median-from-data-stream
+EASY,Ransom Note,60.5,0.6337342367022579,https://leetcode.com/problems/ransom-note

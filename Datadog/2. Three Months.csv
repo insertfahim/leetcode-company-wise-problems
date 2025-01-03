@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Most Common Word,100.0,0.4443484181255917,https://leetcode.com/problems/most-common-word
+MEDIUM,Meeting Scheduler,100.0,0.5526809195260047,https://leetcode.com/problems/meeting-scheduler
+EASY,Valid Word Abbreviation,80.5,0.36435477079454254,https://leetcode.com/problems/valid-word-abbreviation
+MEDIUM,Design Add and Search Words Data Structure,80.5,0.4637560467028875,https://leetcode.com/problems/design-add-and-search-words-data-structure
+MEDIUM,Coin Change,65.7,0.4539445577418768,https://leetcode.com/problems/coin-change
+MEDIUM,Design Circular Queue,65.7,0.5212501011349177,https://leetcode.com/problems/design-circular-queue
+HARD,Sliding Window Median,65.7,0.387165993971287,https://leetcode.com/problems/sliding-window-median

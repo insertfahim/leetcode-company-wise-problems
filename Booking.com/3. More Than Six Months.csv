@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Reward Top K Students,100.0,0.4547847079309799,https://leetcode.com/problems/reward-top-k-students
+HARD,Sliding Window Maximum,98.3,0.47070077867817145,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Maximal Square,74.9,0.4785891172618285,https://leetcode.com/problems/maximal-square
+HARD,Binary Tree Maximum Path Sum,68.8,0.4069359620574807,https://leetcode.com/problems/binary-tree-maximum-path-sum
+MEDIUM,Longest Increasing Subsequence,68.8,0.5682748532944198,https://leetcode.com/problems/longest-increasing-subsequence
+EASY,Backspace String Compare,68.8,0.49340692937223884,https://leetcode.com/problems/backspace-string-compare
+MEDIUM,Least Number of Unique Integers after K Removals,60.2,0.6321634469008731,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
+MEDIUM,Minimum Knight Moves,60.2,0.4103524325801305,https://leetcode.com/problems/minimum-knight-moves
+MEDIUM,Number of Islands,60.2,0.6107409675133405,https://leetcode.com/problems/number-of-islands
+HARD,Reconstruct Itinerary,60.2,0.4337038379707765,https://leetcode.com/problems/reconstruct-itinerary

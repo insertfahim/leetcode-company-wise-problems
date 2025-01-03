@@ -1,0 +1,40 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Group Anagrams,100.0,0.6992934046914434,https://leetcode.com/problems/group-anagrams
+EASY,Valid Parentheses,100.0,0.415071517206673,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Minimum Operations to Make a Uni-Value Grid,100.0,0.5363385064101169,https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid
+MEDIUM,Longest Substring Without Repeating Characters,97.3,0.35935496870593314,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Two Sum,90.8,0.5450377329536557,https://leetcode.com/problems/two-sum
+EASY,Valid Anagram,82.2,0.6577860967611406,https://leetcode.com/problems/valid-anagram
+EASY,Valid Palindrome,82.2,0.49533487101511736,https://leetcode.com/problems/valid-palindrome
+EASY,Longest Common Prefix,76.4,0.4441692447354832,https://leetcode.com/problems/longest-common-prefix
+EASY,Best Time to Buy and Sell Stock,76.4,0.5449248309546285,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Merge Sorted Array,76.4,0.51747792455146,https://leetcode.com/problems/merge-sorted-array
+HARD,Trapping Rain Water,76.4,0.6373269036657847,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Longest Palindromic Substring,76.4,0.34945215263590723,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Maximum Difference Between Node and Ancestor,69.0,0.7805861197489553,https://leetcode.com/problems/maximum-difference-between-node-and-ancestor
+EASY,Merge Two Sorted Lists,69.0,0.6585747238078768,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Gas Station,69.0,0.45784355699193585,https://leetcode.com/problems/gas-station
+EASY,Isomorphic Strings,69.0,0.4609217847199645,https://leetcode.com/problems/isomorphic-strings
+EASY,Palindrome Number,69.0,0.5816773434670786,https://leetcode.com/problems/palindrome-number
+MEDIUM,Longest Consecutive Sequence,58.7,0.4769878681204598,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Reverse Integer,58.7,0.29565321609987966,https://leetcode.com/problems/reverse-integer
+EASY,Remove Duplicates from Sorted Array,58.7,0.5868535892391336,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+MEDIUM,String Compression,58.7,0.5666213974292776,https://leetcode.com/problems/string-compression
+EASY,Binary Search,58.7,0.5884044139650205,https://leetcode.com/problems/binary-search
+MEDIUM,Kth Largest Element in an Array,58.7,0.6735616595730576,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Partition Equal Subset Sum,58.7,0.4699740653251745,https://leetcode.com/problems/partition-equal-subset-sum
+MEDIUM,Managers with at Least 5 Direct Reports,58.7,0.49353207201404353,https://leetcode.com/problems/managers-with-at-least-5-direct-reports
+MEDIUM,House Robber,58.7,0.5179703094492741,https://leetcode.com/problems/house-robber
+EASY,Linked List Cycle,58.7,0.5159051287332405,https://leetcode.com/problems/linked-list-cycle
+MEDIUM,Coin Change,58.7,0.45394451937998725,https://leetcode.com/problems/coin-change
+MEDIUM,Ugly Number II,58.7,0.4913581253482098,https://leetcode.com/problems/ugly-number-ii
+EASY,To Be Or Not To Be,58.7,0.6256355252711662,https://leetcode.com/problems/to-be-or-not-to-be
+MEDIUM,Asteroid Collision,58.7,0.44934041464280844,https://leetcode.com/problems/asteroid-collision
+EASY,Contains Duplicate,58.7,0.6254448757015976,https://leetcode.com/problems/contains-duplicate
+MEDIUM,Add Two Numbers,58.7,0.4487592816220966,https://leetcode.com/problems/add-two-numbers
+EASY,Pascal's Triangle,58.7,0.7598858510150002,https://leetcode.com/problems/pascals-triangle
+HARD,Maximal Rectangle,58.7,0.5240599243071431,https://leetcode.com/problems/maximal-rectangle
+MEDIUM,Edit Distance,58.7,0.5783444792167877,https://leetcode.com/problems/edit-distance
+MEDIUM,Search in Rotated Sorted Array,58.7,0.41984384944144965,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,3Sum,58.7,0.3596108453888162,https://leetcode.com/problems/3sum
+MEDIUM,Reverse Linked List II,58.7,0.48761577980734516,https://leetcode.com/problems/reverse-linked-list-ii

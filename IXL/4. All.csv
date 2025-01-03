@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Range Addition II,100.0,0.5676870643863797,https://leetcode.com/problems/range-addition-ii
+MEDIUM,Fraction Addition and Subtraction,91.0,0.6609532071235393,https://leetcode.com/problems/fraction-addition-and-subtraction
+EASY,Palindrome Linked List,89.3,0.5471520649473638,https://leetcode.com/problems/palindrome-linked-list
+HARD,Merge k Sorted Lists,87.5,0.5509067888536985,https://leetcode.com/problems/merge-k-sorted-lists
+HARD,Find Median from Data Stream,87.5,0.5268864673710004,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Find the Derangement of An Array,85.5,0.41851598748336516,https://leetcode.com/problems/find-the-derangement-of-an-array
+MEDIUM,Fraction to Recurring Decimal,85.5,0.2566699160722933,https://leetcode.com/problems/fraction-to-recurring-decimal
+HARD,Stickers to Spell Word,85.5,0.4968739736311172,https://leetcode.com/problems/stickers-to-spell-word
+MEDIUM,Design Snake Game,83.3,0.38979893168888696,https://leetcode.com/problems/design-snake-game
+MEDIUM,Merge Intervals,78.0,0.4843936725231546,https://leetcode.com/problems/merge-intervals
+MEDIUM,Minimum Number of Steps to Make Two Strings Anagram,78.0,0.8211011461270433,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram
+MEDIUM,Insert Delete GetRandom O(1),66.3,0.5479291811733571,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Find Peak Element,66.3,0.4622902151293688,https://leetcode.com/problems/find-peak-element
+MEDIUM,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,60.3,0.4115265867869379,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+MEDIUM,Basic Calculator II,60.3,0.4484147315350681,https://leetcode.com/problems/basic-calculator-ii
+MEDIUM,Search in Rotated Sorted Array,51.9,0.4198439408125647,https://leetcode.com/problems/search-in-rotated-sorted-array

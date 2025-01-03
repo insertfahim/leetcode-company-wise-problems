@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Group Anagrams,100.0,0.6992936943546035,https://leetcode.com/problems/group-anagrams
+MEDIUM,Combination Sum,88.0,0.7341589074330903,https://leetcode.com/problems/combination-sum
+HARD,Sliding Window Maximum,88.0,0.47070077867817145,https://leetcode.com/problems/sliding-window-maximum
+HARD,Block Placement Queries,88.0,0.15156909121942894,https://leetcode.com/problems/block-placement-queries

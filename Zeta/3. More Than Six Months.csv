@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Maximum Profit in Job Scheduling,100.0,0.5432325688353709,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Evaluate Division,100.0,0.6251130987326036,https://leetcode.com/problems/evaluate-division
+HARD,IPO,100.0,0.5302383881328909,https://leetcode.com/problems/ipo
+EASY,Valid Parentheses,87.8,0.41507167062884465,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Task Scheduler,87.8,0.607231722432908,https://leetcode.com/problems/task-scheduler
+HARD,Insert Delete GetRandom O(1) - Duplicates allowed,87.8,0.35710778690405176,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+MEDIUM,Find a Peak Element II,87.8,0.5251487027939408,https://leetcode.com/problems/find-a-peak-element-ii
+MEDIUM,Interleaving String,87.8,0.4105512236398566,https://leetcode.com/problems/interleaving-string
+MEDIUM,Minimum Operations to Write the Letter Y on a Grid,87.8,0.6219364016240405,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid

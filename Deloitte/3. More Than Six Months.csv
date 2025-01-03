@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5450377139230658,https://leetcode.com/problems/two-sum
+EASY,Palindrome Number,81.9,0.5816773434670786,https://leetcode.com/problems/palindrome-number
+EASY,Valid Parentheses,60.9,0.415071517206673,https://leetcode.com/problems/valid-parentheses
+EASY,Pascal's Triangle,60.9,0.7598859452939477,https://leetcode.com/problems/pascals-triangle
+EASY,Best Time to Buy and Sell Stock,60.9,0.5449248309546285,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Valid Palindrome,60.9,0.49533487101511736,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Consecutive Numbers,60.9,0.4485342652278376,https://leetcode.com/problems/consecutive-numbers
+MEDIUM,Reverse Integer,60.9,0.2956531925397237,https://leetcode.com/problems/reverse-integer
+EASY,Climbing Stairs,60.9,0.5326791830138113,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Longest Palindromic Substring,60.9,0.3494522172961674,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Maximum Subarray,60.9,0.5149492573397999,https://leetcode.com/problems/maximum-subarray

@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Number of Subarrays That Match a Pattern I,100.0,0.6672043140181516,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i
+HARD,Count Prefix and Suffix Pairs II,100.0,0.24854086887627097,https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii
+EASY,Count Prefix and Suffix Pairs I,100.0,0.6572974119643614,https://leetcode.com/problems/count-prefix-and-suffix-pairs-i
+EASY,Number of Changing Keys,100.0,0.801005318188761,https://leetcode.com/problems/number-of-changing-keys
+EASY,Distribute Elements Into Two Arrays I,100.0,0.7243016502258689,https://leetcode.com/problems/distribute-elements-into-two-arrays-i
+HARD,Distribute Elements Into Two Arrays II,100.0,0.27450433547994524,https://leetcode.com/problems/distribute-elements-into-two-arrays-ii
+HARD,Number of Subarrays That Match a Pattern II,100.0,0.3195586326265686,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii
+MEDIUM,Product of Array Except Self,100.0,0.6710052268284257,https://leetcode.com/problems/product-of-array-except-self
+HARD,Sliding Window Maximum,100.0,0.47070077867817145,https://leetcode.com/problems/sliding-window-maximum
+HARD,Reverse Nodes in k-Group,100.0,0.6135053599150075,https://leetcode.com/problems/reverse-nodes-in-k-group

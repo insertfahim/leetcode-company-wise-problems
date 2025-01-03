@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Number of Divisible Substrings,100.0,0.737146529562982,https://leetcode.com/problems/number-of-divisible-substrings
+MEDIUM,Minimum Moves to Reach Target Score,86.8,0.5115919464232394,https://leetcode.com/problems/minimum-moves-to-reach-target-score
+MEDIUM,Largest Magic Square,86.8,0.5291177928300016,https://leetcode.com/problems/largest-magic-square
+HARD,Tournament Winners,76.3,0.4940856741885902,https://leetcode.com/problems/tournament-winners
+MEDIUM,Best Sightseeing Pair,76.3,0.6249090003448408,https://leetcode.com/problems/best-sightseeing-pair
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,76.3,0.46039031609128955,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
+EASY,Maximum Number of Balloons,76.3,0.5971079881298743,https://leetcode.com/problems/maximum-number-of-balloons
+EASY,Delete Characters to Make Fancy String,76.3,0.718511661056603,https://leetcode.com/problems/delete-characters-to-make-fancy-string
+MEDIUM,Longest Happy String,76.3,0.6549387888573238,https://leetcode.com/problems/longest-happy-string
+MEDIUM,Team Scores in Football Tournament,76.3,0.556683133560551,https://leetcode.com/problems/team-scores-in-football-tournament
+MEDIUM,Design A Leaderboard,76.3,0.6787329532655219,https://leetcode.com/problems/design-a-leaderboard
+MEDIUM,Group Anagrams,76.3,0.6992934868284802,https://leetcode.com/problems/group-anagrams
+HARD,Reaching Points,76.3,0.33458168031515745,https://leetcode.com/problems/reaching-points
+EASY,Backspace String Compare,76.3,0.49340692937223884,https://leetcode.com/problems/backspace-string-compare

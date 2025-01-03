@@ -1,0 +1,24 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Valid Parentheses,100.0,0.41507165054212236,https://leetcode.com/problems/valid-parentheses
+EASY,Baseball Game,80.4,0.7781493579760059,https://leetcode.com/problems/baseball-game
+MEDIUM,Longest Substring Without Repeating Characters,76.0,0.35935501792812213,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Climbing Stairs,66.7,0.5326791830138113,https://leetcode.com/problems/climbing-stairs
+EASY,Two Sum,62.3,0.5450378060909996,https://leetcode.com/problems/two-sum
+MEDIUM,Longest Consecutive Sequence,62.3,0.47698797993463193,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Number of Islands,62.3,0.6107411193691994,https://leetcode.com/problems/number-of-islands
+EASY,Maximum Depth of Binary Tree,56.6,0.7649305432345342,https://leetcode.com/problems/maximum-depth-of-binary-tree
+MEDIUM,Merge Intervals,56.6,0.4843938271251155,https://leetcode.com/problems/merge-intervals
+MEDIUM,Longest Repeating Character Replacement,56.6,0.5593798775416046,https://leetcode.com/problems/longest-repeating-character-replacement
+MEDIUM,Maximum Number of Vowels in a Substring of Given Length,56.6,0.5944449568411287,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length
+EASY,Find the Town Judge,56.6,0.49815672321681986,https://leetcode.com/problems/find-the-town-judge
+EASY,Longest Common Prefix,56.6,0.4441695020446017,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Find Duplicate File in System,56.6,0.6757875562231834,https://leetcode.com/problems/find-duplicate-file-in-system
+MEDIUM,Maximum Subarray,56.6,0.5149491985257812,https://leetcode.com/problems/maximum-subarray
+MEDIUM,House Robber,48.6,0.5179701040011725,https://leetcode.com/problems/house-robber
+EASY,Degree of an Array,48.6,0.5698956897862303,https://leetcode.com/problems/degree-of-an-array
+HARD,Regular Expression Matching,48.6,0.2871666587774874,https://leetcode.com/problems/regular-expression-matching
+EASY,Valid Palindrome,48.6,0.49533487226275175,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Consecutive Numbers,48.6,0.4485342652278376,https://leetcode.com/problems/consecutive-numbers
+EASY,Reverse Only Letters,48.6,0.6606752316453423,https://leetcode.com/problems/reverse-only-letters
+MEDIUM,Product of Array Except Self,48.6,0.6710049551848479,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Minimum Cost For Tickets,48.6,0.6683427760796247,https://leetcode.com/problems/minimum-cost-for-tickets

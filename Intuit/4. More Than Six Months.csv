@@ -1,0 +1,42 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Minimum Number of Taps to Open to Water a Garden,100.0,0.5067444839239581,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+MEDIUM,Product of Array Except Self,86.6,0.671004697106474,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Course Schedule II,84.2,0.5213314490627796,https://leetcode.com/problems/course-schedule-ii
+HARD,Sudoku Solver,74.9,0.6353187693011552,https://leetcode.com/problems/sudoku-solver
+MEDIUM,LRU Cache,70.8,0.43931282082485557,https://leetcode.com/problems/lru-cache
+MEDIUM,Longest Substring Without Repeating Characters,70.8,0.35935510796865716,https://leetcode.com/problems/longest-substring-without-repeating-characters
+HARD,Trapping Rain Water,70.8,0.6373266996622174,https://leetcode.com/problems/trapping-rain-water
+EASY,Valid Parentheses,65.7,0.4150710712998599,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Increasing Subsequence,65.7,0.5682747680336958,https://leetcode.com/problems/longest-increasing-subsequence
+EASY,Two Sum,65.7,0.545037262036982,https://leetcode.com/problems/two-sum
+MEDIUM,3Sum,65.7,0.3596103588159522,https://leetcode.com/problems/3sum
+MEDIUM,Generate Parentheses,59.2,0.7608326432421841,https://leetcode.com/problems/generate-parentheses
+MEDIUM,Heaters,59.2,0.3901672280328547,https://leetcode.com/problems/heaters
+MEDIUM,Min Stack,59.2,0.5551934352068475,https://leetcode.com/problems/min-stack
+MEDIUM,Spiral Matrix,59.2,0.5222658592193944,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Group Anagrams,59.2,0.6992933816089633,https://leetcode.com/problems/group-anagrams
+EASY,Best Time to Buy and Sell Stock,59.2,0.5449244699946929,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Rotting Oranges,59.2,0.5552270788690786,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Course Schedule,50.0,0.48040217444192185,https://leetcode.com/problems/course-schedule
+EASY,Logger Rate Limiter,50.0,0.7624629224195769,https://leetcode.com/problems/logger-rate-limiter
+MEDIUM,Minimum Cost For Tickets,50.0,0.6681706806908504,https://leetcode.com/problems/minimum-cost-for-tickets
+MEDIUM,Top K Frequent Elements,50.0,0.6375225221350656,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Shortest Path in Binary Matrix,50.0,0.48734273684736573,https://leetcode.com/problems/shortest-path-in-binary-matrix
+MEDIUM,Decode String,50.0,0.6036416170670444,https://leetcode.com/problems/decode-string
+EASY,Merge Two Sorted Lists,50.0,0.6585744331097143,https://leetcode.com/problems/merge-two-sorted-lists
+EASY,Palindrome Linked List,50.0,0.547152476831458,https://leetcode.com/problems/palindrome-linked-list
+EASY,Unique Email Addresses,50.0,0.6739605360909752,https://leetcode.com/problems/unique-email-addresses
+MEDIUM,Most Profitable Path in a Tree,50.0,0.49647672606545157,https://leetcode.com/problems/most-profitable-path-in-a-tree
+MEDIUM,House Robber,50.0,0.5179710855435253,https://leetcode.com/problems/house-robber
+HARD,Serialize and Deserialize Binary Tree,50.0,0.5798676566304269,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+MEDIUM,Largest Plus Sign,50.0,0.48530065599088945,https://leetcode.com/problems/largest-plus-sign
+MEDIUM,Partition to K Equal Sum Subsets,50.0,0.3810220481631813,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+MEDIUM,Task Scheduler,50.0,0.6072305839602888,https://leetcode.com/problems/task-scheduler
+MEDIUM,132 Pattern,50.0,0.3379078286892234,https://leetcode.com/problems/132-pattern
+MEDIUM,Pacific Atlantic Water Flow,50.0,0.5652043234855788,https://leetcode.com/problems/pacific-atlantic-water-flow
+MEDIUM,Insert Delete GetRandom O(1),50.0,0.5479318739788719,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Number of Islands,50.0,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Word Break,50.0,0.4761083778436794,https://leetcode.com/problems/word-break
+EASY,Merge Sorted Array,50.0,0.5174772821513637,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Find First and Last Position of Element in Sorted Array,50.0,0.45709879993235825,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Binary Tree Level Order Traversal,50.0,0.6925573181064969,https://leetcode.com/problems/binary-tree-level-order-traversal

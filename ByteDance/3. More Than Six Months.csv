@@ -1,0 +1,37 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.35935510796865716,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,LRU Cache,100.0,0.43931282082485557,https://leetcode.com/problems/lru-cache
+MEDIUM,Number of Islands,100.0,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Delete Operation for Two Strings,95.6,0.6296800781581484,https://leetcode.com/problems/delete-operation-for-two-strings
+MEDIUM,Kth Largest Element in an Array,84.2,0.6735616801922868,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,House Robber,84.2,0.5179711882682598,https://leetcode.com/problems/house-robber
+MEDIUM,House Robber II,76.0,0.4287251364396007,https://leetcode.com/problems/house-robber-ii
+MEDIUM,Course Schedule II,76.0,0.5213314490627796,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Sum Game,76.0,0.47930794325721204,https://leetcode.com/problems/sum-game
+MEDIUM,Longest Consecutive Sequence,76.0,0.4769874933190807,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Container With Most Water,76.0,0.5672665887334252,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Longest Palindromic Substring,76.0,0.3494519324447921,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Decode String,76.0,0.6036416170670444,https://leetcode.com/problems/decode-string
+MEDIUM,Course Schedule,76.0,0.48040217444192185,https://leetcode.com/problems/course-schedule
+HARD,Trapping Rain Water,76.0,0.6373268616227137,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Sort List,76.0,0.6028453669100695,https://leetcode.com/problems/sort-list
+EASY,Intersection of Two Linked Lists,64.6,0.5967376114378943,https://leetcode.com/problems/intersection-of-two-linked-lists
+MEDIUM,Coin Change II,64.6,0.6370741268057407,https://leetcode.com/problems/coin-change-ii
+MEDIUM,Search in Rotated Sorted Array,64.6,0.41984371635813456,https://leetcode.com/problems/search-in-rotated-sorted-array
+EASY,Two Sum,64.6,0.545037262036982,https://leetcode.com/problems/two-sum
+MEDIUM,H-Index,64.6,0.3969262110333371,https://leetcode.com/problems/h-index
+HARD,Minimum Window Substring,64.6,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
+EASY,Move Zeroes,64.6,0.6235858405071185,https://leetcode.com/problems/move-zeroes
+MEDIUM,Open the Lock,64.6,0.6050284436319101,https://leetcode.com/problems/open-the-lock
+HARD,Shortest Distance from All Buildings,64.6,0.43655004301691996,https://leetcode.com/problems/shortest-distance-from-all-buildings
+MEDIUM,Find All Good Indices,64.6,0.3926794438181135,https://leetcode.com/problems/find-all-good-indices
+MEDIUM,Number of Good Leaf Nodes Pairs,64.6,0.7185392116545423,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs
+MEDIUM,Partition to K Equal Sum Subsets,64.6,0.3810220481631813,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+EASY,Degree of an Array,64.6,0.5698956897862303,https://leetcode.com/problems/degree-of-an-array
+MEDIUM,Find Minimum in Rotated Sorted Array,64.6,0.5180757859662102,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+MEDIUM,Unique Paths,64.6,0.6516080911016299,https://leetcode.com/problems/unique-paths
+MEDIUM,Merge Intervals,64.6,0.484394053704699,https://leetcode.com/problems/merge-intervals
+MEDIUM,"Pow(x, n)",64.6,0.36107215592112524,https://leetcode.com/problems/powx-n
+MEDIUM,Permutations,64.6,0.7976511517416863,https://leetcode.com/problems/permutations
+MEDIUM,Next Permutation,64.6,0.418295146246823,https://leetcode.com/problems/next-permutation
+EASY,Reverse Linked List,64.6,0.7822930814562448,https://leetcode.com/problems/reverse-linked-list

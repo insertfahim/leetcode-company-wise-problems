@@ -1,0 +1,28 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Count Subarrays With Fixed Bounds,100.0,0.6777516212535288,https://leetcode.com/problems/count-subarrays-with-fixed-bounds
+MEDIUM,Maximum Number of Alloys,98.4,0.38679864653300344,https://leetcode.com/problems/maximum-number-of-alloys
+MEDIUM,Total Cost to Hire K Workers,92.7,0.42771688861747686,https://leetcode.com/problems/total-cost-to-hire-k-workers
+EASY,Reshape the Matrix,92.7,0.6356330644083047,https://leetcode.com/problems/reshape-the-matrix
+MEDIUM,Earliest Second to Mark Indices I,90.4,0.3543499704083646,https://leetcode.com/problems/earliest-second-to-mark-indices-i
+HARD,Count Anagrams,90.4,0.34261522130884503,https://leetcode.com/problems/count-anagrams
+MEDIUM,Remove Colored Pieces if Both Neighbors are the Same Color,90.4,0.6281772335509116,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color
+EASY,Keyboard Row,90.4,0.7174346201743462,https://leetcode.com/problems/keyboard-row
+HARD,Last Substring in Lexicographical Order,90.4,0.34526769591483647,https://leetcode.com/problems/last-substring-in-lexicographical-order
+MEDIUM,Minimum Cost Tree From Leaf Values,90.4,0.6769583304400523,https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
+HARD,Earliest Second to Mark Indices II,90.4,0.20596246973365617,https://leetcode.com/problems/earliest-second-to-mark-indices-ii
+MEDIUM,Maximum Palindromes After Operations,90.4,0.4266732283464567,https://leetcode.com/problems/maximum-palindromes-after-operations
+HARD,String Transformation,78.4,0.30096546602302265,https://leetcode.com/problems/string-transformation
+EASY,Pass the Pillow,74.1,0.5675506541013964,https://leetcode.com/problems/pass-the-pillow
+HARD,Sum of Distances in Tree,62.1,0.6527572864181722,https://leetcode.com/problems/sum-of-distances-in-tree
+HARD,Split Array Largest Sum,62.1,0.5696858877189643,https://leetcode.com/problems/split-array-largest-sum
+HARD,Minimum Edge Reversals So Every Node Is Reachable,62.1,0.572940063837333,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable
+HARD,Cherry Pickup,62.1,0.3739606219367923,https://leetcode.com/problems/cherry-pickup
+MEDIUM,Beautiful Arrangement,62.1,0.6439193836841381,https://leetcode.com/problems/beautiful-arrangement
+MEDIUM,Longest String Chain,62.1,0.6153565067733707,https://leetcode.com/problems/longest-string-chain
+MEDIUM,Fraction to Recurring Decimal,52.6,0.2566699160722933,https://leetcode.com/problems/fraction-to-recurring-decimal
+HARD,Remove Boxes,52.6,0.48104023158719383,https://leetcode.com/problems/remove-boxes
+MEDIUM,Break a Palindrome,52.6,0.5157718967151665,https://leetcode.com/problems/break-a-palindrome
+HARD,Reverse Nodes in k-Group,52.6,0.613504499086819,https://leetcode.com/problems/reverse-nodes-in-k-group
+EASY,Valid Parentheses,52.6,0.41507135087778624,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Add Two Numbers,52.6,0.44875931441194117,https://leetcode.com/problems/add-two-numbers
+EASY,Two Sum,52.6,0.5450375385417704,https://leetcode.com/problems/two-sum

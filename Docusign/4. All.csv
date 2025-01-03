@@ -1,0 +1,31 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Copy List with Random Pointer,100.0,0.5874397483178054,https://leetcode.com/problems/copy-list-with-random-pointer
+MEDIUM,Rotting Oranges,94.9,0.5552280041858152,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Merge Intervals,94.9,0.4843941576256604,https://leetcode.com/problems/merge-intervals
+MEDIUM,Product of Array Except Self,88.6,0.67100503462779,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Implement Trie (Prefix Tree),88.6,0.6700109455193448,https://leetcode.com/problems/implement-trie-prefix-tree
+MEDIUM,Design Authentication Manager,80.6,0.5802996080515512,https://leetcode.com/problems/design-authentication-manager
+HARD,Find Median from Data Stream,80.6,0.5268864985653805,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Top K Frequent Elements,80.6,0.6375232778678548,https://leetcode.com/problems/top-k-frequent-elements
+HARD,Reaching Points,80.6,0.33458168031515745,https://leetcode.com/problems/reaching-points
+EASY,Excel Sheet Column Number,80.6,0.6498825318393703,https://leetcode.com/problems/excel-sheet-column-number
+MEDIUM,Sort Colors,80.6,0.6576632685394608,https://leetcode.com/problems/sort-colors
+EASY,Valid Parentheses,80.6,0.41507138959708056,https://leetcode.com/problems/valid-parentheses
+MEDIUM,3Sum,80.6,0.3596105785268592,https://leetcode.com/problems/3sum
+MEDIUM,Peak Index in a Mountain Array,69.3,0.6795606062945067,https://leetcode.com/problems/peak-index-in-a-mountain-array
+MEDIUM,Shortest Bridge,69.3,0.5815828379585425,https://leetcode.com/problems/shortest-bridge
+MEDIUM,Course Schedule,69.3,0.48040235964166944,https://leetcode.com/problems/course-schedule
+MEDIUM,Inorder Successor in BST,69.3,0.5035376844722373,https://leetcode.com/problems/inorder-successor-in-bst
+MEDIUM,Reorder Routes to Make All Paths Lead to the City Zero,69.3,0.6463616187373095,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero
+MEDIUM,LRU Cache,69.3,0.43931313762817015,https://leetcode.com/problems/lru-cache
+EASY,Two Sum,69.3,0.545037719893045,https://leetcode.com/problems/two-sum
+MEDIUM,Boats to Save People,69.3,0.5974447109837446,https://leetcode.com/problems/boats-to-save-people
+EASY,Palindrome Permutation,69.3,0.6799983684431811,https://leetcode.com/problems/palindrome-permutation
+MEDIUM,Binary Tree Level Order Traversal,69.3,0.6925575657342761,https://leetcode.com/problems/binary-tree-level-order-traversal
+HARD,IPO,69.3,0.5302383881328909,https://leetcode.com/problems/ipo
+MEDIUM,Optimal Partition of String,69.3,0.7802818897478381,https://leetcode.com/problems/optimal-partition-of-string
+MEDIUM,Longest Substring Without Repeating Characters,69.3,0.3593548594112661,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Clone Graph,69.3,0.6035234387313341,https://leetcode.com/problems/clone-graph
+MEDIUM,Binary Tree Zigzag Level Order Traversal,69.3,0.6057802027227276,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+MEDIUM,Minesweeper,69.3,0.6749861967603213,https://leetcode.com/problems/minesweeper
+MEDIUM,Insert Delete GetRandom O(1),69.3,0.5479298068394599,https://leetcode.com/problems/insert-delete-getrandom-o1

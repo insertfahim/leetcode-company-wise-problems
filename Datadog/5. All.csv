@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Coin Change,100.0,0.4539445577418768,https://leetcode.com/problems/coin-change
+EASY,Most Common Word,86.3,0.4443484181255917,https://leetcode.com/problems/most-common-word
+MEDIUM,Design Circular Queue,83.0,0.5212501011349177,https://leetcode.com/problems/design-circular-queue
+EASY,Maximum Depth of N-ary Tree,83.0,0.7260897559260342,https://leetcode.com/problems/maximum-depth-of-n-ary-tree
+MEDIUM,Meeting Scheduler,83.0,0.5526809195260047,https://leetcode.com/problems/meeting-scheduler
+EASY,Valid Word Abbreviation,74.1,0.36435477079454254,https://leetcode.com/problems/valid-word-abbreviation
+HARD,Sliding Window Median,67.5,0.387165993971287,https://leetcode.com/problems/sliding-window-median
+MEDIUM,Design Add and Search Words Data Structure,67.5,0.4637560467028875,https://leetcode.com/problems/design-add-and-search-words-data-structure
+HARD,Maximum Vacation Days,63.1,0.46057729676256876,https://leetcode.com/problems/maximum-vacation-days
+HARD,Binary Tree Maximum Path Sum,63.1,0.4069360776415325,https://leetcode.com/problems/binary-tree-maximum-path-sum
+EASY,Check If It Is a Straight Line,57.4,0.3959051864267189,https://leetcode.com/problems/check-if-it-is-a-straight-line
+MEDIUM,People Whose List of Favorite Companies Is Not a Subset of Another List,57.4,0.5890770533446232,https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list
+EASY,Unique Number of Occurrences,49.5,0.7782203408147071,https://leetcode.com/problems/unique-number-of-occurrences
+MEDIUM,Binary Search Tree to Greater Sum Tree,49.5,0.883062699318295,https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree
+EASY,Odd String Difference,49.5,0.6028829649350195,https://leetcode.com/problems/odd-string-difference
+EASY,Find Words That Can Be Formed by Characters,49.5,0.7081679412326275,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters
+EASY,Greatest Common Divisor of Strings,49.5,0.5225951734618332,https://leetcode.com/problems/greatest-common-divisor-of-strings

@@ -1,0 +1,21 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.545037217525334,https://leetcode.com/problems/two-sum
+HARD,Trapping Rain Water,100.0,0.6373268616227137,https://leetcode.com/problems/trapping-rain-water
+EASY,Longest Common Prefix,100.0,0.4441689625430446,https://leetcode.com/problems/longest-common-prefix
+EASY,Split the Array,91.2,0.5899891904876291,https://leetcode.com/problems/split-the-array
+MEDIUM,Rotating the Box,91.2,0.7919556938587133,https://leetcode.com/problems/rotating-the-box
+EASY,Create Target Array in the Given Order,91.2,0.8608800789080149,https://leetcode.com/problems/create-target-array-in-the-given-order
+MEDIUM,Course Schedule,91.2,0.48040217444192185,https://leetcode.com/problems/course-schedule
+MEDIUM,Match Alphanumerical Pattern in Matrix I,78.9,0.6458015267175573,https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i
+EASY,Divisor Game,78.9,0.6972380559780524,https://leetcode.com/problems/divisor-game
+MEDIUM,Count Nodes With the Highest Score,78.9,0.506169432087541,https://leetcode.com/problems/count-nodes-with-the-highest-score
+EASY,Two Furthest Houses With Different Colors,78.9,0.6560716952949963,https://leetcode.com/problems/two-furthest-houses-with-different-colors
+MEDIUM,Walls and Gates,78.9,0.6225322221282117,https://leetcode.com/problems/walls-and-gates
+HARD,Text Justification,78.9,0.4625562871305861,https://leetcode.com/problems/text-justification
+EASY,Odd String Difference,78.9,0.6028829649350195,https://leetcode.com/problems/odd-string-difference
+MEDIUM,Find Score of an Array After Marking All Elements,78.9,0.649423171975728,https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements
+EASY,Diameter of Binary Tree,78.9,0.6220183721681906,https://leetcode.com/problems/diameter-of-binary-tree
+EASY,Image Smoother,78.9,0.6777015961997824,https://leetcode.com/problems/image-smoother
+HARD,Earliest Possible Day of Full Bloom,78.9,0.7133136168826286,https://leetcode.com/problems/earliest-possible-day-of-full-bloom
+MEDIUM,Maximum Number of Events That Can Be Attended,78.9,0.32631481401806367,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended
+MEDIUM,LRU Cache,78.9,0.43931269061091177,https://leetcode.com/problems/lru-cache

@@ -1,0 +1,58 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,LRU Cache,100.0,0.43931282082485557,https://leetcode.com/problems/lru-cache
+MEDIUM,Smallest Subsequence of Distinct Characters,90.9,0.6152702670127199,https://leetcode.com/problems/smallest-subsequence-of-distinct-characters
+MEDIUM,First Day Where You Have Been in All the Rooms,88.6,0.37606961042712206,https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms
+MEDIUM,Remove Duplicate Letters,88.6,0.5051646576433567,https://leetcode.com/problems/remove-duplicate-letters
+MEDIUM,Number of Islands,83.2,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Longest Substring Without Repeating Characters,80.0,0.35935510796865716,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Delete Operation for Two Strings,76.3,0.6296800781581484,https://leetcode.com/problems/delete-operation-for-two-strings
+MEDIUM,Kth Largest Element in an Array,71.9,0.6735616801922868,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Course Schedule,71.9,0.48040217444192185,https://leetcode.com/problems/course-schedule
+HARD,Trapping Rain Water,66.5,0.6373266996622174,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,House Robber II,66.5,0.4287251364396007,https://leetcode.com/problems/house-robber-ii
+MEDIUM,Combination Sum,66.5,0.7341580330314653,https://leetcode.com/problems/combination-sum
+MEDIUM,Sort List,66.5,0.6028453669100695,https://leetcode.com/problems/sort-list
+MEDIUM,Longest Palindromic Substring,66.5,0.3494519324447921,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Number of Good Leaf Nodes Pairs,66.5,0.7185392116545423,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs
+MEDIUM,House Robber,66.5,0.5179711882682598,https://leetcode.com/problems/house-robber
+MEDIUM,Insert Delete GetRandom O(1),59.6,0.5479318739788719,https://leetcode.com/problems/insert-delete-getrandom-o1
+EASY,Two Sum,59.6,0.545037262036982,https://leetcode.com/problems/two-sum
+MEDIUM,Combination Sum II,59.6,0.5686399341274754,https://leetcode.com/problems/combination-sum-ii
+MEDIUM,Maximal Square,59.6,0.4785887884532192,https://leetcode.com/problems/maximal-square
+MEDIUM,Decode String,59.6,0.6036416170670444,https://leetcode.com/problems/decode-string
+MEDIUM,Sum Game,59.6,0.47930794325721204,https://leetcode.com/problems/sum-game
+EASY,Reverse Linked List,59.6,0.7822930814562448,https://leetcode.com/problems/reverse-linked-list
+MEDIUM,Course Schedule II,59.6,0.5213314490627796,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Longest Consecutive Sequence,59.6,0.4769874933190807,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Container With Most Water,59.6,0.5672665887334252,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Search in Rotated Sorted Array,59.6,0.41984371635813456,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Merge Intervals,59.6,0.484394053704699,https://leetcode.com/problems/merge-intervals
+MEDIUM,Unique Paths,59.6,0.6516080911016299,https://leetcode.com/problems/unique-paths
+HARD,Regular Expression Matching,59.6,0.28716823720578466,https://leetcode.com/problems/regular-expression-matching
+MEDIUM,Rotting Oranges,59.6,0.5552270788690786,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Top K Frequent Elements,49.8,0.6375224304330854,https://leetcode.com/problems/top-k-frequent-elements
+EASY,Climbing Stairs,49.8,0.5326793768408624,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Longest Common Subsequence,49.8,0.5785368168703608,https://leetcode.com/problems/longest-common-subsequence
+HARD,Sum of Distances in Tree,49.8,0.6527572864181722,https://leetcode.com/problems/sum-of-distances-in-tree
+MEDIUM,Search a 2D Matrix II,49.8,0.540189178400592,https://leetcode.com/problems/search-a-2d-matrix-ii
+EASY,Add to Array-Form of Integer,49.8,0.4499989679214096,https://leetcode.com/problems/add-to-array-form-of-integer
+EASY,Best Time to Buy and Sell Stock,49.8,0.5449244262348049,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Minimum Area Rectangle,49.8,0.5460799463475173,https://leetcode.com/problems/minimum-area-rectangle
+MEDIUM,Basic Calculator II,49.8,0.448415230290278,https://leetcode.com/problems/basic-calculator-ii
+HARD,Shortest Distance from All Buildings,49.8,0.43655004301691996,https://leetcode.com/problems/shortest-distance-from-all-buildings
+EASY,Count Binary Substrings,49.8,0.6573337452691743,https://leetcode.com/problems/count-binary-substrings
+MEDIUM,Maximum Value at a Given Index in a Bounded Array,49.8,0.3899614473592928,https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array
+MEDIUM,Open the Lock,49.8,0.6050284436319101,https://leetcode.com/problems/open-the-lock
+MEDIUM,Partition to K Equal Sum Subsets,49.8,0.3810220481631813,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+EASY,Degree of an Array,49.8,0.5698956897862303,https://leetcode.com/problems/degree-of-an-array
+MEDIUM,Coin Change II,49.8,0.6370741268057407,https://leetcode.com/problems/coin-change-ii
+MEDIUM,Find All Good Indices,49.8,0.3926794438181135,https://leetcode.com/problems/find-all-good-indices
+EASY,Move Zeroes,49.8,0.6235858405071185,https://leetcode.com/problems/move-zeroes
+MEDIUM,H-Index,49.8,0.3969262110333371,https://leetcode.com/problems/h-index
+EASY,Intersection of Two Linked Lists,49.8,0.5967376114378943,https://leetcode.com/problems/intersection-of-two-linked-lists
+MEDIUM,Find Minimum in Rotated Sorted Array,49.8,0.5180757859662102,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+HARD,Minimum Window Substring,49.8,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,"Pow(x, n)",49.8,0.36107215592112524,https://leetcode.com/problems/powx-n
+MEDIUM,Permutations,49.8,0.7976511517416863,https://leetcode.com/problems/permutations
+MEDIUM,Next Permutation,49.8,0.418295146246823,https://leetcode.com/problems/next-permutation
+MEDIUM,Binary Tree Zigzag Level Order Traversal,49.8,0.6057802027227276,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal

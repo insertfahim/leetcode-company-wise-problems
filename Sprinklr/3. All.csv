@@ -1,0 +1,49 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Minimum Edge Weight Equilibrium Queries in a Tree,100.0,0.4417935812798222,https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree
+HARD,Apply Operations on Array to Maximize Sum of Squares,91.6,0.4538524026744986,https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares
+HARD,Create Components With Same Value,89.5,0.532940719647942,https://leetcode.com/problems/create-components-with-same-value
+HARD,Maximize Score After N Operations,89.5,0.5779859696763974,https://leetcode.com/problems/maximize-score-after-n-operations
+MEDIUM,Next Greater Numerically Balanced Number,89.5,0.48806670824989323,https://leetcode.com/problems/next-greater-numerically-balanced-number
+MEDIUM,Choose Edges to Maximize Score in a Tree,87.2,0.5840861709520501,https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree
+MEDIUM,Maximum Subarray Sum After One Operation,87.2,0.6541510221109721,https://leetcode.com/problems/maximum-subarray-sum-after-one-operation
+HARD,Closest Subsequence Sum,87.2,0.4060182823963278,https://leetcode.com/problems/closest-subsequence-sum
+MEDIUM,Minimum Time to Revert Word to Initial State I,87.2,0.4116120406598376,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i
+HARD,Number of Great Partitions,87.2,0.3223809672679526,https://leetcode.com/problems/number-of-great-partitions
+HARD,Minimum Time to Revert Word to Initial State II,87.2,0.3484980083260954,https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii
+MEDIUM,Number of Same-End Substrings,87.2,0.6170886075949367,https://leetcode.com/problems/number-of-same-end-substrings
+HARD,Count the Number of Powerful Integers,87.2,0.2648269777472797,https://leetcode.com/problems/count-the-number-of-powerful-integers
+MEDIUM,Apply Bitwise Operations to Make Strings Equal,87.2,0.41619194145286703,https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal
+MEDIUM,Asteroid Collision,78.6,0.44934048305160273,https://leetcode.com/problems/asteroid-collision
+HARD,Robot Collisions,70.5,0.5684461827601971,https://leetcode.com/problems/robot-collisions
+MEDIUM,Number of Provinces,65.2,0.6764017076153812,https://leetcode.com/problems/number-of-provinces
+MEDIUM,Insert Delete GetRandom O(1),65.2,0.5479286186873185,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Minimum Number of Food Buckets to Feed the Hamsters,65.2,0.4691518994843833,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters
+HARD,Russian Doll Envelopes,65.2,0.3710911627513705,https://leetcode.com/problems/russian-doll-envelopes
+MEDIUM,Minimize the Difference Between Target and Chosen Elements,65.2,0.3545922979569698,https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements
+HARD,Serialize and Deserialize Binary Tree,65.2,0.579866476389294,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+MEDIUM,Validate IP Address,58.3,0.2761567138718822,https://leetcode.com/problems/validate-ip-address
+HARD,Maximum Profit in Job Scheduling,58.3,0.5432316952562286,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Set Matrix Zeroes,58.3,0.5830866161819598,https://leetcode.com/problems/set-matrix-zeroes
+MEDIUM,Partition Labels,58.3,0.8010763882664578,https://leetcode.com/problems/partition-labels
+HARD,Count of Smaller Numbers After Self,58.3,0.4266071924160284,https://leetcode.com/problems/count-of-smaller-numbers-after-self
+HARD,Trapping Rain Water,58.3,0.6373273868516683,https://leetcode.com/problems/trapping-rain-water
+HARD,Count Valid Paths in a Tree,58.3,0.35181157743741615,https://leetcode.com/problems/count-valid-paths-in-a-tree
+HARD,Max Points on a Line,58.3,0.2803642927003216,https://leetcode.com/problems/max-points-on-a-line
+MEDIUM,LRU Cache,58.3,0.4393139014452687,https://leetcode.com/problems/lru-cache
+EASY,Next Greater Element I,48.6,0.7358706092459166,https://leetcode.com/problems/next-greater-element-i
+MEDIUM,3Sum,48.6,0.3596108664281891,https://leetcode.com/problems/3sum
+HARD,Largest Rectangle in Histogram,48.6,0.4611593578586389,https://leetcode.com/problems/largest-rectangle-in-histogram
+HARD,First Missing Positive,48.6,0.40310455833961717,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Single Element in a Sorted Array,48.6,0.5923871779053765,https://leetcode.com/problems/single-element-in-a-sorted-array
+HARD,Odd Even Jump,48.6,0.4040429172559496,https://leetcode.com/problems/odd-even-jump
+EASY,Best Time to Buy and Sell Stock,48.6,0.5449247007965616,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Longest Valid Parentheses,48.6,0.35264125494136134,https://leetcode.com/problems/longest-valid-parentheses
+HARD,Remove Boxes,48.6,0.4810356358077768,https://leetcode.com/problems/remove-boxes
+MEDIUM,Increasing Triplet Subsequence,48.6,0.3925172394300928,https://leetcode.com/problems/increasing-triplet-subsequence
+MEDIUM,Sum of Matrix After Queries,48.6,0.31079387872900566,https://leetcode.com/problems/sum-of-matrix-after-queries
+MEDIUM,Reach a Number,48.6,0.4352815390361251,https://leetcode.com/problems/reach-a-number
+HARD,Student Attendance Record II,48.6,0.554709840525979,https://leetcode.com/problems/student-attendance-record-ii
+MEDIUM,Container With Most Water,48.6,0.5672675755811251,https://leetcode.com/problems/container-with-most-water
+MEDIUM,House Robber II,48.6,0.42872445392146896,https://leetcode.com/problems/house-robber-ii
+MEDIUM,Longest Univalue Path,48.6,0.42146217016926835,https://leetcode.com/problems/longest-univalue-path
+MEDIUM,Sort Colors,48.6,0.6576641591387061,https://leetcode.com/problems/sort-colors

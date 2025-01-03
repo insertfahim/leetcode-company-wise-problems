@@ -1,0 +1,22 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Time Based Key-Value Store,100.0,0.49284131134843906,https://leetcode.com/problems/time-based-key-value-store
+HARD,Read N Characters Given read4 II - Call Multiple Times,94.9,0.4266533601274531,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+HARD,Minimum Window Substring,93.9,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Rotting Oranges,91.7,0.555227772856992,https://leetcode.com/problems/rotting-oranges
+MEDIUM,String Compression,79.7,0.5666226958274551,https://leetcode.com/problems/string-compression
+MEDIUM,Car Pooling,79.7,0.5594997815185501,https://leetcode.com/problems/car-pooling
+HARD,Max Stack,79.7,0.4516132651544263,https://leetcode.com/problems/max-stack
+HARD,Smallest Range Covering Elements from K Lists,79.7,0.6979685192276134,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+MEDIUM,Range Sum Query 2D - Immutable,75.1,0.5562465116607674,https://leetcode.com/problems/range-sum-query-2d-immutable
+MEDIUM,Min Stack,69.3,0.555193686295573,https://leetcode.com/problems/min-stack
+MEDIUM,Water and Jug Problem,61.0,0.4214708461201228,https://leetcode.com/problems/water-and-jug-problem
+MEDIUM,Longest Substring Without Repeating Characters,61.0,0.3593550679430123,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Longest Consecutive Sequence,55.1,0.4769876346523907,https://leetcode.com/problems/longest-consecutive-sequence
+HARD,Word Ladder II,55.1,0.27115518424266605,https://leetcode.com/problems/word-ladder-ii
+MEDIUM,Implement Trie (Prefix Tree),55.1,0.670010578455768,https://leetcode.com/problems/implement-trie-prefix-tree
+MEDIUM,Asteroid Collision,55.1,0.44934034623382935,https://leetcode.com/problems/asteroid-collision
+MEDIUM,Meeting Rooms II,55.1,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Find First and Last Position of Element in Sorted Array,46.9,0.4570989036690095,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Process Tasks Using Servers,46.9,0.4070978037844821,https://leetcode.com/problems/process-tasks-using-servers
+MEDIUM,Convert Sorted List to Binary Search Tree,46.9,0.6346754335730719,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
+HARD,Find Minimum Time to Finish All Jobs,46.9,0.42881732370905046,https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs

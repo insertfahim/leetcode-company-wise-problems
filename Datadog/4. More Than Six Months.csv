@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Coin Change,100.0,0.4539445577418768,https://leetcode.com/problems/coin-change
+EASY,Maximum Depth of N-ary Tree,84.0,0.7260897559260342,https://leetcode.com/problems/maximum-depth-of-n-ary-tree
+MEDIUM,Design Circular Queue,81.3,0.5212501011349177,https://leetcode.com/problems/design-circular-queue
+HARD,Maximum Vacation Days,64.6,0.46057729676256876,https://leetcode.com/problems/maximum-vacation-days
+HARD,Sliding Window Median,64.6,0.387165993971287,https://leetcode.com/problems/sliding-window-median
+EASY,Valid Word Abbreviation,56.6,0.36435477079454254,https://leetcode.com/problems/valid-word-abbreviation
+HARD,Binary Tree Maximum Path Sum,56.6,0.4069360776415325,https://leetcode.com/problems/binary-tree-maximum-path-sum

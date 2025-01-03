@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,LRU Cache,100.0,0.43931282082485557,https://leetcode.com/problems/lru-cache
+MEDIUM,Smallest Subsequence of Distinct Characters,73.7,0.6152702670127199,https://leetcode.com/problems/smallest-subsequence-of-distinct-characters
+MEDIUM,Combination Sum,73.7,0.7341580330314653,https://leetcode.com/problems/combination-sum
+MEDIUM,Combination Sum II,73.7,0.5686399341274754,https://leetcode.com/problems/combination-sum-ii
+MEDIUM,First Day Where You Have Been in All the Rooms,64.0,0.37606961042712206,https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms
+MEDIUM,Remove Duplicate Letters,64.0,0.5051646576433567,https://leetcode.com/problems/remove-duplicate-letters
+MEDIUM,Maximal Square,64.0,0.4785887884532192,https://leetcode.com/problems/maximal-square
+MEDIUM,Minimum Area Rectangle,64.0,0.5460799463475173,https://leetcode.com/problems/minimum-area-rectangle
+MEDIUM,Number of Good Leaf Nodes Pairs,64.0,0.7185392116545423,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs
+HARD,Regular Expression Matching,64.0,0.28716823720578466,https://leetcode.com/problems/regular-expression-matching
+MEDIUM,Rotting Oranges,64.0,0.5552270788690786,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Insert Delete GetRandom O(1),64.0,0.5479318739788719,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Course Schedule,64.0,0.48040217444192185,https://leetcode.com/problems/course-schedule

@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Most Common Word,100.0,0.4443484181255917,https://leetcode.com/problems/most-common-word
+MEDIUM,Meeting Scheduler,98.1,0.5526809195260047,https://leetcode.com/problems/meeting-scheduler
+MEDIUM,Coin Change,91.2,0.4539445577418768,https://leetcode.com/problems/coin-change
+EASY,Valid Word Abbreviation,81.1,0.36435477079454254,https://leetcode.com/problems/valid-word-abbreviation
+MEDIUM,Design Circular Queue,76.3,0.5212501011349177,https://leetcode.com/problems/design-circular-queue
+MEDIUM,Design Add and Search Words Data Structure,76.3,0.4637560467028875,https://leetcode.com/problems/design-add-and-search-words-data-structure
+EASY,Maximum Depth of N-ary Tree,70.1,0.7260897559260342,https://leetcode.com/problems/maximum-depth-of-n-ary-tree
+HARD,Sliding Window Median,61.3,0.387165993971287,https://leetcode.com/problems/sliding-window-median
+EASY,Check If It Is a Straight Line,61.3,0.3959051864267189,https://leetcode.com/problems/check-if-it-is-a-straight-line
+MEDIUM,People Whose List of Favorite Companies Is Not a Subset of Another List,61.3,0.5890770533446232,https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list
+HARD,Binary Tree Maximum Path Sum,61.3,0.4069360776415325,https://leetcode.com/problems/binary-tree-maximum-path-sum

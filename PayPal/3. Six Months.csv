@@ -1,0 +1,39 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Minimum Absolute Difference,100.0,0.7008978404861399,https://leetcode.com/problems/minimum-absolute-difference
+EASY,Two Sum,93.3,0.5450371634182021,https://leetcode.com/problems/two-sum
+MEDIUM,Zigzag Conversion,93.3,0.5014875153205979,https://leetcode.com/problems/zigzag-conversion
+MEDIUM,Find the Smallest Divisor Given a Threshold,93.3,0.6206643092693392,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+MEDIUM,Number of Islands,93.3,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Product of Array Except Self,84.7,0.6710048369991132,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Time Needed to Rearrange a Binary String,84.7,0.5121685850083033,https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string
+MEDIUM,Random Pick with Weight,84.7,0.478396720254369,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,Pairs of Songs With Total Durations Divisible by 60,84.7,0.53082795384998,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+MEDIUM,LRU Cache,84.7,0.43931229996871723,https://leetcode.com/problems/lru-cache
+MEDIUM,Maximum Subarray,84.7,0.514948886618579,https://leetcode.com/problems/maximum-subarray
+EASY,Best Time to Buy and Sell Stock,84.7,0.5449234807944727,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Maximum Number of Integers to Choose From a Range I,84.7,0.6807664182742531,https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i
+MEDIUM,Maximal Square,84.7,0.47858813083475643,https://leetcode.com/problems/maximal-square
+HARD,Maximum Frequency Score of a Subarray,84.7,0.37099284158107687,https://leetcode.com/problems/maximum-frequency-score-of-a-subarray
+MEDIUM,Count Vowel Strings in Ranges,84.7,0.5345800579230451,https://leetcode.com/problems/count-vowel-strings-in-ranges
+MEDIUM,Divide Players Into Teams of Equal Skill,72.6,0.6897336240401934,https://leetcode.com/problems/divide-players-into-teams-of-equal-skill
+EASY,Lexicographically Smallest Palindrome,72.6,0.815847649487282,https://leetcode.com/problems/lexicographically-smallest-palindrome
+MEDIUM,Merge In Between Linked Lists,72.6,0.8199567842703204,https://leetcode.com/problems/merge-in-between-linked-lists
+HARD,Find Median from Data Stream,72.6,0.5268862241059148,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Coin Change,72.6,0.4539448902435652,https://leetcode.com/problems/coin-change
+MEDIUM,Spiral Matrix,72.6,0.5222655811136241,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Find Peak Element,72.6,0.4622916713902068,https://leetcode.com/problems/find-peak-element
+MEDIUM,Word Search,72.6,0.4418596087861923,https://leetcode.com/problems/word-search
+MEDIUM,Minimum Increment to Make Array Unique,72.6,0.6014229091773519,https://leetcode.com/problems/minimum-increment-to-make-array-unique
+HARD,Minimum Number of Removals to Make Mountain Array,72.6,0.5501188284850981,https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array
+EASY,Count Vowel Substrings of a String,72.6,0.6923274827053914,https://leetcode.com/problems/count-vowel-substrings-of-a-string
+MEDIUM,House Robber,72.6,0.5179714008460793,https://leetcode.com/problems/house-robber
+MEDIUM,Maximum Sum Obtained of Any Permutation,72.6,0.3865349445365512,https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation
+EASY,Count the Number of Vowel Strings in Range,72.6,0.7432775025723166,https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range
+MEDIUM,Smallest Greater Multiple Made of Two Digits,72.6,0.4824188129899216,https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits
+HARD,Count Array Pairs Divisible by K,72.6,0.2970580863462623,https://leetcode.com/problems/count-array-pairs-divisible-by-k
+HARD,Number of Valid Move Combinations On Chessboard,72.6,0.5091127360034923,https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard
+MEDIUM,Minimum Non-Zero Product of the Array Elements,72.6,0.35912917765116087,https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements
+HARD,Paint House III,72.6,0.6093615588884318,https://leetcode.com/problems/paint-house-iii
+MEDIUM,Maximum Number of Integers to Choose From a Range II,72.6,0.37079731027857826,https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii
+MEDIUM,Meeting Scheduler,72.6,0.5526809195260047,https://leetcode.com/problems/meeting-scheduler
+MEDIUM,Longest Increasing Subsequence,72.6,0.5682743939249515,https://leetcode.com/problems/longest-increasing-subsequence

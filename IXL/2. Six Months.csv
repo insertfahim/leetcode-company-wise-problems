@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Palindrome Linked List,100.0,0.5471520649473638,https://leetcode.com/problems/palindrome-linked-list
+EASY,Range Addition II,92.7,0.5676870643863797,https://leetcode.com/problems/range-addition-ii
+MEDIUM,Design Snake Game,82.3,0.38979893168888696,https://leetcode.com/problems/design-snake-game
+MEDIUM,Merge Intervals,82.3,0.4843936725231546,https://leetcode.com/problems/merge-intervals
+HARD,Find Median from Data Stream,82.3,0.5268864673710004,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Fraction Addition and Subtraction,82.3,0.6609532071235393,https://leetcode.com/problems/fraction-addition-and-subtraction
+MEDIUM,Fraction to Recurring Decimal,82.3,0.2566699160722933,https://leetcode.com/problems/fraction-to-recurring-decimal
+HARD,Stickers to Spell Word,82.3,0.4968739736311172,https://leetcode.com/problems/stickers-to-spell-word
+HARD,Merge k Sorted Lists,82.3,0.5509067888536985,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Find the Derangement of An Array,82.3,0.41851598748336516,https://leetcode.com/problems/find-the-derangement-of-an-array
+MEDIUM,Insert Delete GetRandom O(1),82.3,0.5479291811733571,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Find Peak Element,82.3,0.4622902151293688,https://leetcode.com/problems/find-peak-element

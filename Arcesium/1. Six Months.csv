@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Partition Array Into Two Arrays to Minimize Sum Difference,100.0,0.21043555892550309,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference
+HARD,Find the Count of Monotonic Pairs I,87.3,0.45936991070927163,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i
+HARD,Cycle Length Queries in a Tree,77.2,0.5714729404456868,https://leetcode.com/problems/cycle-length-queries-in-a-tree
+MEDIUM,Number of People Aware of a Secret,77.2,0.4584134531342866,https://leetcode.com/problems/number-of-people-aware-of-a-secret
+MEDIUM,Count Collisions on a Road,77.2,0.4390570964782271,https://leetcode.com/problems/count-collisions-on-a-road
+MEDIUM,Maximize the Confusion of an Exam,77.2,0.6786309156348642,https://leetcode.com/problems/maximize-the-confusion-of-an-exam
+MEDIUM,Maximum Length of Subarray With Positive Product,77.2,0.4432814722577958,https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product

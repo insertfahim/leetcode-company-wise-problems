@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Palindrome Number,100.0,0.5816776367634202,https://leetcode.com/problems/palindrome-number
+EASY,Two Sum,75.7,0.5450380413882315,https://leetcode.com/problems/two-sum
+EASY,Longest Common Prefix,75.7,0.44416978396273216,https://leetcode.com/problems/longest-common-prefix
+EASY,Valid Parentheses,75.7,0.41507160037098373,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Managers with at Least 5 Direct Reports,75.7,0.49353207201404353,https://leetcode.com/problems/managers-with-at-least-5-direct-reports
+EASY,Fizz Buzz,75.7,0.7351207894630098,https://leetcode.com/problems/fizz-buzz
+EASY,Fibonacci Number,75.7,0.7219064376337208,https://leetcode.com/problems/fibonacci-number
+EASY,Merge Two Sorted Lists,65.7,0.6585747337875858,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Consecutive Numbers,65.7,0.4485342652278376,https://leetcode.com/problems/consecutive-numbers
+EASY,Binary Search,65.7,0.5884039167106879,https://leetcode.com/problems/binary-search
+EASY,Move Zeroes,65.7,0.6235853726714379,https://leetcode.com/problems/move-zeroes
+EASY,Counter,65.7,0.8176192046033506,https://leetcode.com/problems/counter
+MEDIUM,3Sum,65.7,0.35961081844471615,https://leetcode.com/problems/3sum
+EASY,Happy Number,65.7,0.5724023761161172,https://leetcode.com/problems/happy-number

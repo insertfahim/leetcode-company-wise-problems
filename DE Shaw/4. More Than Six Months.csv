@@ -1,0 +1,69 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Letter Combinations of a Phone Number,100.0,0.6252870261757155,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+HARD,Binary Tree Cameras,92.4,0.46903038806631464,https://leetcode.com/problems/binary-tree-cameras
+MEDIUM,Number of Wonderful Substrings,81.3,0.6679889212280536,https://leetcode.com/problems/number-of-wonderful-substrings
+MEDIUM,Insert Delete GetRandom O(1),77.6,0.5479315927305727,https://leetcode.com/problems/insert-delete-getrandom-o1
+HARD,Painting the Walls,73.1,0.503545992952995,https://leetcode.com/problems/painting-the-walls
+MEDIUM,Remove K Digits,73.1,0.34199418435153256,https://leetcode.com/problems/remove-k-digits
+EASY,Best Time to Buy and Sell Stock,73.1,0.544924514315216,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Sliding Window Maximum,67.6,0.47070035952422434,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,Make Costs of Paths Equal in a Binary Tree,60.6,0.5806148258641936,https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree
+MEDIUM,Task Scheduler,60.6,0.6072305839602888,https://leetcode.com/problems/task-scheduler
+MEDIUM,Min Cost to Connect All Points,60.6,0.6800068911360759,https://leetcode.com/problems/min-cost-to-connect-all-points
+HARD,Median of Two Sorted Arrays,60.6,0.42307997294780497,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,All Nodes Distance K in Binary Tree,60.6,0.6550091130634228,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+MEDIUM,Best Time to Buy and Sell Stock II,60.6,0.6834839423954971,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+HARD,Largest Rectangle in Histogram,60.6,0.4611583227769792,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Generate Parentheses,60.6,0.7608326432421841,https://leetcode.com/problems/generate-parentheses
+HARD,Max Sum of Rectangle No Larger Than K,60.6,0.44363733093245483,https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k
+MEDIUM,Minimum Size Subarray in Infinite Array,60.6,0.3093900481540931,https://leetcode.com/problems/minimum-size-subarray-in-infinite-array
+HARD,Longest Increasing Path in a Matrix,60.6,0.5459803667892535,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+HARD,Count of Integers,60.6,0.34938896997796287,https://leetcode.com/problems/count-of-integers
+MEDIUM,Jump Game II,60.6,0.40945318487492566,https://leetcode.com/problems/jump-game-ii
+MEDIUM,Longest Consecutive Sequence,60.6,0.4769876149732026,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Next Permutation,60.6,0.41829529646394886,https://leetcode.com/problems/next-permutation
+MEDIUM,Maximal Square,60.6,0.4785887884532192,https://leetcode.com/problems/maximal-square
+MEDIUM,Rotate Image,60.6,0.7663568103363545,https://leetcode.com/problems/rotate-image
+MEDIUM,Maximum Subarray,60.6,0.5149492190145646,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Spiral Matrix,60.6,0.5222659914743074,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Average Waiting Time,60.6,0.7308622368501425,https://leetcode.com/problems/average-waiting-time
+HARD,K-th Smallest in Lexicographical Order,50.8,0.4194572207084469,https://leetcode.com/problems/k-th-smallest-in-lexicographical-order
+HARD,Maximum Deletions on a String,50.8,0.33961254912904953,https://leetcode.com/problems/maximum-deletions-on-a-string
+MEDIUM,Furthest Building You Can Reach,50.8,0.5003337296372776,https://leetcode.com/problems/furthest-building-you-can-reach
+HARD,First Missing Positive,50.8,0.403103684081158,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Removing Minimum Number of Magic Beans,50.8,0.43179210561606884,https://leetcode.com/problems/removing-minimum-number-of-magic-beans
+HARD,Reverse Nodes in k-Group,50.8,0.6135042838791728,https://leetcode.com/problems/reverse-nodes-in-k-group
+HARD,Maximal Rectangle,50.8,0.5240594700158641,https://leetcode.com/problems/maximal-rectangle
+MEDIUM,Edit Distance,50.8,0.5783445669848835,https://leetcode.com/problems/edit-distance
+MEDIUM,Basic Calculator II,50.8,0.448415230290278,https://leetcode.com/problems/basic-calculator-ii
+EASY,Maximum Depth of Binary Tree,50.8,0.7649302090981213,https://leetcode.com/problems/maximum-depth-of-binary-tree
+MEDIUM,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,50.8,0.5378973470363289,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold
+MEDIUM,Combination Sum,50.8,0.7341582892455888,https://leetcode.com/problems/combination-sum
+HARD,Dungeon Game,50.8,0.38825623907168977,https://leetcode.com/problems/dungeon-game
+MEDIUM,Maximum Subsequence Score,50.8,0.5392104632919683,https://leetcode.com/problems/maximum-subsequence-score
+MEDIUM,Max Consecutive Ones III,50.8,0.6477251843840718,https://leetcode.com/problems/max-consecutive-ones-iii
+HARD,Split Array Largest Sum,50.8,0.5696847176924342,https://leetcode.com/problems/split-array-largest-sum
+HARD,Swim in Rising Water,50.8,0.6194050712529464,https://leetcode.com/problems/swim-in-rising-water
+MEDIUM,Cheapest Flights Within K Stops,50.8,0.39879423303470807,https://leetcode.com/problems/cheapest-flights-within-k-stops
+MEDIUM,Unique Paths,50.8,0.6516080911016299,https://leetcode.com/problems/unique-paths
+HARD,Minimum Number of Refueling Stops,50.8,0.4029947699790133,https://leetcode.com/problems/minimum-number-of-refueling-stops
+HARD,Trapping Rain Water,50.8,0.6373269761547354,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Maximum Product Subarray,50.8,0.34300842357488853,https://leetcode.com/problems/maximum-product-subarray
+MEDIUM,Merge Intervals,50.8,0.48439406435259774,https://leetcode.com/problems/merge-intervals
+HARD,Minimum Number of Taps to Open to Water a Garden,50.8,0.5067444839239581,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+HARD,Smallest Range Covering Elements from K Lists,50.8,0.6979685192276134,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+HARD,Put Marbles in Bags,50.8,0.6622922231297322,https://leetcode.com/problems/put-marbles-in-bags
+MEDIUM,Triangle,50.8,0.5820307867924062,https://leetcode.com/problems/triangle
+MEDIUM,3Sum,50.8,0.35961049224738206,https://leetcode.com/problems/3sum
+MEDIUM,Sort Colors,50.8,0.657662994331763,https://leetcode.com/problems/sort-colors
+MEDIUM,Peak Index in a Mountain Array,50.8,0.6795606062945067,https://leetcode.com/problems/peak-index-in-a-mountain-array
+MEDIUM,Sum of Subarray Minimums,50.8,0.37263405091924506,https://leetcode.com/problems/sum-of-subarray-minimums
+MEDIUM,Validate Binary Search Tree,50.8,0.33741363200385754,https://leetcode.com/problems/validate-binary-search-tree
+MEDIUM,LRU Cache,50.8,0.43931297922662327,https://leetcode.com/problems/lru-cache
+MEDIUM,Min Stack,50.8,0.5551935607512457,https://leetcode.com/problems/min-stack
+EASY,Contains Duplicate,50.8,0.6254444724264391,https://leetcode.com/problems/contains-duplicate
+HARD,Basic Calculator,50.8,0.4440986991413884,https://leetcode.com/problems/basic-calculator
+MEDIUM,Largest 1-Bordered Square,50.8,0.5054823117865002,https://leetcode.com/problems/largest-1-bordered-square
+HARD,Maximum Profit in Job Scheduling,50.8,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Interleaving String,50.8,0.4105515065361211,https://leetcode.com/problems/interleaving-string
+EASY,Implement Stack using Queues,50.8,0.6596734915356488,https://leetcode.com/problems/implement-stack-using-queues

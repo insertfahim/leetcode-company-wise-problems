@@ -1,0 +1,101 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Subarray With Elements Greater Than Varying Threshold,100.0,0.4450141225592533,https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold
+MEDIUM,Number of Islands,95.7,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Course Schedule II,89.2,0.5213306342998251,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Minimum Swaps to Group All 1's Together,86.6,0.6035866049343566,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together
+MEDIUM,Merge Intervals,85.2,0.4843939551074825,https://leetcode.com/problems/merge-intervals
+MEDIUM,LRU Cache,83.7,0.4393120395402852,https://leetcode.com/problems/lru-cache
+MEDIUM,Meeting Rooms II,80.3,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Longest Substring Without Repeating Characters,80.3,0.3593552355888445,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Maximum Value at a Given Index in a Bounded Array,78.4,0.3899614473592928,https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array
+MEDIUM,Longest Increasing Subsequence,78.4,0.5682743939249515,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Word Search,78.4,0.44185947952859245,https://leetcode.com/problems/word-search
+MEDIUM,Number of Distinct Islands,76.3,0.618416553836896,https://leetcode.com/problems/number-of-distinct-islands
+MEDIUM,Longest Palindromic Substring,74.1,0.34945224985175394,https://leetcode.com/problems/longest-palindromic-substring
+HARD,Word Break II,71.6,0.5245542784239083,https://leetcode.com/problems/word-break-ii
+HARD,Trapping Rain Water,68.8,0.6373268168868195,https://leetcode.com/problems/trapping-rain-water
+HARD,Longest Increasing Path in a Matrix,68.8,0.5459799426827036,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+MEDIUM,Decode String,68.8,0.6036411009633038,https://leetcode.com/problems/decode-string
+EASY,Sqrt(x),65.7,0.3975126919810383,https://leetcode.com/problems/sqrtx
+EASY,Best Time to Buy and Sell Stock,65.7,0.5449231479926895,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Capacity To Ship Packages Within D Days,65.7,0.7094541501485888,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+HARD,Word Ladder,65.7,0.41208921460411657,https://leetcode.com/problems/word-ladder
+MEDIUM,Insert Delete GetRandom O(1),65.7,0.5479315083048156,https://leetcode.com/problems/insert-delete-getrandom-o1
+EASY,Valid Parentheses,62.1,0.4150708476183529,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Asteroid Collision,62.1,0.44934118798845435,https://leetcode.com/problems/asteroid-collision
+MEDIUM,Matchsticks to Square,62.1,0.40592731144035576,https://leetcode.com/problems/matchsticks-to-square
+MEDIUM,Longest Substring with At Least K Repeating Characters,62.1,0.4527297255132288,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
+MEDIUM,Max Area of Island,62.1,0.7268937975232898,https://leetcode.com/problems/max-area-of-island
+HARD,Meeting Rooms III,62.1,0.44092027960615787,https://leetcode.com/problems/meeting-rooms-iii
+MEDIUM,Combination Sum,62.1,0.7341576060068288,https://leetcode.com/problems/combination-sum
+HARD,Minimum Window Substring,62.1,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,3Sum,62.1,0.3596101976081807,https://leetcode.com/problems/3sum
+MEDIUM,Sort Colors,62.1,0.6576625490293508,https://leetcode.com/problems/sort-colors
+HARD,Merge k Sorted Lists,62.1,0.5509064181379404,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Search in Rotated Sorted Array,62.1,0.41984367464624756,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Top K Frequent Elements,57.8,0.6375223387310589,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Course Schedule,57.8,0.4804021541532256,https://leetcode.com/problems/course-schedule
+MEDIUM,Combinations,57.8,0.7187361015929848,https://leetcode.com/problems/combinations
+EASY,Two Sum,57.8,0.5450370267380433,https://leetcode.com/problems/two-sum
+MEDIUM,Coin Change,57.8,0.45394430053632023,https://leetcode.com/problems/coin-change
+MEDIUM,Find the Length of the Longest Common Prefix,57.8,0.5619652393436256,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
+MEDIUM,Next Permutation,52.6,0.41829510404852355,https://leetcode.com/problems/next-permutation
+EASY,Climbing Stairs,52.6,0.5326794783045511,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Tree Diameter,52.6,0.6113247202818817,https://leetcode.com/problems/tree-diameter
+HARD,Binary Tree Maximum Path Sum,52.6,0.4069365068138884,https://leetcode.com/problems/binary-tree-maximum-path-sum
+EASY,Intersection of Two Linked Lists,52.6,0.596737478147886,https://leetcode.com/problems/intersection-of-two-linked-lists
+MEDIUM,Minimum Remove to Make Valid Parentheses,52.6,0.6990278995854483,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
+MEDIUM,Walls and Gates,52.6,0.6225322221282117,https://leetcode.com/problems/walls-and-gates
+MEDIUM,Kth Largest Element in an Array,52.6,0.6735615226465641,https://leetcode.com/problems/kth-largest-element-in-an-array
+HARD,Sliding Window Maximum,52.6,0.4707001499470018,https://leetcode.com/problems/sliding-window-maximum
+HARD,Design In-Memory File System,52.6,0.48056705621183154,https://leetcode.com/problems/design-in-memory-file-system
+MEDIUM,Reorganize String,52.6,0.5549915998926551,https://leetcode.com/problems/reorganize-string
+HARD,Bus Routes,52.6,0.4718293910417715,https://leetcode.com/problems/bus-routes
+MEDIUM,Score of Parentheses,52.6,0.6386077296742854,https://leetcode.com/problems/score-of-parentheses
+MEDIUM,Find All Duplicates in an Array,52.6,0.7613007232177847,https://leetcode.com/problems/find-all-duplicates-in-an-array
+MEDIUM,Kth Smallest Element in a Sorted Matrix,45.9,0.630419305739677,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
+MEDIUM,Max Consecutive Ones III,45.9,0.6477253322187545,https://leetcode.com/problems/max-consecutive-ones-iii
+MEDIUM,Basic Calculator II,45.9,0.4484148365525702,https://leetcode.com/problems/basic-calculator-ii
+MEDIUM,Number of Good Leaf Nodes Pairs,45.9,0.7185392116545423,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs
+MEDIUM,Binary Tree Zigzag Level Order Traversal,45.9,0.6057800259691813,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+MEDIUM,Find First and Last Position of Element in Sorted Array,45.9,0.4570987507473561,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Edit Distance,45.9,0.578344418565832,https://leetcode.com/problems/edit-distance
+MEDIUM,Convert Binary Search Tree to Sorted Doubly Linked List,45.9,0.6525412009214151,https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
+MEDIUM,Group Anagrams,45.9,0.6992931740811263,https://leetcode.com/problems/group-anagrams
+MEDIUM,Design Tic-Tac-Toe,45.9,0.5833920511685031,https://leetcode.com/problems/design-tic-tac-toe
+MEDIUM,Maximum Points You Can Obtain from Cards,45.9,0.5448990849503537,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards
+MEDIUM,Rotting Oranges,45.9,0.5552268475392929,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Find Peak Element,45.9,0.46229123073476946,https://leetcode.com/problems/find-peak-element
+HARD,Minimize Malware Spread,45.9,0.4210101673616268,https://leetcode.com/problems/minimize-malware-spread
+MEDIUM,Gas Station,45.9,0.4578427717637239,https://leetcode.com/problems/gas-station
+MEDIUM,Subsets,45.9,0.7982073038775261,https://leetcode.com/problems/subsets
+MEDIUM,Minimum Moves to Spread Stones Over Grid,45.9,0.4486551019300689,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid
+HARD,Number of Islands II,45.9,0.39950212966365295,https://leetcode.com/problems/number-of-islands-ii
+HARD,Minimum Difficulty of a Job Schedule,45.9,0.5962134131486444,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule
+HARD,Number of Visible People in a Queue,45.9,0.7031370730953485,https://leetcode.com/problems/number-of-visible-people-in-a-queue
+MEDIUM,Generate Parentheses,45.9,0.7608323866917388,https://leetcode.com/problems/generate-parentheses
+HARD,Serialize and Deserialize Binary Tree,45.9,0.5798680060916557,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+MEDIUM,Closest Prime Numbers in Range,45.9,0.3890046050301098,https://leetcode.com/problems/closest-prime-numbers-in-range
+HARD,Design Search Autocomplete System,45.9,0.49211659631134774,https://leetcode.com/problems/design-search-autocomplete-system
+MEDIUM,Best Time to Buy and Sell Stock II,45.9,0.683483766934886,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+EASY,Design HashMap,45.9,0.6560775398919645,https://leetcode.com/problems/design-hashmap
+MEDIUM,Permutations,45.9,0.7976510838958961,https://leetcode.com/problems/permutations
+MEDIUM,Graph Valid Tree,36.6,0.4880114749969888,https://leetcode.com/problems/graph-valid-tree
+MEDIUM,Subarray Sums Divisible by K,36.6,0.5549438111997897,https://leetcode.com/problems/subarray-sums-divisible-by-k
+HARD,Number of Atoms,36.6,0.6503821782007961,https://leetcode.com/problems/number-of-atoms
+MEDIUM,Count Complete Subarrays in an Array,36.6,0.651924616168231,https://leetcode.com/problems/count-complete-subarrays-in-an-array
+EASY,Valid Word Abbreviation,36.6,0.3643549009842817,https://leetcode.com/problems/valid-word-abbreviation
+HARD,Basic Calculator,36.6,0.44409823650329977,https://leetcode.com/problems/basic-calculator
+MEDIUM,Minimum Swaps to Group All 1's Together II,36.6,0.655391043323057,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii
+HARD,Minimum Moves to Pick K Ones,36.6,0.2235378777966767,https://leetcode.com/problems/minimum-moves-to-pick-k-ones
+MEDIUM,Length of the Longest Alphabetical Continuous Substring,36.6,0.5910421613148613,https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring
+MEDIUM,Find the Score of All Prefixes of an Array,36.6,0.7169121381411884,https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array
+MEDIUM,Incremental Memory Leak,36.6,0.7236910484604391,https://leetcode.com/problems/incremental-memory-leak
+MEDIUM,Most Popular Video Creator,36.6,0.4421185599566904,https://leetcode.com/problems/most-popular-video-creator
+MEDIUM,Count the Hidden Sequences,36.6,0.39280712674083873,https://leetcode.com/problems/count-the-hidden-sequences
+MEDIUM,Integer to Roman,36.6,0.6717640987047421,https://leetcode.com/problems/integer-to-roman
+HARD,Frog Jump,36.6,0.4631249908469463,https://leetcode.com/problems/frog-jump
+HARD,Rearrange String k Distance Apart,36.6,0.391932525742671,https://leetcode.com/problems/rearrange-string-k-distance-apart
+HARD,Remove Invalid Parentheses,36.6,0.4876157267603134,https://leetcode.com/problems/remove-invalid-parentheses
+MEDIUM,Decode Ways,36.6,0.35836687811627116,https://leetcode.com/problems/decode-ways
+MEDIUM,Maximal Square,36.6,0.47858813083475643,https://leetcode.com/problems/maximal-square

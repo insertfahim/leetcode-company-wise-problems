@@ -1,0 +1,36 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Valid Parentheses,100.0,0.41507165054212236,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Substring Without Repeating Characters,82.9,0.35935501792812213,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Baseball Game,81.6,0.7781493579760059,https://leetcode.com/problems/baseball-game
+MEDIUM,Minimum Cost For Tickets,65.0,0.6683439406575079,https://leetcode.com/problems/minimum-cost-for-tickets
+MEDIUM,Koko Eating Bananas,65.0,0.4868782402435765,https://leetcode.com/problems/koko-eating-bananas
+EASY,Longest Common Prefix,65.0,0.4441695020446017,https://leetcode.com/problems/longest-common-prefix
+EASY,Find the Town Judge,61.5,0.49815672321681986,https://leetcode.com/problems/find-the-town-judge
+EASY,Climbing Stairs,61.5,0.5326791830138113,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Number of Islands,61.5,0.6107411193691994,https://leetcode.com/problems/number-of-islands
+MEDIUM,Maximum Subarray,57.1,0.5149491985257812,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Validate IP Address,57.1,0.2761567138718822,https://leetcode.com/problems/validate-ip-address
+EASY,Two Sum,57.1,0.5450378060909996,https://leetcode.com/problems/two-sum
+MEDIUM,Longest Consecutive Sequence,57.1,0.47698797993463193,https://leetcode.com/problems/longest-consecutive-sequence
+EASY,Partition Array Into Three Parts With Equal Sum,51.5,0.4202648733293679,https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum
+MEDIUM,Product of Array Except Self,51.5,0.6710049551848479,https://leetcode.com/problems/product-of-array-except-self
+MEDIUM,Longest Repeating Character Replacement,51.5,0.5593798775416046,https://leetcode.com/problems/longest-repeating-character-replacement
+MEDIUM,Maximum Number of Vowels in a Substring of Given Length,51.5,0.5944449568411287,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length
+EASY,Maximum Depth of Binary Tree,51.5,0.7649305432345342,https://leetcode.com/problems/maximum-depth-of-binary-tree
+MEDIUM,Find Duplicate File in System,51.5,0.6757875562231834,https://leetcode.com/problems/find-duplicate-file-in-system
+MEDIUM,Merge Intervals,51.5,0.4843938271251155,https://leetcode.com/problems/merge-intervals
+HARD,Regular Expression Matching,51.5,0.2871666587774874,https://leetcode.com/problems/regular-expression-matching
+EASY,Sum of Left Leaves,43.7,0.6121673003802282,https://leetcode.com/problems/sum-of-left-leaves
+EASY,Reverse Only Letters,43.7,0.6606752316453423,https://leetcode.com/problems/reverse-only-letters
+MEDIUM,Find All Anagrams in a String,43.7,0.5161081418863583,https://leetcode.com/problems/find-all-anagrams-in-a-string
+EASY,Best Time to Buy and Sell Stock,43.7,0.544924813674902,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Spiral Matrix,43.7,0.522266839382193,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Kth Largest Element in an Array,43.7,0.6735616595730576,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Number of Subsequences That Satisfy the Given Sum Condition,43.7,0.43778274984357646,https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition
+EASY,Maximum Repeating Substring,43.7,0.39093794961975015,https://leetcode.com/problems/maximum-repeating-substring
+EASY,Valid Palindrome,43.7,0.49533493974614756,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Longest Palindromic Substring,43.7,0.3494521478295882,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,House Robber,43.7,0.5179700012771827,https://leetcode.com/problems/house-robber
+EASY,Degree of an Array,43.7,0.5698956897862303,https://leetcode.com/problems/degree-of-an-array
+MEDIUM,Consecutive Numbers,43.7,0.4485342652278376,https://leetcode.com/problems/consecutive-numbers
+MEDIUM,Minimum Length of Anagram Concatenation,43.7,0.4143186348663283,https://leetcode.com/problems/minimum-length-of-anagram-concatenation

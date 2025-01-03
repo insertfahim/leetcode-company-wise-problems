@@ -1,0 +1,27 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Day of the Year,100.0,0.4881047643567388,https://leetcode.com/problems/day-of-the-year
+EASY,Maximum Strong Pair XOR I,100.0,0.7495803844889344,https://leetcode.com/problems/maximum-strong-pair-xor-i
+EASY,Largest Number After Digit Swaps by Parity,100.0,0.6272004156512488,https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity
+MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,100.0,0.4423192330773847,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k
+HARD,Maximum Strong Pair XOR II,100.0,0.29984051036682613,https://leetcode.com/problems/maximum-strong-pair-xor-ii
+HARD,Optimal Account Balancing,91.0,0.4967000672022789,https://leetcode.com/problems/optimal-account-balancing
+MEDIUM,Remove All Adjacent Duplicates in String II,76.9,0.5880061910506875,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii
+EASY,Two Sum,76.9,0.5450378919686959,https://leetcode.com/problems/two-sum
+MEDIUM,Robot Bounded In Circle,76.9,0.5602990036959304,https://leetcode.com/problems/robot-bounded-in-circle
+MEDIUM,Rotate Image,69.7,0.766357742821923,https://leetcode.com/problems/rotate-image
+MEDIUM,Jump Game,69.7,0.38965454691325907,https://leetcode.com/problems/jump-game
+EASY,Moving Average from Data Stream,59.5,0.7931199818984698,https://leetcode.com/problems/moving-average-from-data-stream
+EASY,Longest Common Prefix,59.5,0.4441695756003743,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Integer to Roman,59.5,0.6717653668699416,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Maximum Number of Events That Can Be Attended,59.5,0.32631704362675984,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended
+MEDIUM,String Compression,59.5,0.5666209646312075,https://leetcode.com/problems/string-compression
+MEDIUM,Decoded String at Index,59.5,0.3652032247718459,https://leetcode.com/problems/decoded-string-at-index
+MEDIUM,Find the Smallest Divisor Given a Threshold,59.5,0.620666621970267,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+EASY,Remove Duplicates from Sorted Array,59.5,0.5868538117575407,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+MEDIUM,K-th Symbol in Grammar,59.5,0.46971133574903523,https://leetcode.com/problems/k-th-symbol-in-grammar
+MEDIUM,Maximum Subarray,59.5,0.5149493647233825,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Longest Substring Without Repeating Characters,59.5,0.3593551614266739,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Degree of an Array,59.5,0.5698956897862303,https://leetcode.com/problems/degree-of-an-array
+EASY,Linked List Cycle,59.5,0.515905199748912,https://leetcode.com/problems/linked-list-cycle
+MEDIUM,Copy List with Random Pointer,59.5,0.5874399151462558,https://leetcode.com/problems/copy-list-with-random-pointer
+MEDIUM,Search in Rotated Sorted Array,59.5,0.41984380276977407,https://leetcode.com/problems/search-in-rotated-sorted-array

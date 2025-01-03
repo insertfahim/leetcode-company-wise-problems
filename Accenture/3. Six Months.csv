@@ -1,0 +1,57 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Smallest Divisible Digit Product II,100.0,0.09081357935517761,https://leetcode.com/problems/smallest-divisible-digit-product-ii
+EASY,Smallest Divisible Digit Product I,100.0,0.6512064762841873,https://leetcode.com/problems/smallest-divisible-digit-product-i
+MEDIUM,Delete and Earn,97.2,0.5657223962323504,https://leetcode.com/problems/delete-and-earn
+HARD,Shortest Palindrome,90.5,0.40034950852941054,https://leetcode.com/problems/shortest-palindrome
+MEDIUM,Maximum Subarray,86.3,0.5149491602004764,https://leetcode.com/problems/maximum-subarray
+EASY,Climbing Stairs,86.3,0.5326792935769163,https://leetcode.com/problems/climbing-stairs
+EASY,Two Sum,81.5,0.545037427342938,https://leetcode.com/problems/two-sum
+EASY,Happy Number,81.5,0.5724015617441315,https://leetcode.com/problems/happy-number
+MEDIUM,Longest Substring Without Repeating Characters,81.5,0.35935512966904637,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Longest Palindromic Substring,81.5,0.34945208688645346,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Water Bottles,81.5,0.709205288053641,https://leetcode.com/problems/water-bottles
+MEDIUM,Bulb Switcher,75.5,0.5349441505518431,https://leetcode.com/problems/bulb-switcher
+EASY,Best Time to Buy and Sell Stock,75.5,0.5449243484764593,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Longest Common Prefix,75.5,0.44416904840407434,https://leetcode.com/problems/longest-common-prefix
+EASY,Merge Sorted Array,75.5,0.517477463893211,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Maximum Width Ramp,75.5,0.5551495930586595,https://leetcode.com/problems/maximum-width-ramp
+MEDIUM,Rotate Array,75.5,0.420610418755494,https://leetcode.com/problems/rotate-array
+MEDIUM,Reverse Words in a String,75.5,0.4847733157999264,https://leetcode.com/problems/reverse-words-in-a-string
+MEDIUM,Nth Digit,75.5,0.35260883342435095,https://leetcode.com/problems/nth-digit
+EASY,Assign Cookies,67.8,0.533146659711559,https://leetcode.com/problems/assign-cookies
+EASY,Roman to Integer,67.8,0.6354897099133109,https://leetcode.com/problems/roman-to-integer
+MEDIUM,Letter Combinations of a Phone Number,67.8,0.6252870261757155,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Integer Break,67.8,0.6078815512336014,https://leetcode.com/problems/integer-break
+MEDIUM,Find the Winner of the Circular Game,67.8,0.8188891962927101,https://leetcode.com/problems/find-the-winner-of-the-circular-game
+MEDIUM,Largest Number,67.8,0.40500247721710925,https://leetcode.com/problems/largest-number
+MEDIUM,Separate Black and White Balls,57.1,0.6476454993056432,https://leetcode.com/problems/separate-black-and-white-balls
+EASY,Single Number,57.1,0.7481653451727616,https://leetcode.com/problems/single-number
+MEDIUM,Peak Index in a Mountain Array,57.1,0.6795606062945067,https://leetcode.com/problems/peak-index-in-a-mountain-array
+EASY,Remove Duplicates from Sorted Array,57.1,0.5868531300399121,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+EASY,Maximum Number of Balls in a Box,57.1,0.7371930378082768,https://leetcode.com/problems/maximum-number-of-balls-in-a-box
+MEDIUM,Daily Temperatures,57.1,0.6670368215424418,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Product of Array Except Self,57.1,0.6710046943932678,https://leetcode.com/problems/product-of-array-except-self
+EASY,Fibonacci Number,57.1,0.7219072197885201,https://leetcode.com/problems/fibonacci-number
+MEDIUM,Find All Anagrams in a String,57.1,0.5161081418863583,https://leetcode.com/problems/find-all-anagrams-in-a-string
+MEDIUM,Find Peak Element,57.1,0.4622914806278821,https://leetcode.com/problems/find-peak-element
+MEDIUM,Maximum Number of Moves in a Grid,57.1,0.5910175518018655,https://leetcode.com/problems/maximum-number-of-moves-in-a-grid
+EASY,Max Consecutive Ones,57.1,0.6124028707821665,https://leetcode.com/problems/max-consecutive-ones
+EASY,Majority Element,57.1,0.6537527186723593,https://leetcode.com/problems/majority-element
+MEDIUM,Integer to Roman,57.1,0.6717640921057799,https://leetcode.com/problems/integer-to-roman
+MEDIUM,Perfect Squares,57.1,0.5526910522986808,https://leetcode.com/problems/perfect-squares
+EASY,Minimum Right Shifts to Sort the Array,57.1,0.576567916797983,https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array
+EASY,Ant on the Boundary,57.1,0.746431772275506,https://leetcode.com/problems/ant-on-the-boundary
+EASY,Maximum Area of Longest Diagonal Rectangle,57.1,0.36449925261584454,https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle
+EASY,Permutation Difference between Two Strings,57.1,0.8792719569399711,https://leetcode.com/problems/permutation-difference-between-two-strings
+EASY,Sum of Values at Indices With K Set Bits,57.1,0.8598229504591192,https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits
+EASY,Count Tested Devices After Test Operations,57.1,0.7962096972680286,https://leetcode.com/problems/count-tested-devices-after-test-operations
+EASY,Find Subsequence of Length K With the Largest Sum,57.1,0.4463648190729759,https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum
+MEDIUM,House Robber,57.1,0.5179708729661668,https://leetcode.com/problems/house-robber
+MEDIUM,Edit Distance,57.1,0.5783445669848835,https://leetcode.com/problems/edit-distance
+EASY,Plus One,57.1,0.4669195477982819,https://leetcode.com/problems/plus-one
+MEDIUM,Reverse Integer,57.1,0.29565304078679455,https://leetcode.com/problems/reverse-integer
+MEDIUM,Add Two Numbers,57.1,0.4487591736077326,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Koko Eating Bananas,57.1,0.4868797970330386,https://leetcode.com/problems/koko-eating-bananas
+MEDIUM,Coin Change,57.1,0.45394483198639796,https://leetcode.com/problems/coin-change
+HARD,Department Top Three Salaries,57.1,0.5612956982250029,https://leetcode.com/problems/department-top-three-salaries
+EASY,Number of Good Pairs,57.1,0.8938810594170173,https://leetcode.com/problems/number-of-good-pairs

@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Minimum Moves to Equal Array Elements,100.0,0.573520857697418,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+EASY,Minimum Absolute Difference,89.4,0.7008978404861399,https://leetcode.com/problems/minimum-absolute-difference
+EASY,Maximum Units on a Truck,85.7,0.7393542370170462,https://leetcode.com/problems/maximum-units-on-a-truck
+MEDIUM,Integer to Roman,81.4,0.6717640921057799,https://leetcode.com/problems/integer-to-roman
+EASY,Fizz Buzz,81.4,0.7351192545720048,https://leetcode.com/problems/fizz-buzz
+EASY,Minimum String Length After Removing Substrings,81.4,0.7750901844365391,https://leetcode.com/problems/minimum-string-length-after-removing-substrings
+EASY,Minimum Time to Type Word Using Special Typewriter,69.4,0.7605012300123001,https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter
+EASY,Valid Parentheses,69.4,0.4150707788150537,https://leetcode.com/problems/valid-parentheses
+EASY,Two Sum,69.4,0.5450371761587249,https://leetcode.com/problems/two-sum
+MEDIUM,Report Spam Message,69.4,0.4740251417303426,https://leetcode.com/problems/report-spam-message
+MEDIUM,Longest Substring Without Repeating Characters,59.9,0.3593551505086969,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Divide Intervals Into Minimum Number of Groups,59.9,0.6372242669461574,https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups
+MEDIUM,Smallest Missing Non-negative Integer After Operations,59.9,0.39507136485280997,https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations
+EASY,Missing Number,59.9,0.6877856289221476,https://leetcode.com/problems/missing-number
+MEDIUM,Remove All Occurrences of a Substring,59.9,0.7826352586170258,https://leetcode.com/problems/remove-all-occurrences-of-a-substring
+MEDIUM,Letter Combinations of a Phone Number,59.9,0.6252869257766857,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Longest Palindromic Substring,59.9,0.34945217557853964,https://leetcode.com/problems/longest-palindromic-substring

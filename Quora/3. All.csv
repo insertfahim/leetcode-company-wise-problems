@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Construct Target Array With Multiple Sums,100.0,0.3621024997874331,https://leetcode.com/problems/construct-target-array-with-multiple-sums
+MEDIUM,Encode Number,87.2,0.6994521262718497,https://leetcode.com/problems/encode-number
+EASY,1-bit and 2-bit Characters,87.2,0.45177093656892564,https://leetcode.com/problems/1-bit-and-2-bit-characters
+MEDIUM,Finding Pairs With a Certain Sum,87.2,0.5143149284253579,https://leetcode.com/problems/finding-pairs-with-a-certain-sum
+MEDIUM,Get Biggest Three Rhombus Sums in a Grid,87.2,0.4870935300033523,https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid
+EASY,Substrings of Size Three with Distinct Characters,87.2,0.7466193192008322,https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters
+MEDIUM,3Sum With Multiplicity,87.2,0.45640575005991396,https://leetcode.com/problems/3sum-with-multiplicity
+EASY,Find the K-Beauty of a Number,87.2,0.6099168588367305,https://leetcode.com/problems/find-the-k-beauty-of-a-number
+EASY,Find Numbers with Even Number of Digits,87.2,0.7760591222135683,https://leetcode.com/problems/find-numbers-with-even-number-of-digits
+EASY,Subtract the Product and Sum of Digits of an Integer,87.2,0.866216439706678,https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer
+MEDIUM,Exam Room,87.2,0.4362179015401908,https://leetcode.com/problems/exam-room
+MEDIUM,Range Frequency Queries,87.2,0.40838081549544003,https://leetcode.com/problems/range-frequency-queries
+EASY,Maximum Number of Words You Can Type,87.2,0.7407989622724475,https://leetcode.com/problems/maximum-number-of-words-you-can-type
+MEDIUM,Sort the Matrix Diagonally,87.2,0.8289557913989363,https://leetcode.com/problems/sort-the-matrix-diagonally
+MEDIUM,Number of Subarrays with Bounded Maximum,52.3,0.5344241697364288,https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum
+MEDIUM,Subarray Sum Equals K,52.3,0.44551519168243314,https://leetcode.com/problems/subarray-sum-equals-k
+HARD,Binary Tree Cameras,52.3,0.46903038806631464,https://leetcode.com/problems/binary-tree-cameras

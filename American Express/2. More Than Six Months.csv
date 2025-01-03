@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Add Digits,100.0,0.6740000689168518,https://leetcode.com/problems/add-digits
+EASY,Valid Palindrome,86.3,0.49533493974614756,https://leetcode.com/problems/valid-palindrome
+HARD,Trapping Rain Water,86.3,0.637327110360939,https://leetcode.com/problems/trapping-rain-water
+EASY,Two Sum,75.4,0.5450378284267283,https://leetcode.com/problems/two-sum
+MEDIUM,Minimum Fuel Cost to Report to the Capital,75.4,0.642002364045797,https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital
+EASY,Valid Parentheses,75.4,0.4150716190033602,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Second Highest Salary,75.4,0.4242437956428645,https://leetcode.com/problems/second-highest-salary
+MEDIUM,Minimum Deletions to Make Character Frequencies Unique,75.4,0.612938424887405,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
+MEDIUM,Reconstruct a 2-Row Binary Matrix,75.4,0.4716168996188056,https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix
+MEDIUM,3Sum,75.4,0.3596107839332335,https://leetcode.com/problems/3sum
+EASY,Longest Common Prefix,75.4,0.4441695020446017,https://leetcode.com/problems/longest-common-prefix

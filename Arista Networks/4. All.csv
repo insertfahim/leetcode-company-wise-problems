@@ -1,0 +1,31 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Construct String With Repeat Limit,100.0,0.7103937938047654,https://leetcode.com/problems/construct-string-with-repeat-limit
+EASY,Find the Town Judge,100.0,0.49815672321681986,https://leetcode.com/problems/find-the-town-judge
+MEDIUM,Restore IP Addresses,97.4,0.5185279589542038,https://leetcode.com/problems/restore-ip-addresses
+HARD,Reverse Nodes in k-Group,94.4,0.6135053599150075,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Reverse Linked List II,94.4,0.48761577980734516,https://leetcode.com/problems/reverse-linked-list-ii
+MEDIUM,Inorder Successor in BST II,87.2,0.6088521719132827,https://leetcode.com/problems/inorder-successor-in-bst-ii
+EASY,Contains Duplicate II,82.6,0.47424239099783916,https://leetcode.com/problems/contains-duplicate-ii
+MEDIUM,Rotated Digits,77.0,0.5644773797906646,https://leetcode.com/problems/rotated-digits
+MEDIUM,Inorder Successor in BST,77.0,0.5035376844722373,https://leetcode.com/problems/inorder-successor-in-bst
+MEDIUM,Reorder List,77.0,0.6099181716558014,https://leetcode.com/problems/reorder-list
+EASY,Remove Linked List Elements,69.8,0.5062585248179574,https://leetcode.com/problems/remove-linked-list-elements
+EASY,Missing Number,69.8,0.6877862347698125,https://leetcode.com/problems/missing-number
+MEDIUM,Merge In Between Linked Lists,69.8,0.8199567842703204,https://leetcode.com/problems/merge-in-between-linked-lists
+MEDIUM,LRU Cache,69.8,0.43931293357650353,https://leetcode.com/problems/lru-cache
+EASY,Maximum Units on a Truck,69.8,0.7393542370170462,https://leetcode.com/problems/maximum-units-on-a-truck
+MEDIUM,Missing Element in Sorted Array,69.8,0.5795067860146015,https://leetcode.com/problems/missing-element-in-sorted-array
+EASY,Moving Average from Data Stream,69.8,0.7931199818984698,https://leetcode.com/problems/moving-average-from-data-stream
+EASY,Kth Largest Element in a Stream,59.6,0.595080056769186,https://leetcode.com/problems/kth-largest-element-in-a-stream
+MEDIUM,Find the Winner of the Circular Game,59.6,0.8188896780869839,https://leetcode.com/problems/find-the-winner-of-the-circular-game
+MEDIUM,Palindromic Substrings,59.6,0.7099833221194736,https://leetcode.com/problems/palindromic-substrings
+MEDIUM,Validate Binary Search Tree,59.6,0.337414347296357,https://leetcode.com/problems/validate-binary-search-tree
+MEDIUM,Add Two Numbers,59.6,0.4487592816220966,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Flatten a Multilevel Doubly Linked List,59.6,0.6070776624599931,https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list
+MEDIUM,Implement Trie (Prefix Tree),59.6,0.6700109455193448,https://leetcode.com/problems/implement-trie-prefix-tree
+MEDIUM,Find Minimum in Rotated Sorted Array,59.6,0.5180763002692473,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+MEDIUM,Reverse Words in a String,59.6,0.48477419239771313,https://leetcode.com/problems/reverse-words-in-a-string
+HARD,Binary Tree Maximum Path Sum,59.6,0.4069361833750533,https://leetcode.com/problems/binary-tree-maximum-path-sum
+EASY,Best Time to Buy and Sell Stock,59.6,0.5449248568742433,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Merge Two Sorted Lists,59.6,0.6585747238078768,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Course Schedule II,59.6,0.5213312090635511,https://leetcode.com/problems/course-schedule-ii

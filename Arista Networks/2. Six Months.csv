@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Reverse Nodes in k-Group,100.0,0.6135053599150075,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Restore IP Addresses,95.4,0.5185279589542038,https://leetcode.com/problems/restore-ip-addresses
+MEDIUM,Reverse Linked List II,82.7,0.48761577980734516,https://leetcode.com/problems/reverse-linked-list-ii
+EASY,Maximum Units on a Truck,82.7,0.7393542370170462,https://leetcode.com/problems/maximum-units-on-a-truck
+EASY,Contains Duplicate II,82.7,0.47424239099783916,https://leetcode.com/problems/contains-duplicate-ii
+MEDIUM,Construct String With Repeat Limit,72.6,0.7103937938047654,https://leetcode.com/problems/construct-string-with-repeat-limit
+EASY,Find the Town Judge,72.6,0.49815672321681986,https://leetcode.com/problems/find-the-town-judge
+EASY,Remove Linked List Elements,72.6,0.5062585248179574,https://leetcode.com/problems/remove-linked-list-elements
+MEDIUM,Merge In Between Linked Lists,72.6,0.8199567842703204,https://leetcode.com/problems/merge-in-between-linked-lists
+MEDIUM,Palindromic Substrings,72.6,0.7099833221194736,https://leetcode.com/problems/palindromic-substrings

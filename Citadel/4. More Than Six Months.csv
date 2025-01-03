@@ -1,0 +1,67 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Longest Non-decreasing Subarray From Two Arrays,100.0,0.2978515938923118,https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays
+HARD,Binary Tree Maximum Path Sum,97.4,0.4069367281320654,https://leetcode.com/problems/binary-tree-maximum-path-sum
+MEDIUM,Delete and Earn,95.2,0.5657232477212248,https://leetcode.com/problems/delete-and-earn
+MEDIUM,Minimum Knight Moves,93.5,0.41035343370099026,https://leetcode.com/problems/minimum-knight-moves
+MEDIUM,Minimum Equal Sum of Two Arrays After Replacing Zeros,81.3,0.3603708684940311,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros
+MEDIUM,Number of Good Binary Strings,78.1,0.5206552137435078,https://leetcode.com/problems/number-of-good-binary-strings
+HARD,LFU Cache,76.3,0.45428478596377225,https://leetcode.com/problems/lfu-cache
+MEDIUM,Evaluate Reverse Polish Notation,69.6,0.5346992962375695,https://leetcode.com/problems/evaluate-reverse-polish-notation
+MEDIUM,Subarray Sums Divisible by K,69.6,0.5549438111997897,https://leetcode.com/problems/subarray-sums-divisible-by-k
+MEDIUM,Longest String Chain,66.8,0.6153565067733707,https://leetcode.com/problems/longest-string-chain
+MEDIUM,Palindromic Substrings,66.8,0.7099839709545972,https://leetcode.com/problems/palindromic-substrings
+MEDIUM,Best Time to Buy and Sell Stock II,63.5,0.683483766934886,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+EASY,Best Time to Buy and Sell Stock,63.5,0.5449234019139281,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Sliding Window Maximum,59.7,0.47070035952422434,https://leetcode.com/problems/sliding-window-maximum
+MEDIUM,LRU Cache,59.7,0.43931229996871723,https://leetcode.com/problems/lru-cache
+MEDIUM,Permutations,59.7,0.7976511517416863,https://leetcode.com/problems/permutations
+HARD,Serialize and Deserialize Binary Tree,59.7,0.5798680060916557,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+MEDIUM,Validate Binary Search Tree,59.7,0.3374135936057193,https://leetcode.com/problems/validate-binary-search-tree
+HARD,Find Median from Data Stream,59.7,0.5268862241059148,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Evaluate Division,55.0,0.6251128117287361,https://leetcode.com/problems/evaluate-division
+MEDIUM,Find the Duplicate Number,55.0,0.6200863433020448,https://leetcode.com/problems/find-the-duplicate-number
+HARD,Regular Expression Matching,55.0,0.28716820016768,https://leetcode.com/problems/regular-expression-matching
+HARD,Robot Room Cleaner,55.0,0.7703000641778469,https://leetcode.com/problems/robot-room-cleaner
+HARD,Design Search Autocomplete System,55.0,0.49211659631134774,https://leetcode.com/problems/design-search-autocomplete-system
+MEDIUM,Number of Islands,49.0,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+HARD,Longest Increasing Path in a Matrix,49.0,0.5459799426827036,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+MEDIUM,Minimum Height Trees,49.0,0.4191254745007427,https://leetcode.com/problems/minimum-height-trees
+MEDIUM,Count Ways To Build Good Strings,49.0,0.5951410317049183,https://leetcode.com/problems/count-ways-to-build-good-strings
+HARD,Median of Two Sorted Arrays,49.0,0.4230796695609286,https://leetcode.com/problems/median-of-two-sorted-arrays
+HARD,N-Queens,49.0,0.7091787115322903,https://leetcode.com/problems/n-queens
+HARD,Trapping Rain Water,49.0,0.63732700121548,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Maximal Square,49.0,0.47858813083475643,https://leetcode.com/problems/maximal-square
+MEDIUM,House Robber,49.0,0.5179715035709781,https://leetcode.com/problems/house-robber
+MEDIUM,Rotting Oranges,49.0,0.5552268475392929,https://leetcode.com/problems/rotting-oranges
+HARD,Sudoku Solver,49.0,0.6353187693011552,https://leetcode.com/problems/sudoku-solver
+MEDIUM,Next Permutation,40.6,0.41829510404852355,https://leetcode.com/problems/next-permutation
+HARD,Bus Routes,40.6,0.4718293910417715,https://leetcode.com/problems/bus-routes
+MEDIUM,Combination Sum,40.6,0.734157776816848,https://leetcode.com/problems/combination-sum
+MEDIUM,Simplify Path,40.6,0.455984441868086,https://leetcode.com/problems/simplify-path
+MEDIUM,Spiral Matrix,40.6,0.5222655811136241,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Permutations II,40.6,0.6059445722319942,https://leetcode.com/problems/permutations-ii
+HARD,Basic Calculator,40.6,0.44409823650329977,https://leetcode.com/problems/basic-calculator
+EASY,Roman to Integer,40.6,0.6354892167828345,https://leetcode.com/problems/roman-to-integer
+HARD,The Skyline Problem,40.6,0.43379989881031455,https://leetcode.com/problems/the-skyline-problem
+MEDIUM,Group Anagrams,40.6,0.6992932360482793,https://leetcode.com/problems/group-anagrams
+MEDIUM,Search Suggestions System,40.6,0.6505649285149212,https://leetcode.com/problems/search-suggestions-system
+MEDIUM,Longest Common Subsequence,40.6,0.5785366299359,https://leetcode.com/problems/longest-common-subsequence
+MEDIUM,Insert Delete GetRandom O(1),40.6,0.5479311778504371,https://leetcode.com/problems/insert-delete-getrandom-o1
+HARD,Transform to Chessboard,40.6,0.5043673972455924,https://leetcode.com/problems/transform-to-chessboard
+MEDIUM,Knight Probability in Chessboard,40.6,0.564066714635003,https://leetcode.com/problems/knight-probability-in-chessboard
+MEDIUM,Container With Most Water,40.6,0.5672667841340546,https://leetcode.com/problems/container-with-most-water
+MEDIUM,3Sum,40.6,0.3596102388562313,https://leetcode.com/problems/3sum
+EASY,Valid Parentheses,40.6,0.4150707845407542,https://leetcode.com/problems/valid-parentheses
+HARD,Merge k Sorted Lists,40.6,0.5509065267556179,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Unique Paths,40.6,0.6516079702973944,https://leetcode.com/problems/unique-paths
+MEDIUM,Populating Next Right Pointers in Each Node II,40.6,0.5431897051327705,https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii
+HARD,Best Time to Buy and Sell Stock III,40.6,0.4980069082586628,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+HARD,Word Ladder,40.6,0.41208921460411657,https://leetcode.com/problems/word-ladder
+HARD,Best Time to Buy and Sell Stock IV,40.6,0.4539062918385545,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
+HARD,Alien Dictionary,40.6,0.36263545601891617,https://leetcode.com/problems/alien-dictionary
+MEDIUM,Perfect Squares,40.6,0.5526910522986808,https://leetcode.com/problems/perfect-squares
+HARD,Meeting Rooms III,40.6,0.44092027960615787,https://leetcode.com/problems/meeting-rooms-iii
+HARD,Minimum Costs Using the Train Line,40.6,0.7830287366931266,https://leetcode.com/problems/minimum-costs-using-the-train-line
+MEDIUM,Predict the Winner,40.6,0.5548464801501779,https://leetcode.com/problems/predict-the-winner
+MEDIUM,Subarray Sum Equals K,40.6,0.44551594561648394,https://leetcode.com/problems/subarray-sum-equals-k
+HARD,Minimum Operations to Make Numbers Non-positive,40.6,0.4121785007693999,https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive

@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Symmetric Coordinates,100.0,0.41017699115044254,https://leetcode.com/problems/symmetric-coordinates
+EASY,Pascal's Triangle,74.2,0.7598856158787085,https://leetcode.com/problems/pascals-triangle
+MEDIUM,Next Permutation,74.2,0.4182960003016184,https://leetcode.com/problems/next-permutation
+EASY,Find the Integer Added to Array I,65.6,0.8188127144429339,https://leetcode.com/problems/find-the-integer-added-to-array-i
+MEDIUM,Find the Integer Added to Array II,65.6,0.3142706292637517,https://leetcode.com/problems/find-the-integer-added-to-array-ii
+MEDIUM,Minimum Substring Partition of Equal Character Frequency,65.6,0.4,https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency
+MEDIUM,Maximum Total Reward Using Operations I,65.6,0.2968189989169635,https://leetcode.com/problems/maximum-total-reward-using-operations-i
+HARD,Maximum Total Reward Using Operations II,65.6,0.20701865499769692,https://leetcode.com/problems/maximum-total-reward-using-operations-ii
+MEDIUM,Shortest Subarray With OR at Least K II,65.6,0.5054175974789825,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii
+EASY,Shortest Subarray With OR at Least K I,65.6,0.42338403295253074,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i
+HARD,Construct String with Minimum Cost,65.6,0.19731350205379625,https://leetcode.com/problems/construct-string-with-minimum-cost
+MEDIUM,Right Triangles,65.6,0.4692249776481107,https://leetcode.com/problems/right-triangles
+MEDIUM,Next Greater Element III,65.6,0.343491179612422,https://leetcode.com/problems/next-greater-element-iii
+MEDIUM,Zigzag Conversion,65.6,0.5014875049268539,https://leetcode.com/problems/zigzag-conversion

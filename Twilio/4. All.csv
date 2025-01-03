@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Maximize Greatness of an Array,100.0,0.5835617011484635,https://leetcode.com/problems/maximize-greatness-of-an-array
+EASY,Univalued Binary Tree,93.4,0.7167181541729015,https://leetcode.com/problems/univalued-binary-tree
+EASY,Reformat Date,91.3,0.6698138416317805,https://leetcode.com/problems/reformat-date
+HARD,Text Justification,65.5,0.4625573039745261,https://leetcode.com/problems/text-justification
+EASY,Roman to Integer,56.9,0.6354900842306581,https://leetcode.com/problems/roman-to-integer
+MEDIUM,Letter Combinations of a Phone Number,56.9,0.6252878293660171,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+HARD,First Missing Positive,56.9,0.4031046298652121,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Minimum Number of Swaps to Make the String Balanced,56.9,0.7801312638388712,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
+MEDIUM,Minimum Equal Sum of Two Arrays After Replacing Zeros,56.9,0.3603708684940311,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros
+MEDIUM,LRU Cache,56.9,0.43931293357650353,https://leetcode.com/problems/lru-cache
+MEDIUM,Group Anagrams,56.9,0.699293466658204,https://leetcode.com/problems/group-anagrams
+MEDIUM,Top K Frequent Elements,56.9,0.6375233695693422,https://leetcode.com/problems/top-k-frequent-elements

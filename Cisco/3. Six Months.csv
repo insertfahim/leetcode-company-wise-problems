@@ -1,0 +1,25 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,House Robber,100.0,0.5179711882682598,https://leetcode.com/problems/house-robber
+MEDIUM,Longest Palindromic Substring,93.4,0.34945200191154263,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Rotate Image,82.1,0.7663568103363545,https://leetcode.com/problems/rotate-image
+EASY,Lucky Numbers in a Matrix,82.1,0.7989622402934732,https://leetcode.com/problems/lucky-numbers-in-a-matrix
+MEDIUM,Spiral Matrix,80.5,0.5222657133689532,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Find Third Transaction,78.8,0.5288421052631579,https://leetcode.com/problems/find-third-transaction
+MEDIUM,Maximum Subarray,69.9,0.5149491082159533,https://leetcode.com/problems/maximum-subarray
+EASY,Fizz Buzz,66.8,0.7351192545720048,https://leetcode.com/problems/fizz-buzz
+EASY,Maximum Difference Between Increasing Elements,58.8,0.5798120328572486,https://leetcode.com/problems/maximum-difference-between-increasing-elements
+MEDIUM,LRU Cache,53.1,0.43931282082485557,https://leetcode.com/problems/lru-cache
+HARD,Word Search II,53.1,0.36838788593974686,https://leetcode.com/problems/word-search-ii
+EASY,Number of Valid Words in a Sentence,53.1,0.29574893811212133,https://leetcode.com/problems/number-of-valid-words-in-a-sentence
+HARD,Sum of k-Mirror Numbers,45.1,0.42252361080606193,https://leetcode.com/problems/sum-of-k-mirror-numbers
+MEDIUM,Find the Largest Area of Square Inside Two Rectangles,45.1,0.4508090543833842,https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles
+EASY,Check if Binary String Has at Most One Segment of Ones,45.1,0.3918157957528036,https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones
+HARD,Minimum Cost to Make Array Equal,45.1,0.4611966153641148,https://leetcode.com/problems/minimum-cost-to-make-array-equal
+HARD,Count of Integers,45.1,0.34938896997796287,https://leetcode.com/problems/count-of-integers
+MEDIUM,Number of Equal Count Substrings,45.1,0.45350710206472394,https://leetcode.com/problems/number-of-equal-count-substrings
+MEDIUM,Add Two Numbers,45.1,0.448759117947291,https://leetcode.com/problems/add-two-numbers
+MEDIUM,Jump Game,45.1,0.38965491481909276,https://leetcode.com/problems/jump-game
+MEDIUM,Palindromic Substrings,45.1,0.7099839709545972,https://leetcode.com/problems/palindromic-substrings
+EASY,Valid Parentheses,45.1,0.4150710268545884,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Consecutive Sequence,45.1,0.4769875952939808,https://leetcode.com/problems/longest-consecutive-sequence
+EASY,Move Zeroes,45.1,0.6235857751940406,https://leetcode.com/problems/move-zeroes

@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Shortest and Lexicographically Smallest Beautiful String,100.0,0.39465922334287723,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string
+HARD,Verbal Arithmetic Puzzle,83.9,0.3466813196877075,https://leetcode.com/problems/verbal-arithmetic-puzzle
+MEDIUM,Find the Safest Path in a Grid,72.0,0.4859657457427062,https://leetcode.com/problems/find-the-safest-path-in-a-grid
+MEDIUM,Minimizing Array After Replacing Pairs With Their Product,72.0,0.4082360570687419,https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product
+MEDIUM,Count and Say,62.6,0.572937912491639,https://leetcode.com/problems/count-and-say
+MEDIUM,Best Time to Buy and Sell Stock II,62.6,0.683485055931457,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+MEDIUM,LRU Cache,62.6,0.4393140034710425,https://leetcode.com/problems/lru-cache
+MEDIUM,Maximum Number of Weeks for Which You Can Work,62.6,0.4102772985751709,https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work
+MEDIUM,Water and Jug Problem,62.6,0.4214708461201228,https://leetcode.com/problems/water-and-jug-problem
+MEDIUM,Product of Array Except Self,62.6,0.6710052268284257,https://leetcode.com/problems/product-of-array-except-self
+EASY,Rotate String,62.6,0.6328967191944902,https://leetcode.com/problems/rotate-string
+EASY,Merge Strings Alternately,62.6,0.8135020916768978,https://leetcode.com/problems/merge-strings-alternately

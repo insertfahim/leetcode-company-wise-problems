@@ -1,0 +1,25 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Trapping Rain Water,100.0,0.6373268168868195,https://leetcode.com/problems/trapping-rain-water
+EASY,High Five,87.2,0.7444233715570014,https://leetcode.com/problems/high-five
+MEDIUM,Fraction to Recurring Decimal,80.4,0.2566699160722933,https://leetcode.com/problems/fraction-to-recurring-decimal
+EASY,First Unique Character in a String,77.6,0.6293503838445668,https://leetcode.com/problems/first-unique-character-in-a-string
+HARD,Median of Two Sorted Arrays,70.4,0.4230795098823419,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Decode Ways,65.6,0.35836687811627116,https://leetcode.com/problems/decode-ways
+MEDIUM,Robot Bounded In Circle,65.6,0.5602990036959304,https://leetcode.com/problems/robot-bounded-in-circle
+MEDIUM,Longest Substring Without Repeating Characters,59.5,0.3593552506069672,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Group Anagrams,59.5,0.6992931740811263,https://leetcode.com/problems/group-anagrams
+EASY,Design HashMap,59.5,0.6560775398919645,https://leetcode.com/problems/design-hashmap
+MEDIUM,Kth Largest Element in an Array,59.5,0.6735615226465641,https://leetcode.com/problems/kth-largest-element-in-an-array
+EASY,Two Sum,59.5,0.5450370902803958,https://leetcode.com/problems/two-sum
+MEDIUM,Open the Lock,59.5,0.6050284436319101,https://leetcode.com/problems/open-the-lock
+MEDIUM,String to Integer (atoi),59.5,0.18387148294225455,https://leetcode.com/problems/string-to-integer-atoi
+EASY,Minimum Value to Get Positive Step by Step Sum,59.5,0.6501596638329407,https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum
+EASY,Backspace String Compare,59.5,0.4934077331425608,https://leetcode.com/problems/backspace-string-compare
+MEDIUM,Find the Winner of the Circular Game,59.5,0.818888232696472,https://leetcode.com/problems/find-the-winner-of-the-circular-game
+MEDIUM,Maximum Subarray,50.9,0.514949007661557,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Merge Intervals,50.9,0.4843939604314718,https://leetcode.com/problems/merge-intervals
+MEDIUM,Longest Palindromic Substring,50.9,0.34945224985175394,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Palindromic Substrings,50.9,0.7099839709545972,https://leetcode.com/problems/palindromic-substrings
+MEDIUM,Better Compression of String,50.9,0.7463138759846495,https://leetcode.com/problems/better-compression-of-string
+MEDIUM,Maximum Sum Circular Subarray,50.9,0.46362299111017713,https://leetcode.com/problems/maximum-sum-circular-subarray
+HARD,Sliding Window Maximum,50.9,0.4707001499470018,https://leetcode.com/problems/sliding-window-maximum

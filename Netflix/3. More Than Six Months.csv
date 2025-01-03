@@ -1,0 +1,29 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Merge Intervals,100.0,0.4843940590286502,https://leetcode.com/problems/merge-intervals
+MEDIUM,Random Pick with Weight,92.2,0.478396720254369,https://leetcode.com/problems/random-pick-with-weight
+HARD,First Missing Positive,89.8,0.403103684081158,https://leetcode.com/problems/first-missing-positive
+MEDIUM,Flatten Nested List Iterator,84.0,0.6498427715949796,https://leetcode.com/problems/flatten-nested-list-iterator
+EASY,Logger Rate Limiter,80.5,0.7624629224195769,https://leetcode.com/problems/logger-rate-limiter
+MEDIUM,Top K Frequent Elements,80.5,0.6375223608504296,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,LRU Cache,76.3,0.43931282082485557,https://leetcode.com/problems/lru-cache
+MEDIUM,Meeting Rooms II,71.1,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Insert Delete GetRandom O(1),71.1,0.5479315927305727,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Daily Temperatures,71.1,0.6670368215424418,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Time Based Key-Value Store,71.1,0.49284131134843906,https://leetcode.com/problems/time-based-key-value-store
+EASY,Best Time to Buy and Sell Stock,64.5,0.5449243830356908,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Spiral Matrix,64.5,0.5222660050697464,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Top K Frequent Words,64.5,0.5870335655926149,https://leetcode.com/problems/top-k-frequent-words
+MEDIUM,Kth Largest Element in an Array,64.5,0.6735617615424413,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Minimum Remove to Make Valid Parentheses,55.2,0.6990283934239554,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
+MEDIUM,Find Duplicate File in System,55.2,0.6757875562231834,https://leetcode.com/problems/find-duplicate-file-in-system
+MEDIUM,Course Schedule II,55.2,0.5213314490627796,https://leetcode.com/problems/course-schedule-ii
+EASY,Implement Queue using Stacks,55.2,0.6742486329871541,https://leetcode.com/problems/implement-queue-using-stacks
+MEDIUM,Longest Substring Without Repeating Characters,55.2,0.35935513800490265,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Summary Ranges,55.2,0.5220135425396785,https://leetcode.com/problems/summary-ranges
+MEDIUM,Online Stock Span,55.2,0.6688706855169637,https://leetcode.com/problems/online-stock-span
+MEDIUM,Search in Rotated Sorted Array,55.2,0.41984371635813456,https://leetcode.com/problems/search-in-rotated-sorted-array
+HARD,Reconstruct Itinerary,55.2,0.4337038379707765,https://leetcode.com/problems/reconstruct-itinerary
+MEDIUM,Rotate Array,55.2,0.4206103699367333,https://leetcode.com/problems/rotate-array
+HARD,Text Justification,55.2,0.4625567955530371,https://leetcode.com/problems/text-justification
+MEDIUM,Rotate Image,55.2,0.7663568103363545,https://leetcode.com/problems/rotate-image
+EASY,Valid Parentheses,55.2,0.4150712490808782,https://leetcode.com/problems/valid-parentheses

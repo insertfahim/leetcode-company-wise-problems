@@ -1,0 +1,45 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Maximum Points Tourist Can Earn,100.0,0.48951623362587005,https://leetcode.com/problems/maximum-points-tourist-can-earn
+HARD,Minimum Runes to Add to Cast Spell,97.6,0.5295169946332737,https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell
+MEDIUM,Minimize Connected Groups by Inserting Interval,97.6,0.5681211041852182,https://leetcode.com/problems/minimize-connected-groups-by-inserting-interval
+MEDIUM,Find Peak Calling Hours for Each City,97.6,0.6152208621607238,https://leetcode.com/problems/find-peak-calling-hours-for-each-city
+HARD,Binary Tree Cameras,84.8,0.46903038806631464,https://leetcode.com/problems/binary-tree-cameras
+HARD,Count the Number of Incremovable Subarrays II,84.8,0.39778481012658223,https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii
+MEDIUM,Sum Game,67.5,0.47930794325721204,https://leetcode.com/problems/sum-game
+MEDIUM,Koko Eating Bananas,67.5,0.4868795211044024,https://leetcode.com/problems/koko-eating-bananas
+HARD,K-th Smallest in Lexicographical Order,67.5,0.4194572207084469,https://leetcode.com/problems/k-th-smallest-in-lexicographical-order
+MEDIUM,Minimum Number of Pushes to Type Word II,67.5,0.8035227520535,https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii
+MEDIUM,Minimum Size Subarray in Infinite Array,67.5,0.3093900481540931,https://leetcode.com/problems/minimum-size-subarray-in-infinite-array
+MEDIUM,House Robber,57.4,0.5179709828188317,https://leetcode.com/problems/house-robber
+EASY,Majority Element,57.4,0.653752943111924,https://leetcode.com/problems/majority-element
+HARD,Number of Ways to Reorder Array to Get Same BST,57.4,0.5347005347098017,https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst
+MEDIUM,Maximum OR,57.4,0.4103015688080852,https://leetcode.com/problems/maximum-or
+HARD,Minimum Number of Visited Cells in a Grid,57.4,0.2339708651273412,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid
+MEDIUM,Find the Smallest Divisor Given a Threshold,57.4,0.6206600283082119,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+HARD,Minimum Number of Refueling Stops,57.4,0.4029947699790133,https://leetcode.com/problems/minimum-number-of-refueling-stops
+HARD,Find the Shortest Superstring,57.4,0.44268814281831576,https://leetcode.com/problems/find-the-shortest-superstring
+HARD,Minimum Number of Taps to Open to Water a Garden,57.4,0.5067444839239581,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+MEDIUM,Shortest Subarray to be Removed to Make Array Sorted,57.4,0.5177429552023122,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted
+HARD,Kth Smallest Number in Multiplication Table,57.4,0.5232675771370764,https://leetcode.com/problems/kth-smallest-number-in-multiplication-table
+HARD,Maximum Performance of a Team,57.4,0.4758797706719121,https://leetcode.com/problems/maximum-performance-of-a-team
+EASY,Determine the Winner of a Bowling Game,57.4,0.35023674682016526,https://leetcode.com/problems/determine-the-winner-of-a-bowling-game
+EASY,Take Gifts From the Richest Pile,57.4,0.7577505924091006,https://leetcode.com/problems/take-gifts-from-the-richest-pile
+MEDIUM,Query Kth Smallest Trimmed Number,57.4,0.44609619332350553,https://leetcode.com/problems/query-kth-smallest-trimmed-number
+EASY,Find the Maximum Divisibility Score,57.4,0.49919212902853516,https://leetcode.com/problems/find-the-maximum-divisibility-score
+MEDIUM,Max Number of K-Sum Pairs,57.4,0.5556066366806657,https://leetcode.com/problems/max-number-of-k-sum-pairs
+HARD,Number of Subarrays With AND Value of K,57.4,0.3373324749809797,https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k
+HARD,Find the Sum of the Power of All Subsequences,57.4,0.36566818139664287,https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences
+HARD,Minimum Cost Walk in Weighted Graph,57.4,0.4514494502085416,https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph
+MEDIUM,Minimum Deletions to Make String K-Special,57.4,0.4398209056571744,https://leetcode.com/problems/minimum-deletions-to-make-string-k-special
+MEDIUM,Number of Substrings Containing All Three Characters,57.4,0.6829438147129417,https://leetcode.com/problems/number-of-substrings-containing-all-three-characters
+MEDIUM,Equal Row and Column Pairs,57.4,0.7029825116701018,https://leetcode.com/problems/equal-row-and-column-pairs
+MEDIUM,Shortest String That Contains Three Strings,57.4,0.30923575177753787,https://leetcode.com/problems/shortest-string-that-contains-three-strings
+EASY,Relative Sort Array,57.4,0.7486483226504091,https://leetcode.com/problems/relative-sort-array
+MEDIUM,Maximum Subsequence Score,57.4,0.5392104632919683,https://leetcode.com/problems/maximum-subsequence-score
+HARD,Maximum Deletions on a String,57.4,0.33961254912904953,https://leetcode.com/problems/maximum-deletions-on-a-string
+MEDIUM,Median of a Row Wise Sorted Matrix,57.4,0.7006304310785483,https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix
+HARD,Maximum Points After Collecting Coins From All Nodes,57.4,0.3613085552796095,https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes
+MEDIUM,Greatest Sum Divisible by Three,57.4,0.5061788549586256,https://leetcode.com/problems/greatest-sum-divisible-by-three
+HARD,Maximum Strength of K Disjoint Subarrays,57.4,0.26935367899656465,https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays
+MEDIUM,Removing Minimum Number of Magic Beans,57.4,0.43179210561606884,https://leetcode.com/problems/removing-minimum-number-of-magic-beans
+HARD,Consecutive Numbers Sum,57.4,0.41930887395545097,https://leetcode.com/problems/consecutive-numbers-sum

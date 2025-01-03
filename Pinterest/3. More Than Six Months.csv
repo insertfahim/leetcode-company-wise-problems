@@ -1,0 +1,36 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Count and Say,100.0,0.5729374434359321,https://leetcode.com/problems/count-and-say
+HARD,Count Subarrays With Score Less Than K,84.8,0.5546293038836287,https://leetcode.com/problems/count-subarrays-with-score-less-than-k
+HARD,Maximum Profit in Job Scheduling,84.8,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Shortest Path in a Grid with Obstacles Elimination,81.6,0.45417047111025677,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination
+MEDIUM,Reorganize String,76.5,0.5549907850364677,https://leetcode.com/problems/reorganize-string
+MEDIUM,Jump Game III,74.9,0.6553206244549734,https://leetcode.com/problems/jump-game-iii
+HARD,Find K-th Smallest Pair Distance,73.2,0.45487929063433663,https://leetcode.com/problems/find-k-th-smallest-pair-distance
+HARD,Optimal Account Balancing,71.4,0.4967000672022789,https://leetcode.com/problems/optimal-account-balancing
+MEDIUM,Shortest Way to Form String,71.4,0.6063470882952743,https://leetcode.com/problems/shortest-way-to-form-string
+HARD,Reconstruct Itinerary,69.4,0.4337038379707765,https://leetcode.com/problems/reconstruct-itinerary
+HARD,Find Median from Data Stream,69.4,0.5268862241059148,https://leetcode.com/problems/find-median-from-data-stream
+HARD,Unique Paths III,64.5,0.8207649280561927,https://leetcode.com/problems/unique-paths-iii
+HARD,Design Search Autocomplete System,61.6,0.49211659631134774,https://leetcode.com/problems/design-search-autocomplete-system
+MEDIUM,Sparse Matrix Multiplication,61.6,0.6842953112146969,https://leetcode.com/problems/sparse-matrix-multiplication
+MEDIUM,String Compression,61.6,0.5666226958274551,https://leetcode.com/problems/string-compression
+MEDIUM,Unique Paths II,58.0,0.42519945697658423,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,Is Graph Bipartite?,53.8,0.5685739671101515,https://leetcode.com/problems/is-graph-bipartite
+EASY,Is Subsequence,53.8,0.48136321029429896,https://leetcode.com/problems/is-subsequence
+HARD,Expression Add Operators,53.8,0.407360114823998,https://leetcode.com/problems/expression-add-operators
+MEDIUM,Single Element in a Sorted Array,48.2,0.5923862429782363,https://leetcode.com/problems/single-element-in-a-sorted-array
+MEDIUM,Minimize Result by Adding Parentheses to Expression,48.2,0.6794799656469334,https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression
+MEDIUM,Meeting Rooms II,48.2,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Implement Trie (Prefix Tree),48.2,0.670010578455768,https://leetcode.com/problems/implement-trie-prefix-tree
+MEDIUM,Possible Bipartition,48.2,0.5100450743431018,https://leetcode.com/problems/possible-bipartition
+MEDIUM,The Number of Weak Characters in the Game,48.2,0.44144779771615006,https://leetcode.com/problems/the-number-of-weak-characters-in-the-game
+MEDIUM,Coin Change,48.2,0.453944694150401,https://leetcode.com/problems/coin-change
+HARD,Employee Free Time,40.5,0.7240852892108691,https://leetcode.com/problems/employee-free-time
+EASY,Ransom Note,40.5,0.6337340295403947,https://leetcode.com/problems/ransom-note
+MEDIUM,Merge Intervals,40.5,0.484394053704699,https://leetcode.com/problems/merge-intervals
+MEDIUM,Letter Combinations of a Phone Number,40.5,0.6252870261757155,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Snakes and Ladders,40.5,0.4391253770776238,https://leetcode.com/problems/snakes-and-ladders
+HARD,Shortest Path to Get All Keys,40.5,0.535966279960889,https://leetcode.com/problems/shortest-path-to-get-all-keys
+HARD,Smallest Range Covering Elements from K Lists,40.5,0.6979685192276134,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+HARD,Sudoku Solver,40.5,0.6353187693011552,https://leetcode.com/problems/sudoku-solver
+MEDIUM,Number of Islands,40.5,0.6107403600887201,https://leetcode.com/problems/number-of-islands

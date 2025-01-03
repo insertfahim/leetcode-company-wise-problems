@@ -1,0 +1,23 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5450379778463204,https://leetcode.com/problems/two-sum
+EASY,Palindrome Number,83.3,0.5816776367634202,https://leetcode.com/problems/palindrome-number
+EASY,Remove Duplicates from Sorted Array,77.9,0.5868538633416301,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+HARD,Median of Two Sorted Arrays,77.9,0.42308073939694035,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Reverse Integer,71.0,0.29565319600362583,https://leetcode.com/problems/reverse-integer
+EASY,Valid Parentheses,71.0,0.41507160037098373,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Count Primes,71.0,0.3423670379402285,https://leetcode.com/problems/count-primes
+MEDIUM,Kth Largest Element in an Array,71.0,0.6735614917184347,https://leetcode.com/problems/kth-largest-element-in-an-array
+EASY,Binary Search,71.0,0.5884041954847608,https://leetcode.com/problems/binary-search
+MEDIUM,Second Highest Salary,71.0,0.4242433301197336,https://leetcode.com/problems/second-highest-salary
+MEDIUM,Longest Substring Without Repeating Characters,61.3,0.3593550997008076,https://leetcode.com/problems/longest-substring-without-repeating-characters
+EASY,Climbing Stairs,61.3,0.5326794432708277,https://leetcode.com/problems/climbing-stairs
+EASY,Linked List Cycle,61.3,0.5159051100672756,https://leetcode.com/problems/linked-list-cycle
+MEDIUM,Jump Game,61.3,0.3896543597839943,https://leetcode.com/problems/jump-game
+EASY,Find the Distance Value Between Two Arrays,61.3,0.6946040762782749,https://leetcode.com/problems/find-the-distance-value-between-two-arrays
+EASY,Reverse Linked List,61.3,0.782293520956252,https://leetcode.com/problems/reverse-linked-list
+EASY,Roman to Integer,61.3,0.6354903505961749,https://leetcode.com/problems/roman-to-integer
+EASY,Article Views I,61.3,0.7690966866415502,https://leetcode.com/problems/article-views-i
+EASY,Majority Element,61.3,0.6537515082504683,https://leetcode.com/problems/majority-element
+EASY,Valid Palindrome,61.3,0.4953349422413779,https://leetcode.com/problems/valid-palindrome
+EASY,Merge Sorted Array,61.3,0.517478274540641,https://leetcode.com/problems/merge-sorted-array
+MEDIUM,Rotate Array,61.3,0.4206095563418011,https://leetcode.com/problems/rotate-array

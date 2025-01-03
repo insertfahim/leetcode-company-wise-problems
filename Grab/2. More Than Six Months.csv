@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5450376914271884,https://leetcode.com/problems/two-sum
+MEDIUM,3Sum,81.3,0.3596105785268592,https://leetcode.com/problems/3sum
+MEDIUM,Next Permutation,81.3,0.41829542305832024,https://leetcode.com/problems/next-permutation
+MEDIUM,Search a 2D Matrix,81.3,0.5146656615782447,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,Longest Substring Without Repeating Characters,81.3,0.35935492781950124,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Longest Palindromic Substring,81.3,0.3494521670548817,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,LRU Cache,81.3,0.43931303560231316,https://leetcode.com/problems/lru-cache

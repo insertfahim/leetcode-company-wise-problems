@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Minimum Operations to Reduce an Integer to 0,100.0,0.5626077957916523,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
+MEDIUM,Multiply Strings,93.7,0.4147882183129358,https://leetcode.com/problems/multiply-strings
+HARD,Word Search II,76.1,0.3683882028354497,https://leetcode.com/problems/word-search-ii
+EASY,Best Time to Buy and Sell Stock,69.9,0.5449246461551687,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Parallel Courses III,69.9,0.6701796407185628,https://leetcode.com/problems/parallel-courses-iii
+HARD,Merge k Sorted Lists,61.1,0.5509071784605792,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Number of Provinces,61.1,0.6764004816498845,https://leetcode.com/problems/number-of-provinces
+HARD,Trapping Rain Water,61.1,0.6373269063584714,https://leetcode.com/problems/trapping-rain-water
+EASY,Design HashMap,61.1,0.6560778990236517,https://leetcode.com/problems/design-hashmap
+MEDIUM,Design Tic-Tac-Toe,61.1,0.5833920511685031,https://leetcode.com/problems/design-tic-tac-toe
+MEDIUM,Search Suggestions System,61.1,0.6505675060162092,https://leetcode.com/problems/search-suggestions-system
+MEDIUM,Number of Orders in the Backlog,61.1,0.5095024689821155,https://leetcode.com/problems/number-of-orders-in-the-backlog
+MEDIUM,Merge Intervals,61.1,0.48439406967654164,https://leetcode.com/problems/merge-intervals
+MEDIUM,Random Pick with Weight,61.1,0.4783963400035999,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,Sum of Square Numbers,61.1,0.3647262046351576,https://leetcode.com/problems/sum-of-square-numbers

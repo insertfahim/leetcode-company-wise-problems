@@ -1,0 +1,69 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Design In-Memory File System,100.0,0.48056705621183154,https://leetcode.com/problems/design-in-memory-file-system
+HARD,String Transformation,96.9,0.30096546602302265,https://leetcode.com/problems/string-transformation
+HARD,Number of Ways to Form a Target String Given a Dictionary,96.9,0.5756844560710946,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary
+HARD,Maximum Profit in Job Scheduling,95.3,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Maximum Number of Upgradable Servers,93.4,0.44717588527948493,https://leetcode.com/problems/maximum-number-of-upgradable-servers
+MEDIUM,Find All Anagrams in a String,91.5,0.5161081418863583,https://leetcode.com/problems/find-all-anagrams-in-a-string
+MEDIUM,Find the Maximum Length of a Good Subsequence I,89.4,0.30788676248966956,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i
+HARD,Painting the Walls,89.4,0.503545992952995,https://leetcode.com/problems/painting-the-walls
+HARD,Find the Maximum Length of a Good Subsequence II,87.0,0.2393385837064148,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii
+MEDIUM,Minimum Array Length After Pair Removals,87.0,0.2359784080650015,https://leetcode.com/problems/minimum-array-length-after-pair-removals
+EASY,Happy Number,84.4,0.5724017055919531,https://leetcode.com/problems/happy-number
+HARD,Reverse Nodes in k-Group,81.6,0.6135042838791728,https://leetcode.com/problems/reverse-nodes-in-k-group
+HARD,Trapping Rain Water,81.6,0.6373269761547354,https://leetcode.com/problems/trapping-rain-water
+HARD,Basic Calculator,81.6,0.4440986991413884,https://leetcode.com/problems/basic-calculator
+MEDIUM,Boundary of Binary Tree,74.5,0.463913351553801,https://leetcode.com/problems/boundary-of-binary-tree
+MEDIUM,Populating Next Right Pointers in Each Node,74.5,0.6437152852581337,https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+MEDIUM,Course Schedule II,74.5,0.5213314490627796,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Encode and Decode Strings,70.1,0.4843319169272646,https://leetcode.com/problems/encode-and-decode-strings
+EASY,Calculate Amount Paid in Taxes,70.1,0.6654973301875077,https://leetcode.com/problems/calculate-amount-paid-in-taxes
+MEDIUM,Populating Next Right Pointers in Each Node II,70.1,0.5431900595366476,https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii
+HARD,Parallel Courses III,70.1,0.6701796407185628,https://leetcode.com/problems/parallel-courses-iii
+HARD,Regular Expression Matching,70.1,0.2871675460256087,https://leetcode.com/problems/regular-expression-matching
+MEDIUM,Graph Valid Tree,64.6,0.4880120355943505,https://leetcode.com/problems/graph-valid-tree
+EASY,Count Vowel Substrings of a String,64.6,0.6923318802258271,https://leetcode.com/problems/count-vowel-substrings-of-a-string
+HARD,Patching Array,64.6,0.5326858399307837,https://leetcode.com/problems/patching-array
+HARD,Sliding Window Median,64.6,0.387165993971287,https://leetcode.com/problems/sliding-window-median
+MEDIUM,Design Hit Counter,64.6,0.6891976154137153,https://leetcode.com/problems/design-hit-counter
+EASY,Design HashMap,64.6,0.6560778990236517,https://leetcode.com/problems/design-hashmap
+MEDIUM,Swap Nodes in Pairs,64.6,0.6602514113518296,https://leetcode.com/problems/swap-nodes-in-pairs
+HARD,Word Search II,64.6,0.3683882028354497,https://leetcode.com/problems/word-search-ii
+MEDIUM,Maximum Profit From Trading Stocks,57.7,0.45786330457863306,https://leetcode.com/problems/maximum-profit-from-trading-stocks
+MEDIUM,Time Based Key-Value Store,57.7,0.49284131134843906,https://leetcode.com/problems/time-based-key-value-store
+MEDIUM,Evaluate Division,57.7,0.6251132432759107,https://leetcode.com/problems/evaluate-division
+MEDIUM,Min Stack,57.7,0.5551935607512457,https://leetcode.com/problems/min-stack
+HARD,Integer to English Words,57.7,0.3416010309069405,https://leetcode.com/problems/integer-to-english-words
+MEDIUM,Basic Calculator II,57.7,0.44841529233128374,https://leetcode.com/problems/basic-calculator-ii
+MEDIUM,Number of Islands,57.7,0.6107404360169014,https://leetcode.com/problems/number-of-islands
+HARD,Minimum Operations to Make Numbers Non-positive,57.7,0.4121785007693999,https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive
+MEDIUM,Container With Most Water,57.7,0.5672667297128677,https://leetcode.com/problems/container-with-most-water
+MEDIUM,Course Schedule,57.7,0.48040231906473396,https://leetcode.com/problems/course-schedule
+MEDIUM,Count Nodes Equal to Average of Subtree,47.9,0.8643068326687824,https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree
+MEDIUM,Maximum Number of Removable Characters,47.9,0.4482286875741033,https://leetcode.com/problems/maximum-number-of-removable-characters
+HARD,Median of Two Sorted Arrays,47.9,0.423080233754717,https://leetcode.com/problems/median-of-two-sorted-arrays
+EASY,Leaf-Similar Trees,47.9,0.7003474626334746,https://leetcode.com/problems/leaf-similar-trees
+HARD,Count Subarrays With Fixed Bounds,47.9,0.6777516212535288,https://leetcode.com/problems/count-subarrays-with-fixed-bounds
+MEDIUM,Random Pick with Weight,47.9,0.4783963022508038,https://leetcode.com/problems/random-pick-with-weight
+HARD,Minimum Window Substring,47.9,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Word Break,47.9,0.4761083778436794,https://leetcode.com/problems/word-break
+HARD,Find Median from Data Stream,47.9,0.5268862241059148,https://leetcode.com/problems/find-median-from-data-stream
+HARD,Remove Invalid Parentheses,47.9,0.4876162744708189,https://leetcode.com/problems/remove-invalid-parentheses
+MEDIUM,Word Pattern II,47.9,0.48470302645864083,https://leetcode.com/problems/word-pattern-ii
+MEDIUM,Decode String,47.9,0.6036416170670444,https://leetcode.com/problems/decode-string
+MEDIUM,Maximum Product of the Length of Two Palindromic Subsequences,47.9,0.6090121962573317,https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences
+MEDIUM,Swapping Nodes in a Linked List,47.9,0.681537656712432,https://leetcode.com/problems/swapping-nodes-in-a-linked-list
+EASY,Merge Two Sorted Lists,47.9,0.6585744397631091,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,01 Matrix,47.9,0.5008533078900735,https://leetcode.com/problems/01-matrix
+MEDIUM,Search in Rotated Sorted Array,47.9,0.4198436825943308,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Jump Game,47.9,0.38965465375934033,https://leetcode.com/problems/jump-game
+MEDIUM,Merge Intervals,47.9,0.4843939817273928,https://leetcode.com/problems/merge-intervals
+EASY,Binary Tree Inorder Traversal,47.9,0.776085905967792,https://leetcode.com/problems/binary-tree-inorder-traversal
+MEDIUM,Insert Delete GetRandom O(1),47.9,0.5479318247729331,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,LRU Cache,47.9,0.43931297922662327,https://leetcode.com/problems/lru-cache
+HARD,Cherry Pickup,47.9,0.3739606219367923,https://leetcode.com/problems/cherry-pickup
+HARD,Set Intersection Size At Least Two,47.9,0.44652230387359654,https://leetcode.com/problems/set-intersection-size-at-least-two
+MEDIUM,Meeting Rooms II,47.9,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Cheapest Flights Within K Stops,47.9,0.39879423303470807,https://leetcode.com/problems/cheapest-flights-within-k-stops
+MEDIUM,Range Sum Query 2D - Immutable,47.9,0.5562465116607674,https://leetcode.com/problems/range-sum-query-2d-immutable
+HARD,Merge k Sorted Lists,47.9,0.550907069843217,https://leetcode.com/problems/merge-k-sorted-lists

@@ -1,0 +1,21 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Maximum Nesting Depth of the Parentheses,100.0,0.8406879283637829,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses
+MEDIUM,Find Consecutive Integers from a Data Stream,100.0,0.49883990719257537,https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream
+HARD,Trapping Rain Water,100.0,0.637326858930148,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Copy List with Random Pointer,91.1,0.5874397483178054,https://leetcode.com/problems/copy-list-with-random-pointer
+EASY,Valid Parentheses,91.1,0.41507143404227376,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Number of Islands,91.1,0.6107408915853666,https://leetcode.com/problems/number-of-islands
+EASY,Two Sum,70.0,0.5450377136028747,https://leetcode.com/problems/two-sum
+MEDIUM,Count Primes,70.0,0.34236658679187004,https://leetcode.com/problems/count-primes
+MEDIUM,Longest Substring Without Repeating Characters,70.0,0.3593548594112661,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Reverse Words in a String,70.0,0.48477381985896495,https://leetcode.com/problems/reverse-words-in-a-string
+MEDIUM,Best Time to Buy and Sell Stock II,70.0,0.6834844839695594,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+EASY,Best Time to Buy and Sell Stock,70.0,0.5449246904753777,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Search a 2D Matrix,59.9,0.5146659115547664,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,Reverse Integer,59.9,0.2956530858271065,https://leetcode.com/problems/reverse-integer
+EASY,Roman to Integer,59.9,0.6354897645915242,https://leetcode.com/problems/roman-to-integer
+MEDIUM,Add Two Numbers,59.9,0.44875934058888656,https://leetcode.com/problems/add-two-numbers
+EASY,Climbing Stairs,59.9,0.5326790619848984,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Group Anagrams,59.9,0.699293300928019,https://leetcode.com/problems/group-anagrams
+EASY,Merge Two Sorted Lists,59.9,0.6585743963034119,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,LRU Cache,59.9,0.43931313762817015,https://leetcode.com/problems/lru-cache

@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5450370426236332,https://leetcode.com/problems/two-sum
+MEDIUM,Group Anagrams,91.9,0.6992931740811263,https://leetcode.com/problems/group-anagrams
+MEDIUM,Simplify Path,91.9,0.45598417697481053,https://leetcode.com/problems/simplify-path
+EASY,Minimum Absolute Difference,91.9,0.7009000952209383,https://leetcode.com/problems/minimum-absolute-difference
+MEDIUM,Maximum Number of Events That Can Be Attended,80.6,0.32631258439460936,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended
+MEDIUM,Coin Change,80.6,0.45394441847787115,https://leetcode.com/problems/coin-change
+MEDIUM,LRU Cache,80.6,0.4393120395402852,https://leetcode.com/problems/lru-cache

@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Valid Parentheses,100.0,0.41507158746460293,https://leetcode.com/problems/valid-parentheses
+EASY,Happy Number,97.4,0.572401944574055,https://leetcode.com/problems/happy-number
+MEDIUM,Evaluate Division,87.9,0.6251129552311654,https://leetcode.com/problems/evaluate-division
+MEDIUM,Pairs of Songs With Total Durations Divisible by 60,71.7,0.53082795384998,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+MEDIUM,Maximum Subtree of the Same Color,71.7,0.625866050808314,https://leetcode.com/problems/maximum-subtree-of-the-same-color
+HARD,Find the Maximum Sum of Node Values,71.7,0.6584695238700193,https://leetcode.com/problems/find-the-maximum-sum-of-node-values
+EASY,Best Time to Buy and Sell Stock,62.2,0.5449246915962854,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Group Anagrams,54.7,0.6992937145249914,https://leetcode.com/problems/group-anagrams
+MEDIUM,Path with Maximum Probability,54.7,0.6535972054043719,https://leetcode.com/problems/path-with-maximum-probability
+MEDIUM,Generate Parentheses,41.9,0.7608334829119269,https://leetcode.com/problems/generate-parentheses
+MEDIUM,Boundary of Binary Tree,41.9,0.463913351553801,https://leetcode.com/problems/boundary-of-binary-tree
+MEDIUM,Maximize Greatness of an Array,41.9,0.5835617011484635,https://leetcode.com/problems/maximize-greatness-of-an-array
+EASY,Valid Anagram,41.9,0.6577863622392784,https://leetcode.com/problems/valid-anagram
+MEDIUM,Coin Change,41.9,0.4539446771103542,https://leetcode.com/problems/coin-change
+MEDIUM,Maximum Profit From Trading Stocks,41.9,0.45786330457863306,https://leetcode.com/problems/maximum-profit-from-trading-stocks
+EASY,Two Sum,41.9,0.5450378919686959,https://leetcode.com/problems/two-sum

@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5450377139230658,https://leetcode.com/problems/two-sum
+MEDIUM,Change Null Values in a Table to the Previous Value,95.7,0.5133689839572193,https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value
+EASY,Palindrome Number,79.5,0.5816773434670786,https://leetcode.com/problems/palindrome-number
+EASY,Best Time to Buy and Sell Stock,67.6,0.5449248309546285,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Valid Palindrome,67.6,0.49533487101511736,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Managers with at Least 5 Direct Reports,58.1,0.49353207201404353,https://leetcode.com/problems/managers-with-at-least-5-direct-reports
+EASY,Longest Common Prefix,58.1,0.4441693672376949,https://leetcode.com/problems/longest-common-prefix
+EASY,Article Views I,58.1,0.7690983461127174,https://leetcode.com/problems/article-views-i
+EASY,Find Customer Referee,58.1,0.7131798045703264,https://leetcode.com/problems/find-customer-referee
+MEDIUM,Longest Palindromic Substring,58.1,0.3494522172961674,https://leetcode.com/problems/longest-palindromic-substring
+MEDIUM,Consecutive Numbers,58.1,0.4485342652278376,https://leetcode.com/problems/consecutive-numbers
+EASY,Majority Element,58.1,0.6537517189799086,https://leetcode.com/problems/majority-element
+MEDIUM,Reverse Integer,58.1,0.2956531925397237,https://leetcode.com/problems/reverse-integer
+EASY,Pascal's Triangle,58.1,0.7598859452939477,https://leetcode.com/problems/pascals-triangle
+EASY,Climbing Stairs,58.1,0.5326791830138113,https://leetcode.com/problems/climbing-stairs
+EASY,Valid Parentheses,58.1,0.415071517206673,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Maximum Subarray,58.1,0.5149492573397999,https://leetcode.com/problems/maximum-subarray

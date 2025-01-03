@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Snapshot Array,100.0,0.3676087004750842,https://leetcode.com/problems/snapshot-array
+HARD,Guess the Word,84.8,0.38273548671767665,https://leetcode.com/problems/guess-the-word
+MEDIUM,Interval List Intersections,78.5,0.7224375574950332,https://leetcode.com/problems/interval-list-intersections
+MEDIUM,Non-overlapping Intervals,78.5,0.5458532462761286,https://leetcode.com/problems/non-overlapping-intervals
+EASY,Image Smoother,69.6,0.677705339444995,https://leetcode.com/problems/image-smoother
+HARD,Merge k Sorted Lists,69.6,0.5509065716193635,https://leetcode.com/problems/merge-k-sorted-lists
+HARD,Maximum Profit in Job Scheduling,69.6,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling

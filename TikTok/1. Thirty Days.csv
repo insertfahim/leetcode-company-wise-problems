@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Minimum Operations to Make Character Frequencies Equal,100.0,0.20644969828865367,https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal
+EASY,Add Strings,78.7,0.5162948572951066,https://leetcode.com/problems/add-strings
+MEDIUM,Meeting Rooms II,78.7,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Longest Increasing Subsequence,72.0,0.5682743939249515,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Number of Islands,72.0,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Maximum Value at a Given Index in a Bounded Array,62.5,0.3899614473592928,https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array
+MEDIUM,Word Break,62.5,0.47610835387466127,https://leetcode.com/problems/word-break
+MEDIUM,Kth Largest Element in an Array,62.5,0.6735615226465641,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Number of Distinct Islands,62.5,0.618416553836896,https://leetcode.com/problems/number-of-distinct-islands
+MEDIUM,Merge Intervals,62.5,0.4843939551074825,https://leetcode.com/problems/merge-intervals
+MEDIUM,Koko Eating Bananas,62.5,0.486879464660218,https://leetcode.com/problems/koko-eating-bananas
+MEDIUM,Word Search,62.5,0.44185947952859245,https://leetcode.com/problems/word-search
+EASY,Reverse Linked List,62.5,0.7822930316255255,https://leetcode.com/problems/reverse-linked-list

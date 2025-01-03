@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Generate Parentheses,100.0,0.7608329853085884,https://leetcode.com/problems/generate-parentheses
+MEDIUM,Longest Palindromic Substring,100.0,0.3494522413278998,https://leetcode.com/problems/longest-palindromic-substring
+HARD,Minimum Number of Visited Cells in a Grid,88.8,0.2339708651273412,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid
+MEDIUM,Maximum Binary String After Change,88.8,0.4690644679607869,https://leetcode.com/problems/maximum-binary-string-after-change
+MEDIUM,Decode String,88.8,0.6036416170670444,https://leetcode.com/problems/decode-string
+EASY,Merge Two Sorted Lists,88.8,0.6585743963034119,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Number of Islands,88.8,0.6107408156573632,https://leetcode.com/problems/number-of-islands

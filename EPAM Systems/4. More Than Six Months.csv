@@ -1,0 +1,29 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Group Anagrams,100.0,0.6992934046914434,https://leetcode.com/problems/group-anagrams
+EASY,Valid Parentheses,97.0,0.415071517206673,https://leetcode.com/problems/valid-parentheses
+EASY,Two Sum,89.7,0.5450377329536557,https://leetcode.com/problems/two-sum
+EASY,Valid Palindrome,85.0,0.49533487101511736,https://leetcode.com/problems/valid-palindrome
+MEDIUM,Longest Substring Without Repeating Characters,85.0,0.359354987891928,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Longest Palindromic Substring,79.3,0.34945215263590723,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Best Time to Buy and Sell Stock,79.3,0.5449248395944968,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Trapping Rain Water,79.3,0.6373269036657847,https://leetcode.com/problems/trapping-rain-water
+EASY,Merge Sorted Array,79.3,0.51747792455146,https://leetcode.com/problems/merge-sorted-array
+EASY,Palindrome Number,72.0,0.5816773434670786,https://leetcode.com/problems/palindrome-number
+EASY,Valid Anagram,72.0,0.6577860967611406,https://leetcode.com/problems/valid-anagram
+EASY,Isomorphic Strings,72.0,0.4609217847199645,https://leetcode.com/problems/isomorphic-strings
+MEDIUM,Gas Station,72.0,0.45784355699193585,https://leetcode.com/problems/gas-station
+EASY,Merge Two Sorted Lists,72.0,0.6585747238078768,https://leetcode.com/problems/merge-two-sorted-lists
+EASY,Pascal's Triangle,61.7,0.7598858510150002,https://leetcode.com/problems/pascals-triangle
+MEDIUM,Add Two Numbers,61.7,0.4487592816220966,https://leetcode.com/problems/add-two-numbers
+EASY,Linked List Cycle,61.7,0.5159051287332405,https://leetcode.com/problems/linked-list-cycle
+HARD,Maximal Rectangle,61.7,0.5240599243071431,https://leetcode.com/problems/maximal-rectangle
+EASY,Contains Duplicate,61.7,0.6254448252323601,https://leetcode.com/problems/contains-duplicate
+MEDIUM,Edit Distance,61.7,0.5783444792167877,https://leetcode.com/problems/edit-distance
+MEDIUM,Search in Rotated Sorted Array,61.7,0.41984384944144965,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,3Sum,61.7,0.3596108453888162,https://leetcode.com/problems/3sum
+MEDIUM,Ugly Number II,61.7,0.4913581253482098,https://leetcode.com/problems/ugly-number-ii
+MEDIUM,Coin Change,61.7,0.45394451937998725,https://leetcode.com/problems/coin-change
+MEDIUM,Asteroid Collision,61.7,0.44934041464280844,https://leetcode.com/problems/asteroid-collision
+EASY,To Be Or Not To Be,61.7,0.6256355252711662,https://leetcode.com/problems/to-be-or-not-to-be
+EASY,Binary Search,61.7,0.5884044139650205,https://leetcode.com/problems/binary-search
+EASY,Remove Duplicates from Sorted Array,61.7,0.5868535892391336,https://leetcode.com/problems/remove-duplicates-from-sorted-array

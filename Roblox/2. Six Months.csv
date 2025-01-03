@@ -1,0 +1,28 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Task Scheduler,100.0,0.6072305839602888,https://leetcode.com/problems/task-scheduler
+MEDIUM,Maximize Distance to Closest Person,100.0,0.4854080870649804,https://leetcode.com/problems/maximize-distance-to-closest-person
+HARD,Text Justification,97.7,0.4625562871305861,https://leetcode.com/problems/text-justification
+HARD,Integer to English Words,95.3,0.3416010309069405,https://leetcode.com/problems/integer-to-english-words
+MEDIUM,Reorganize String,89.3,0.5549907850364677,https://leetcode.com/problems/reorganize-string
+MEDIUM,Design Hit Counter,85.7,0.6891976154137153,https://leetcode.com/problems/design-hit-counter
+HARD,Number of Flowers in Full Bloom,76.1,0.5696301469033692,https://leetcode.com/problems/number-of-flowers-in-full-bloom
+MEDIUM,Rotate Image,76.1,0.7663568103363545,https://leetcode.com/problems/rotate-image
+HARD,Subarrays with K Different Integers,69.3,0.647056599779226,https://leetcode.com/problems/subarrays-with-k-different-integers
+MEDIUM,Merge Intervals,69.3,0.4843939710794396,https://leetcode.com/problems/merge-intervals
+MEDIUM,Implement Trie (Prefix Tree),69.3,0.670010578455768,https://leetcode.com/problems/implement-trie-prefix-tree
+HARD,Largest Rectangle in Histogram,69.3,0.4611583227769792,https://leetcode.com/problems/largest-rectangle-in-histogram
+MEDIUM,Group the People Given the Group Size They Belong To,59.8,0.8740580673758864,https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to
+EASY,Convert Binary Number in a Linked List to Integer,59.8,0.8117064358628765,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+MEDIUM,Subdomain Visit Count,59.8,0.7661744156504064,https://leetcode.com/problems/subdomain-visit-count
+MEDIUM,Count Number of Nice Subarrays,59.8,0.7198076694764336,https://leetcode.com/problems/count-number-of-nice-subarrays
+MEDIUM,Number of Trusted Contacts of a Customer,59.8,0.7496190608117468,https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer
+MEDIUM,Maximum Number of Occurrences of a Substring,59.8,0.5263140215483578,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+MEDIUM,Spiral Matrix,59.8,0.5222658592193944,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Find the Length of the Longest Common Prefix,59.8,0.5619652393436256,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix
+HARD,Employee Free Time,59.8,0.7240852892108691,https://leetcode.com/problems/employee-free-time
+MEDIUM,Magnetic Force Between Two Balls,59.8,0.7110767829204048,https://leetcode.com/problems/magnetic-force-between-two-balls
+MEDIUM,Rotting Oranges,59.8,0.5552270788690786,https://leetcode.com/problems/rotting-oranges
+HARD,Block Placement Queries,59.8,0.15156909121942894,https://leetcode.com/problems/block-placement-queries
+EASY,Students and Examinations,59.8,0.5983076503800603,https://leetcode.com/problems/students-and-examinations
+EASY,Valid Parentheses,59.8,0.4150711601903826,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Substring Without Repeating Characters,59.8,0.3593551038007323,https://leetcode.com/problems/longest-substring-without-repeating-characters

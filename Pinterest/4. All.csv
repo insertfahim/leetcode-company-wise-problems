@@ -1,0 +1,46 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Count and Say,100.0,0.5729374434359321,https://leetcode.com/problems/count-and-say
+HARD,Shortest Path in a Grid with Obstacles Elimination,91.6,0.45417047111025677,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination
+HARD,Maximum Profit in Job Scheduling,88.9,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Count Subarrays With Score Less Than K,85.8,0.5546293038836287,https://leetcode.com/problems/count-subarrays-with-score-less-than-k
+HARD,Optimal Account Balancing,78.4,0.4967000672022789,https://leetcode.com/problems/optimal-account-balancing
+HARD,Find Median from Data Stream,76.3,0.5268862241059148,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Shortest Way to Form String,76.3,0.6063470882952743,https://leetcode.com/problems/shortest-way-to-form-string
+EASY,Is Subsequence,73.9,0.48136321029429896,https://leetcode.com/problems/is-subsequence
+MEDIUM,Reorganize String,73.9,0.5549907850364677,https://leetcode.com/problems/reorganize-string
+HARD,Reconstruct Itinerary,73.9,0.4337038379707765,https://leetcode.com/problems/reconstruct-itinerary
+HARD,Expression Add Operators,71.2,0.407360114823998,https://leetcode.com/problems/expression-add-operators
+MEDIUM,Longest Word in Dictionary,69.7,0.5304100970823618,https://leetcode.com/problems/longest-word-in-dictionary
+MEDIUM,Jump Game III,69.7,0.6553206244549734,https://leetcode.com/problems/jump-game-iii
+HARD,Find K-th Smallest Pair Distance,68.0,0.45487929063433663,https://leetcode.com/problems/find-k-th-smallest-pair-distance
+HARD,Design Search Autocomplete System,66.2,0.49211659631134774,https://leetcode.com/problems/design-search-autocomplete-system
+HARD,Find Median Given Frequency of Numbers,66.2,0.42420376979549734,https://leetcode.com/problems/find-median-given-frequency-of-numbers
+MEDIUM,String Compression,59.5,0.5666226958274551,https://leetcode.com/problems/string-compression
+HARD,Unique Paths III,59.5,0.8207649280561927,https://leetcode.com/problems/unique-paths-iii
+MEDIUM,Sparse Matrix Multiplication,59.5,0.6842953112146969,https://leetcode.com/problems/sparse-matrix-multiplication
+MEDIUM,Unique Paths II,56.5,0.42519945697658423,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,Coin Change,53.1,0.453944694150401,https://leetcode.com/problems/coin-change
+HARD,Employee Free Time,48.8,0.7240852892108691,https://leetcode.com/problems/employee-free-time
+MEDIUM,The Number of Weak Characters in the Game,48.8,0.44144779771615006,https://leetcode.com/problems/the-number-of-weak-characters-in-the-game
+MEDIUM,Minimize Result by Adding Parentheses to Expression,48.8,0.6794799656469334,https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression
+MEDIUM,Is Graph Bipartite?,48.8,0.5685739671101515,https://leetcode.com/problems/is-graph-bipartite
+HARD,Bus Routes,43.4,0.4718293910417715,https://leetcode.com/problems/bus-routes
+MEDIUM,Possible Bipartition,43.4,0.5100450743431018,https://leetcode.com/problems/possible-bipartition
+HARD,Meeting Rooms III,43.4,0.44092027960615787,https://leetcode.com/problems/meeting-rooms-iii
+MEDIUM,Top K Frequent Elements,43.4,0.6375225221350656,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Letter Combinations of a Phone Number,43.4,0.6252870261757155,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Single Element in a Sorted Array,43.4,0.5923862429782363,https://leetcode.com/problems/single-element-in-a-sorted-array
+MEDIUM,Meeting Rooms II,43.4,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Implement Trie (Prefix Tree),43.4,0.670010578455768,https://leetcode.com/problems/implement-trie-prefix-tree
+HARD,Smallest Range Covering Elements from K Lists,35.8,0.6979685192276134,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+HARD,Shortest Path to Get All Keys,35.8,0.535966279960889,https://leetcode.com/problems/shortest-path-to-get-all-keys
+MEDIUM,Snakes and Ladders,35.8,0.4391253770776238,https://leetcode.com/problems/snakes-and-ladders
+EASY,Ransom Note,35.8,0.6337340295403947,https://leetcode.com/problems/ransom-note
+MEDIUM,Multiply Strings,35.8,0.4147882183129358,https://leetcode.com/problems/multiply-strings
+MEDIUM,The Maze,35.8,0.5885927199770707,https://leetcode.com/problems/the-maze
+EASY,Two Sum,35.8,0.5450372906630517,https://leetcode.com/problems/two-sum
+MEDIUM,Find the Celebrity,35.8,0.4800814199803572,https://leetcode.com/problems/find-the-celebrity
+MEDIUM,Find First and Last Position of Element in Sorted Array,35.8,0.45709879993235825,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Merge Intervals,35.8,0.484394053704699,https://leetcode.com/problems/merge-intervals
+HARD,Sudoku Solver,35.8,0.6353187693011552,https://leetcode.com/problems/sudoku-solver
+MEDIUM,Number of Islands,35.8,0.6107403600887201,https://leetcode.com/problems/number-of-islands

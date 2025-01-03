@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Walking Robot Simulation II,100.0,0.26630851880276285,https://leetcode.com/problems/walking-robot-simulation-ii
+EASY,Available Captures for Rook,97.7,0.6987721378571702,https://leetcode.com/problems/available-captures-for-rook
+MEDIUM,Squirrel Simulation,97.7,0.5716689764403089,https://leetcode.com/problems/squirrel-simulation
+MEDIUM,Word Break,97.7,0.47610838982817044,https://leetcode.com/problems/word-break
+HARD,Falling Squares,97.7,0.45713222410023413,https://leetcode.com/problems/falling-squares
+MEDIUM,Number of Black Blocks,97.7,0.36783251030486064,https://leetcode.com/problems/number-of-black-blocks
+MEDIUM,Count Nice Pairs in an Array,97.7,0.4853570686136838,https://leetcode.com/problems/count-nice-pairs-in-an-array
+MEDIUM,Rotating the Box,97.7,0.7919556938587133,https://leetcode.com/problems/rotating-the-box
+MEDIUM,Pancake Sorting,97.7,0.7091471995496764,https://leetcode.com/problems/pancake-sorting
+MEDIUM,Implement Trie (Prefix Tree),76.0,0.670010578455768,https://leetcode.com/problems/implement-trie-prefix-tree
+HARD,Design a Text Editor,76.0,0.466553546955557,https://leetcode.com/problems/design-a-text-editor
+HARD,Integer to English Words,69.1,0.3416010309069405,https://leetcode.com/problems/integer-to-english-words
+MEDIUM,The Maze,69.1,0.5885927199770707,https://leetcode.com/problems/the-maze
+MEDIUM,Number of Islands,59.5,0.6107407397293301,https://leetcode.com/problems/number-of-islands
+MEDIUM,Coin Change,59.5,0.4539447538346434,https://leetcode.com/problems/coin-change
+HARD,Reconstruct Itinerary,59.5,0.4337038379707765,https://leetcode.com/problems/reconstruct-itinerary

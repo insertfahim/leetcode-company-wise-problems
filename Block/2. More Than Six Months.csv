@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Implement Trie (Prefix Tree),100.0,0.670010578455768,https://leetcode.com/problems/implement-trie-prefix-tree
+HARD,Design a Text Editor,100.0,0.466553546955557,https://leetcode.com/problems/design-a-text-editor
+HARD,Integer to English Words,92.3,0.3416010309069405,https://leetcode.com/problems/integer-to-english-words
+MEDIUM,The Maze,92.3,0.5885927199770707,https://leetcode.com/problems/the-maze
+MEDIUM,Number of Islands,81.5,0.6107407397293301,https://leetcode.com/problems/number-of-islands
+MEDIUM,Coin Change,81.5,0.4539447538346434,https://leetcode.com/problems/coin-change
+HARD,Reconstruct Itinerary,81.5,0.4337038379707765,https://leetcode.com/problems/reconstruct-itinerary

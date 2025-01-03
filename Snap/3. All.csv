@@ -1,0 +1,101 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Power of Two,100.0,0.4809856620167073,https://leetcode.com/problems/power-of-two
+MEDIUM,Meeting Rooms II,94.8,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,LRU Cache,93.3,0.43931243018284255,https://leetcode.com/problems/lru-cache
+HARD,Minimum Window Substring,90.1,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
+HARD,Word Ladder,86.3,0.41208921460411657,https://leetcode.com/problems/word-ladder
+MEDIUM,Valid Sudoku,84.2,0.6118238053296737,https://leetcode.com/problems/valid-sudoku
+HARD,Word Break II,84.2,0.5245542784239083,https://leetcode.com/problems/word-break-ii
+MEDIUM,One Edit Distance,84.2,0.3442214858000498,https://leetcode.com/problems/one-edit-distance
+MEDIUM,Min Stack,84.2,0.5551933096623785,https://leetcode.com/problems/min-stack
+HARD,Alien Dictionary,84.2,0.36263545601891617,https://leetcode.com/problems/alien-dictionary
+MEDIUM,Reverse Words in a String,81.9,0.4847729359196747,https://leetcode.com/problems/reverse-words-in-a-string
+MEDIUM,Game of Life,81.9,0.7054349379137028,https://leetcode.com/problems/game-of-life
+MEDIUM,Remove K Digits,81.9,0.34199418435153256,https://leetcode.com/problems/remove-k-digits
+MEDIUM,Combination Sum IV,81.9,0.5443503634421488,https://leetcode.com/problems/combination-sum-iv
+HARD,Burst Balloons,81.9,0.6028642856616102,https://leetcode.com/problems/burst-balloons
+MEDIUM,String Compression,81.9,0.5666226958274551,https://leetcode.com/problems/string-compression
+MEDIUM,Ternary Expression Parser,81.9,0.6153250501566295,https://leetcode.com/problems/ternary-expression-parser
+EASY,Reverse Linked List,81.9,0.7822931378993888,https://leetcode.com/problems/reverse-linked-list
+HARD,Word Abbreviation,81.9,0.6143469087654242,https://leetcode.com/problems/word-abbreviation
+MEDIUM,Unique Binary Search Trees,81.9,0.6191473935743489,https://leetcode.com/problems/unique-binary-search-trees
+MEDIUM,Design Log Storage System,81.9,0.5923123536251822,https://leetcode.com/problems/design-log-storage-system
+MEDIUM,Binary Tree Vertical Order Traversal,81.9,0.5608818858549388,https://leetcode.com/problems/binary-tree-vertical-order-traversal
+MEDIUM,Largest Merge Of Two Strings,81.9,0.49885356160195665,https://leetcode.com/problems/largest-merge-of-two-strings
+HARD,Wildcard Matching,81.9,0.29039912096778475,https://leetcode.com/problems/wildcard-matching
+MEDIUM,Combination Sum II,81.9,0.5686397381093359,https://leetcode.com/problems/combination-sum-ii
+MEDIUM,Combination Sum,81.9,0.7341580330314653,https://leetcode.com/problems/combination-sum
+HARD,Sudoku Solver,81.9,0.6353187693011552,https://leetcode.com/problems/sudoku-solver
+HARD,Least Operators to Express Number,81.9,0.4842761692650334,https://leetcode.com/problems/least-operators-to-express-number
+EASY,Closest Binary Search Tree Value,81.9,0.5047837709343186,https://leetcode.com/problems/closest-binary-search-tree-value
+HARD,Frog Jump,81.9,0.4631249908469463,https://leetcode.com/problems/frog-jump
+MEDIUM,Course Schedule II,73.1,0.521331245372301,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Word Search,73.1,0.4418596087861923,https://leetcode.com/problems/word-search
+MEDIUM,Cheapest Flights Within K Stops,73.1,0.39879423303470807,https://leetcode.com/problems/cheapest-flights-within-k-stops
+MEDIUM,Shortest Bridge,69.4,0.5815828379585425,https://leetcode.com/problems/shortest-bridge
+MEDIUM,Basic Calculator II,69.4,0.44841489859416134,https://leetcode.com/problems/basic-calculator-ii
+HARD,Parallel Courses III,64.9,0.6701796407185628,https://leetcode.com/problems/parallel-courses-iii
+MEDIUM,Number of Islands,64.9,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Jump Game III,64.9,0.6553206244549734,https://leetcode.com/problems/jump-game-iii
+HARD,Valid Arrangement of Pairs,64.9,0.6680693438829589,https://leetcode.com/problems/valid-arrangement-of-pairs
+HARD,Shortest Path in a Grid with Obstacles Elimination,64.9,0.45417047111025677,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination
+MEDIUM,Course Schedule,59.5,0.4804022987762032,https://leetcode.com/problems/course-schedule
+HARD,Minimum Number of Refueling Stops,59.5,0.4029947699790133,https://leetcode.com/problems/minimum-number-of-refueling-stops
+MEDIUM,Amount of Time for Binary Tree to Be Infected,59.5,0.6287165858341123,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected
+HARD,Number of Islands II,59.5,0.39950212966365295,https://leetcode.com/problems/number-of-islands-ii
+HARD,Median of Two Sorted Arrays,52.5,0.4230797706899713,https://leetcode.com/problems/median-of-two-sorted-arrays
+MEDIUM,Evaluate Division,52.5,0.6251128117287361,https://leetcode.com/problems/evaluate-division
+HARD,Smallest Range Covering Elements from K Lists,52.5,0.6979685192276134,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+MEDIUM,Accounts Merge,52.5,0.5849885129158102,https://leetcode.com/problems/accounts-merge
+MEDIUM,Score of Parentheses,52.5,0.6386077296742854,https://leetcode.com/problems/score-of-parentheses
+MEDIUM,Insert Delete GetRandom O(1),52.5,0.5479318739788719,https://leetcode.com/problems/insert-delete-getrandom-o1
+HARD,Reconstruct Itinerary,52.5,0.4337038379707765,https://leetcode.com/problems/reconstruct-itinerary
+MEDIUM,Merge Intervals,52.5,0.48439387780618604,https://leetcode.com/problems/merge-intervals
+EASY,Merge Two Sorted Lists,52.5,0.6585744297830128,https://leetcode.com/problems/merge-two-sorted-lists
+MEDIUM,Edit Distance,52.5,0.5783445669848835,https://leetcode.com/problems/edit-distance
+MEDIUM,Max Consecutive Ones III,52.5,0.6477245652624688,https://leetcode.com/problems/max-consecutive-ones-iii
+EASY,Best Time to Buy and Sell Stock,52.5,0.5449242511951683,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Complement of Base 10 Integer,42.8,0.6075203113789798,https://leetcode.com/problems/complement-of-base-10-integer
+MEDIUM,Flip String to Monotone Increasing,42.8,0.6154354196058975,https://leetcode.com/problems/flip-string-to-monotone-increasing
+HARD,Trapping Rain Water,42.8,0.6373269314190614,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Minimum Cost For Tickets,42.8,0.6681474345564464,https://leetcode.com/problems/minimum-cost-for-tickets
+EASY,Middle of the Linked List,42.8,0.797856745978993,https://leetcode.com/problems/middle-of-the-linked-list
+MEDIUM,Random Pick with Weight,42.8,0.478396720254369,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,Minimize Result by Adding Parentheses to Expression,42.8,0.6794799656469334,https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression
+HARD,Merge k Sorted Lists,42.8,0.5509066353732428,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Top K Frequent Elements,42.8,0.6375223387310589,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Brace Expansion,42.8,0.6655916170105627,https://leetcode.com/problems/brace-expansion
+MEDIUM,Custom Sort String,42.8,0.7146025179935096,https://leetcode.com/problems/custom-sort-string
+MEDIUM,Design Browser History,42.8,0.777895945515583,https://leetcode.com/problems/design-browser-history
+MEDIUM,Group Anagrams,42.8,0.6992931957078625,https://leetcode.com/problems/group-anagrams
+MEDIUM,Maximum Subarray,42.8,0.5149489974172915,https://leetcode.com/problems/maximum-subarray
+MEDIUM,Minimum Path Sum,42.8,0.6546599935498513,https://leetcode.com/problems/minimum-path-sum
+HARD,Build Binary Expression Tree From Infix Expression,42.8,0.6249026167453371,https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression
+MEDIUM,Movie Rating,42.8,0.4099866288481936,https://leetcode.com/problems/movie-rating
+MEDIUM,Knight Dialer,42.8,0.6080698497226691,https://leetcode.com/problems/knight-dialer
+MEDIUM,Reorder Data in Log Files,42.8,0.5660434886072937,https://leetcode.com/problems/reorder-data-in-log-files
+MEDIUM,Minimum Area Rectangle,42.8,0.5460799463475173,https://leetcode.com/problems/minimum-area-rectangle
+HARD,Maximum Frequency Stack,42.8,0.665867879112062,https://leetcode.com/problems/maximum-frequency-stack
+MEDIUM,Maximize Distance to Closest Person,42.8,0.4854080870649804,https://leetcode.com/problems/maximize-distance-to-closest-person
+MEDIUM,All Nodes Distance K in Binary Tree,42.8,0.6550091130634228,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+MEDIUM,Minimum Remove to Make Valid Parentheses,42.8,0.6990283934239554,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
+MEDIUM,Search Suggestions System,42.8,0.6505649285149212,https://leetcode.com/problems/search-suggestions-system
+HARD,Longest Increasing Path in a Matrix,42.8,0.5459803667892535,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+HARD,Shortest Distance from All Buildings,42.8,0.43655004301691996,https://leetcode.com/problems/shortest-distance-from-all-buildings
+HARD,Expression Add Operators,42.8,0.407360114823998,https://leetcode.com/problems/expression-add-operators
+MEDIUM,Search a 2D Matrix II,42.8,0.5401894573550539,https://leetcode.com/problems/search-a-2d-matrix-ii
+HARD,Basic Calculator,42.8,0.44409823650329977,https://leetcode.com/problems/basic-calculator
+HARD,Divide Chocolate,42.8,0.593183689258756,https://leetcode.com/problems/divide-chocolate
+MEDIUM,Fraction to Recurring Decimal,42.8,0.2566699160722933,https://leetcode.com/problems/fraction-to-recurring-decimal
+MEDIUM,Find Peak Element,42.8,0.4622916713902068,https://leetcode.com/problems/find-peak-element
+HARD,Binary Tree Maximum Path Sum,42.8,0.40693654982952177,https://leetcode.com/problems/binary-tree-maximum-path-sum
+MEDIUM,Subarray Sum Equals K,42.8,0.4455162692558561,https://leetcode.com/problems/subarray-sum-equals-k
+HARD,Best Time to Buy and Sell Stock III,42.8,0.4980069082586628,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+MEDIUM,Exclusive Time of Functions,42.8,0.6354391347935717,https://leetcode.com/problems/exclusive-time-of-functions
+HARD,Max Stack,42.8,0.4516132651544263,https://leetcode.com/problems/max-stack
+MEDIUM,Decode Ways,42.8,0.35836687811627116,https://leetcode.com/problems/decode-ways
+HARD,Basic Calculator III,42.8,0.5156493398466447,https://leetcode.com/problems/basic-calculator-iii
+HARD,Sliding Puzzle,42.8,0.7290578810402599,https://leetcode.com/problems/sliding-puzzle
+MEDIUM,Is Graph Bipartite?,42.8,0.5685739671101515,https://leetcode.com/problems/is-graph-bipartite
+MEDIUM,Search a 2D Matrix,42.8,0.5146653364752145,https://leetcode.com/problems/search-a-2d-matrix
+MEDIUM,Number of Subsequences That Satisfy the Given Sum Condition,42.8,0.43778274984357646,https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition

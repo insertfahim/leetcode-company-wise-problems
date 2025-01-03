@@ -1,0 +1,35 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Subsets,100.0,0.7982075175950925,https://leetcode.com/problems/subsets
+MEDIUM,Word Break,100.0,0.47610825843115107,https://leetcode.com/problems/word-break
+MEDIUM,Decode String,100.0,0.6036416170670444,https://leetcode.com/problems/decode-string
+MEDIUM,Longest Substring with At Most K Distinct Characters,97.8,0.49203403210718977,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+MEDIUM,Split BST,95.4,0.8251715662324581,https://leetcode.com/problems/split-bst
+HARD,Range Module,95.4,0.439709255727828,https://leetcode.com/problems/range-module
+EASY,Find Pivot Index,95.4,0.593580371428866,https://leetcode.com/problems/find-pivot-index
+HARD,LFU Cache,92.8,0.45428478596377225,https://leetcode.com/problems/lfu-cache
+HARD,Design In-Memory File System,86.5,0.48056705621183154,https://leetcode.com/problems/design-in-memory-file-system
+MEDIUM,Possible Bipartition,86.5,0.5100450743431018,https://leetcode.com/problems/possible-bipartition
+MEDIUM,LRU Cache,86.5,0.43931297922662327,https://leetcode.com/problems/lru-cache
+MEDIUM,Unique Paths II,82.7,0.42519934989573543,https://leetcode.com/problems/unique-paths-ii
+MEDIUM,Unique Paths,78.1,0.6516079980306344,https://leetcode.com/problems/unique-paths
+MEDIUM,Design Twitter,78.1,0.41268872476281665,https://leetcode.com/problems/design-twitter
+HARD,Regular Expression Matching,78.1,0.28716739243046585,https://leetcode.com/problems/regular-expression-matching
+MEDIUM,Course Schedule,78.1,0.4804021947305761,https://leetcode.com/problems/course-schedule
+MEDIUM,Number of Islands,72.6,0.6107404360169014,https://leetcode.com/problems/number-of-islands
+MEDIUM,Basic Calculator II,65.4,0.44841529233128374,https://leetcode.com/problems/basic-calculator-ii
+MEDIUM,Single Element in a Sorted Array,65.4,0.5923867104431928,https://leetcode.com/problems/single-element-in-a-sorted-array
+MEDIUM,Longest Repeating Substring,65.4,0.6258823242068241,https://leetcode.com/problems/longest-repeating-substring
+MEDIUM,Search a 2D Matrix,65.4,0.5146653293521513,https://leetcode.com/problems/search-a-2d-matrix
+HARD,Number of Atoms,55.3,0.6503793822410421,https://leetcode.com/problems/number-of-atoms
+HARD,Bus Routes,55.3,0.4718293910417715,https://leetcode.com/problems/bus-routes
+HARD,Maximum Number of Tasks You Can Assign,55.3,0.3369575738022262,https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign
+MEDIUM,Search a 2D Matrix II,55.3,0.5401891368931583,https://leetcode.com/problems/search-a-2d-matrix-ii
+HARD,Longest Duplicate Substring,55.3,0.30599395709197713,https://leetcode.com/problems/longest-duplicate-substring
+MEDIUM,Increasing Triplet Subsequence,55.3,0.392516177561965,https://leetcode.com/problems/increasing-triplet-subsequence
+HARD,Sliding Window Maximum,55.3,0.4707005691012809,https://leetcode.com/problems/sliding-window-maximum
+HARD,Basic Calculator III,55.3,0.5156493398466447,https://leetcode.com/problems/basic-calculator-iii
+MEDIUM,Cheapest Flights Within K Stops,55.3,0.39879423303470807,https://leetcode.com/problems/cheapest-flights-within-k-stops
+MEDIUM,Pacific Atlantic Water Flow,55.3,0.5652043234855788,https://leetcode.com/problems/pacific-atlantic-water-flow
+HARD,Basic Calculator,55.3,0.4440986991413884,https://leetcode.com/problems/basic-calculator
+MEDIUM,Group Anagrams,55.3,0.6992934853725611,https://leetcode.com/problems/group-anagrams
+MEDIUM,Open the Lock,55.3,0.6050284436319101,https://leetcode.com/problems/open-the-lock

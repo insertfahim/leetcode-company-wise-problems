@@ -1,0 +1,46 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Two Sum,100.0,0.5450372238154486,https://leetcode.com/problems/two-sum
+MEDIUM,Longest Increasing Subsequence,93.2,0.5682743939249515,https://leetcode.com/problems/longest-increasing-subsequence
+HARD,Max Stack,93.2,0.4516132651544263,https://leetcode.com/problems/max-stack
+MEDIUM,Group Anagrams,93.2,0.6992932158780583,https://leetcode.com/problems/group-anagrams
+HARD,Trapping Rain Water II,84.4,0.48636026007590627,https://leetcode.com/problems/trapping-rain-water-ii
+MEDIUM,LRU Cache,84.4,0.43931229996871723,https://leetcode.com/problems/lru-cache
+MEDIUM,Combination Sum,84.4,0.7341578622217753,https://leetcode.com/problems/combination-sum
+MEDIUM,Binary Tree Right Side View,84.4,0.6463710057612293,https://leetcode.com/problems/binary-tree-right-side-view
+EASY,Valid Parentheses,84.4,0.4150707472762739,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Find K Pairs with Smallest Sums,72.0,0.40279809468352584,https://leetcode.com/problems/find-k-pairs-with-smallest-sums
+MEDIUM,Minimum Remove to Make Valid Parentheses,72.0,0.6990283934239554,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
+MEDIUM,Search in Rotated Sorted Array,72.0,0.41984377097789105,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Non-decreasing Array,72.0,0.24935095919625483,https://leetcode.com/problems/non-decreasing-array
+HARD,Merge k Sorted Lists,72.0,0.5509065267556179,https://leetcode.com/problems/merge-k-sorted-lists
+MEDIUM,Course Schedule II,72.0,0.521331245372301,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Spiral Matrix,72.0,0.5222655811136241,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Triangle,72.0,0.5820305144665833,https://leetcode.com/problems/triangle
+MEDIUM,Subsets II,72.0,0.5853803985340607,https://leetcode.com/problems/subsets-ii
+EASY,First Unique Character in a String,72.0,0.6293503838445668,https://leetcode.com/problems/first-unique-character-in-a-string
+MEDIUM,Reverse Integer,72.0,0.2956528273607812,https://leetcode.com/problems/reverse-integer
+MEDIUM,Merge Intervals,72.0,0.48439387780618604,https://leetcode.com/problems/merge-intervals
+HARD,Count Different Palindromic Subsequences,72.0,0.46033206035767515,https://leetcode.com/problems/count-different-palindromic-subsequences
+MEDIUM,Reverse Linked List II,72.0,0.48761573127172986,https://leetcode.com/problems/reverse-linked-list-ii
+MEDIUM,Search in Rotated Sorted Array II,72.0,0.38400238743744664,https://leetcode.com/problems/search-in-rotated-sorted-array-ii
+EASY,Best Time to Buy and Sell Stock,72.0,0.5449241285551323,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Add Binary,72.0,0.5484892201651038,https://leetcode.com/problems/add-binary
+MEDIUM,Binary Tree Zigzag Level Order Traversal,72.0,0.6057800259691813,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+MEDIUM,Valid Sudoku,72.0,0.6118238053296737,https://leetcode.com/problems/valid-sudoku
+HARD,Maximum Number of Tasks You Can Assign,72.0,0.3369575738022262,https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign
+EASY,The Winner University,72.0,0.747547101667369,https://leetcode.com/problems/the-winner-university
+HARD,Count Good Triplets in an Array,72.0,0.41517166014024226,https://leetcode.com/problems/count-good-triplets-in-an-array
+EASY,Count Elements With Maximum Frequency,72.0,0.7836917850827223,https://leetcode.com/problems/count-elements-with-maximum-frequency
+HARD,Number of Ways to Separate Numbers,72.0,0.21089762833983788,https://leetcode.com/problems/number-of-ways-to-separate-numbers
+EASY,Middle of the Linked List,72.0,0.7978566739348768,https://leetcode.com/problems/middle-of-the-linked-list
+MEDIUM,Minimum Operations to Make Array Equal II,72.0,0.32050414593698173,https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii
+EASY,XOR Operation in an Array,72.0,0.8641522137677045,https://leetcode.com/problems/xor-operation-in-an-array
+MEDIUM,Circular Permutation in Binary Representation,72.0,0.7123896929050475,https://leetcode.com/problems/circular-permutation-in-binary-representation
+HARD,Minimum Number of Operations to Make Arrays Similar,72.0,0.6180747770308862,https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar
+EASY,Maximum Length Substring With Two Occurrences,72.0,0.6391445549047693,https://leetcode.com/problems/maximum-length-substring-with-two-occurrences
+MEDIUM,Divide Intervals Into Minimum Number of Groups,72.0,0.6372242669461574,https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups
+MEDIUM,Find the N-th Value After K Seconds,72.0,0.5402058473777013,https://leetcode.com/problems/find-the-n-th-value-after-k-seconds
+MEDIUM,Kth Largest Element in an Array,72.0,0.6735616853471132,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Jump Game,72.0,0.38965500838477085,https://leetcode.com/problems/jump-game
+MEDIUM,Word Break,72.0,0.47610835387466127,https://leetcode.com/problems/word-break
+MEDIUM,Longest Substring Without Repeating Characters,72.0,0.3593551313226391,https://leetcode.com/problems/longest-substring-without-repeating-characters

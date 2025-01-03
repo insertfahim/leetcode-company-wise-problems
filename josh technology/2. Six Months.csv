@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+EASY,Move Zeroes,100.0,0.6235853297841902,https://leetcode.com/problems/move-zeroes
+MEDIUM,Merge Nodes in Between Zeros,87.0,0.8970952788210067,https://leetcode.com/problems/merge-nodes-in-between-zeros
+MEDIUM,Find the Substring With Maximum Cost,76.7,0.5695997614331054,https://leetcode.com/problems/find-the-substring-with-maximum-cost
+MEDIUM,Minimum Swaps to Group All 1's Together II,76.7,0.655391043323057,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii
+EASY,Count Pairs Whose Sum is Less than Target,76.7,0.8738930912050746,https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target
+MEDIUM,Reverse Odd Levels of Binary Tree,76.7,0.8675417925144102,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree

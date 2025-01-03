@@ -1,0 +1,40 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Spiral Matrix,100.0,0.5222658456240402,https://leetcode.com/problems/spiral-matrix
+MEDIUM,Decode String,93.3,0.6036416170670444,https://leetcode.com/problems/decode-string
+MEDIUM,Longest Palindromic Substring,89.1,0.34945215635318627,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Best Time to Buy and Sell Stock,84.0,0.544924426795541,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+EASY,Climbing Stairs,77.3,0.5326792935769163,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Largest Number,73.1,0.40500247721710925,https://leetcode.com/problems/largest-number
+EASY,Valid Parentheses,73.1,0.41507129352611594,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Substring Without Repeating Characters,67.9,0.35935509963280876,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Number of Islands,61.3,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Non-overlapping Intervals,61.3,0.5458530328365787,https://leetcode.com/problems/non-overlapping-intervals
+HARD,Longest Valid Parentheses,61.3,0.35264020542403285,https://leetcode.com/problems/longest-valid-parentheses
+HARD,Word Search II,61.3,0.3683882028354497,https://leetcode.com/problems/word-search-ii
+MEDIUM,Basic Calculator II,61.3,0.448415230290278,https://leetcode.com/problems/basic-calculator-ii
+HARD,Trapping Rain Water,61.3,0.6373268839906095,https://leetcode.com/problems/trapping-rain-water
+EASY,Sort Even and Odd Indices Independently,61.3,0.6240564953774902,https://leetcode.com/problems/sort-even-and-odd-indices-independently
+EASY,Find Winner on a Tic Tac Toe Game,61.3,0.5400791243671768,https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game
+MEDIUM,Merge Intervals,61.3,0.484393976403418,https://leetcode.com/problems/merge-intervals
+MEDIUM,Reverse Words in a String,52.0,0.4847731916199228,https://leetcode.com/problems/reverse-words-in-a-string
+EASY,Contains Duplicate,52.0,0.6254444724264391,https://leetcode.com/problems/contains-duplicate
+HARD,Zuma Game,52.0,0.3208084367499106,https://leetcode.com/problems/zuma-game
+EASY,Remove Duplicates from Sorted Array,52.0,0.5868530597436799,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+MEDIUM,Largest Time for Given Digits,52.0,0.35440443719810444,https://leetcode.com/problems/largest-time-for-given-digits
+EASY,Merge Strings Alternately,52.0,0.8135015057733354,https://leetcode.com/problems/merge-strings-alternately
+MEDIUM,Sort Characters By Frequency,52.0,0.7338152445277507,https://leetcode.com/problems/sort-characters-by-frequency
+EASY,Word Pattern,52.0,0.4263521625743,https://leetcode.com/problems/word-pattern
+MEDIUM,Daily Temperatures,52.0,0.6670368215424418,https://leetcode.com/problems/daily-temperatures
+MEDIUM,Fraction to Recurring Decimal,52.0,0.2566699160722933,https://leetcode.com/problems/fraction-to-recurring-decimal
+HARD,Consecutive Numbers Sum,52.0,0.41930887395545097,https://leetcode.com/problems/consecutive-numbers-sum
+EASY,Sqrt(x),52.0,0.3975128345301267,https://leetcode.com/problems/sqrtx
+MEDIUM,Coin Change II,52.0,0.6370744432277099,https://leetcode.com/problems/coin-change-ii
+MEDIUM,3Sum Closest,52.0,0.46393099922454,https://leetcode.com/problems/3sum-closest
+HARD,Sudoku Solver,52.0,0.6353187693011552,https://leetcode.com/problems/sudoku-solver
+MEDIUM,Partition Equal Subset Sum,52.0,0.4699749242370252,https://leetcode.com/problems/partition-equal-subset-sum
+MEDIUM,Minimum Time Difference,52.0,0.6217053263219021,https://leetcode.com/problems/minimum-time-difference
+MEDIUM,Zigzag Conversion,52.0,0.5014873550995985,https://leetcode.com/problems/zigzag-conversion
+MEDIUM,Asteroid Collision,52.0,0.4493409530085518,https://leetcode.com/problems/asteroid-collision
+MEDIUM,Remove All Occurrences of a Substring,52.0,0.7826311008165412,https://leetcode.com/problems/remove-all-occurrences-of-a-substring
+HARD,Largest Rectangle in Histogram,52.0,0.4611583227769792,https://leetcode.com/problems/largest-rectangle-in-histogram
+EASY,Replace Elements with Greatest Element on Right Side,52.0,0.7135454721191052,https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side

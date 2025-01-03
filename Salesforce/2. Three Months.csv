@@ -1,0 +1,34 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,K-diff Pairs in an Array,100.0,0.4388450380360643,https://leetcode.com/problems/k-diff-pairs-in-an-array
+MEDIUM,Number of Divisible Triplet Sums,100.0,0.6427910420136961,https://leetcode.com/problems/number-of-divisible-triplet-sums
+MEDIUM,Palindromic Substrings,100.0,0.7099839709545972,https://leetcode.com/problems/palindromic-substrings
+HARD,Distinct Subsequences,95.8,0.4896744904467935,https://leetcode.com/problems/distinct-subsequences
+MEDIUM,Maximum Number of Occurrences of a Substring,95.8,0.5263140215483578,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+MEDIUM,Group Anagrams,90.8,0.6992931740811263,https://leetcode.com/problems/group-anagrams
+MEDIUM,Merge Intervals,84.7,0.48439404305678585,https://leetcode.com/problems/merge-intervals
+EASY,Largest Number After Digit Swaps by Parity,84.7,0.6272004156512488,https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity
+MEDIUM,Number of Islands,84.7,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+HARD,LFU Cache,76.8,0.45428478596377225,https://leetcode.com/problems/lfu-cache
+HARD,Trapping Rain Water,76.8,0.6373268168868195,https://leetcode.com/problems/trapping-rain-water
+MEDIUM,Verify Preorder Sequence in Binary Search Tree,76.8,0.5048997454986561,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
+HARD,Minimize Malware Spread,76.8,0.4210101673616268,https://leetcode.com/problems/minimize-malware-spread
+EASY,Best Time to Buy and Sell Stock,76.8,0.5449231917528604,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+MEDIUM,Min Stack,76.8,0.5551931841178385,https://leetcode.com/problems/min-stack
+MEDIUM,Gas Station,65.8,0.4578427717637239,https://leetcode.com/problems/gas-station
+MEDIUM,Top K Frequent Words,65.8,0.5870335655926149,https://leetcode.com/problems/top-k-frequent-words
+MEDIUM,Meeting Rooms II,65.8,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,String Compression,65.8,0.5666217027523721,https://leetcode.com/problems/string-compression
+MEDIUM,Longest Increasing Subsequence,65.8,0.5682743939249515,https://leetcode.com/problems/longest-increasing-subsequence
+MEDIUM,Subarray Product Less Than K,65.8,0.5214636236934599,https://leetcode.com/problems/subarray-product-less-than-k
+EASY,Maximum Product of Three Numbers,65.8,0.45188315387304057,https://leetcode.com/problems/maximum-product-of-three-numbers
+EASY,Shortest Distance to Target String in a Circular Array,65.8,0.5030824671650237,https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array
+HARD,Reverse Nodes in k-Group,65.8,0.6135036382547959,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,K Closest Points to Origin,65.8,0.6729873263873598,https://leetcode.com/problems/k-closest-points-to-origin
+HARD,Minimum Number of Taps to Open to Water a Garden,65.8,0.5067444839239581,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+EASY,Two Sum,65.8,0.5450370585092218,https://leetcode.com/problems/two-sum
+MEDIUM,Find Leaves of Binary Tree,65.8,0.8085756187538743,https://leetcode.com/problems/find-leaves-of-binary-tree
+MEDIUM,Top K Frequent Elements,65.8,0.6375223387310589,https://leetcode.com/problems/top-k-frequent-elements
+EASY,Maximum Units on a Truck,65.8,0.7393542370170462,https://leetcode.com/problems/maximum-units-on-a-truck
+MEDIUM,Word Search,65.8,0.44185947952859245,https://leetcode.com/problems/word-search
+MEDIUM,Course Schedule II,65.8,0.5213306342998251,https://leetcode.com/problems/course-schedule-ii
+MEDIUM,Game of Life,65.8,0.7054349379137028,https://leetcode.com/problems/game-of-life

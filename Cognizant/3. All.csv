@@ -1,0 +1,21 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Smallest Value of the Rearranged Number,100.0,0.5245451111661045,https://leetcode.com/problems/smallest-value-of-the-rearranged-number
+EASY,Palindrome Number,100.0,0.5816776367634202,https://leetcode.com/problems/palindrome-number
+EASY,Two Sum,77.6,0.5450380413882315,https://leetcode.com/problems/two-sum
+EASY,Fibonacci Number,77.6,0.7219064376337208,https://leetcode.com/problems/fibonacci-number
+MEDIUM,Managers with at Least 5 Direct Reports,77.6,0.49353207201404353,https://leetcode.com/problems/managers-with-at-least-5-direct-reports
+EASY,Fizz Buzz,70.6,0.7351207894630098,https://leetcode.com/problems/fizz-buzz
+MEDIUM,Reverse Integer,70.6,0.2956532521319041,https://leetcode.com/problems/reverse-integer
+EASY,Binary Search,70.6,0.5884037955303623,https://leetcode.com/problems/binary-search
+EASY,Valid Parentheses,70.6,0.41507156883223495,https://leetcode.com/problems/valid-parentheses
+EASY,Longest Common Prefix,70.6,0.44416978396273216,https://leetcode.com/problems/longest-common-prefix
+MEDIUM,Maximum Subarray,70.6,0.5149495829051294,https://leetcode.com/problems/maximum-subarray
+EASY,Happy Number,60.7,0.5724023761161172,https://leetcode.com/problems/happy-number
+MEDIUM,Consecutive Numbers,60.7,0.4485342652278376,https://leetcode.com/problems/consecutive-numbers
+EASY,Merge Two Sorted Lists,60.7,0.6585747337875858,https://leetcode.com/problems/merge-two-sorted-lists
+EASY,Move Zeroes,60.7,0.6235853726714379,https://leetcode.com/problems/move-zeroes
+MEDIUM,3Sum,60.7,0.35961081844471615,https://leetcode.com/problems/3sum
+EASY,Counter,60.7,0.8176192046033506,https://leetcode.com/problems/counter
+EASY,Valid Anagram,60.7,0.6577863746395406,https://leetcode.com/problems/valid-anagram
+MEDIUM,Count Primes,60.7,0.3423670379402285,https://leetcode.com/problems/count-primes
+EASY,Product Sales Analysis I,60.7,0.8510678196343082,https://leetcode.com/problems/product-sales-analysis-i

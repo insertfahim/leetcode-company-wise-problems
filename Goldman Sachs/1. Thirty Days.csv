@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Trapping Rain Water,100.0,0.6373268168868195,https://leetcode.com/problems/trapping-rain-water
+EASY,High Five,89.2,0.7444233715570014,https://leetcode.com/problems/high-five
+EASY,Design HashMap,77.4,0.6560775398919645,https://leetcode.com/problems/design-hashmap
+MEDIUM,Group Anagrams,77.4,0.6992931740811263,https://leetcode.com/problems/group-anagrams
+MEDIUM,Kth Largest Element in an Array,68.1,0.6735615226465641,https://leetcode.com/problems/kth-largest-element-in-an-array
+MEDIUM,Fraction to Recurring Decimal,68.1,0.2566699160722933,https://leetcode.com/problems/fraction-to-recurring-decimal
+MEDIUM,Maximum Sum Circular Subarray,68.1,0.46362299111017713,https://leetcode.com/problems/maximum-sum-circular-subarray
+MEDIUM,Robot Bounded In Circle,68.1,0.5602990036959304,https://leetcode.com/problems/robot-bounded-in-circle

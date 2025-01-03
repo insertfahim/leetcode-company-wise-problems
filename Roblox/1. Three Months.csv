@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Task Scheduler,100.0,0.6072305839602888,https://leetcode.com/problems/task-scheduler
+MEDIUM,Maximize Distance to Closest Person,96.9,0.4854080870649804,https://leetcode.com/problems/maximize-distance-to-closest-person
+MEDIUM,Reorganize String,93.3,0.5549907850364677,https://leetcode.com/problems/reorganize-string
+MEDIUM,Design Hit Counter,83.9,0.6891976154137153,https://leetcode.com/problems/design-hit-counter
+HARD,Text Justification,77.2,0.4625562871305861,https://leetcode.com/problems/text-justification
+HARD,Integer to English Words,77.2,0.3416010309069405,https://leetcode.com/problems/integer-to-english-words
+MEDIUM,Rotate Image,67.8,0.7663568103363545,https://leetcode.com/problems/rotate-image
+MEDIUM,Merge Intervals,67.8,0.484394053704699,https://leetcode.com/problems/merge-intervals
+HARD,Subarrays with K Different Integers,67.8,0.647056599779226,https://leetcode.com/problems/subarrays-with-k-different-integers
+EASY,Valid Parentheses,67.8,0.4150711157451246,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Longest Substring Without Repeating Characters,67.8,0.35935512298678146,https://leetcode.com/problems/longest-substring-without-repeating-characters

@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Replace the Substring for Balanced String,100.0,0.38880913807600026,https://leetcode.com/problems/replace-the-substring-for-balanced-string
+MEDIUM,Merge Operations to Turn Array Into a Palindrome,89.8,0.6908963216574489,https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome
+EASY,Two Sum,78.6,0.5450382129832838,https://leetcode.com/problems/two-sum
+EASY,Climbing Stairs,78.6,0.5326796293635492,https://leetcode.com/problems/climbing-stairs
+MEDIUM,Longest Substring Without Repeating Characters,63.6,0.3593549954351552,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Longest Palindromic Substring,63.6,0.3494520195983813,https://leetcode.com/problems/longest-palindromic-substring
+EASY,Longest Common Prefix,63.6,0.44416993107388014,https://leetcode.com/problems/longest-common-prefix
+EASY,Valid Parentheses,63.6,0.4150716390901026,https://leetcode.com/problems/valid-parentheses
+HARD,Trapping Rain Water,54.8,0.6373273868516683,https://leetcode.com/problems/trapping-rain-water
+HARD,Dungeon Game,54.8,0.38825915629078234,https://leetcode.com/problems/dungeon-game
+MEDIUM,Binary Tree Right Side View,54.8,0.6463698016624364,https://leetcode.com/problems/binary-tree-right-side-view
+EASY,Reverse Vowels of a String,54.8,0.5590386460032212,https://leetcode.com/problems/reverse-vowels-of-a-string
+HARD,Largest Color Value in a Directed Graph,54.8,0.49647170291597137,https://leetcode.com/problems/largest-color-value-in-a-directed-graph
+MEDIUM,Search in Rotated Sorted Array,54.8,0.4198440033798617,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Longest Common Subsequence,54.8,0.578538429603977,https://leetcode.com/problems/longest-common-subsequence
+MEDIUM,Remove Duplicates from Sorted Array II,54.8,0.6127224094085799,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii

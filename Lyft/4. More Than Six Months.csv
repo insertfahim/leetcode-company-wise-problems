@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Time Based Key-Value Store,100.0,0.49284131134843906,https://leetcode.com/problems/time-based-key-value-store
+HARD,Read N Characters Given read4 II - Call Multiple Times,95.1,0.4266533601274531,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+HARD,Minimum Window Substring,93.6,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
+MEDIUM,Rotting Oranges,90.4,0.555227772856992,https://leetcode.com/problems/rotting-oranges
+MEDIUM,Range Sum Query 2D - Immutable,81.9,0.5562465116607674,https://leetcode.com/problems/range-sum-query-2d-immutable
+HARD,Max Stack,75.9,0.4516132651544263,https://leetcode.com/problems/max-stack
+MEDIUM,Min Stack,72.1,0.555193686295573,https://leetcode.com/problems/min-stack
+MEDIUM,Asteroid Collision,61.5,0.44934034623382935,https://leetcode.com/problems/asteroid-collision
+MEDIUM,Water and Jug Problem,61.5,0.4214708461201228,https://leetcode.com/problems/water-and-jug-problem
+MEDIUM,Convert Sorted List to Binary Search Tree,53.0,0.6346754335730719,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
+MEDIUM,Longest Consecutive Sequence,53.0,0.4769876346523907,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Implement Trie (Prefix Tree),53.0,0.670010578455768,https://leetcode.com/problems/implement-trie-prefix-tree
+MEDIUM,Meeting Rooms II,53.0,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+MEDIUM,Find First and Last Position of Element in Sorted Array,53.0,0.4570989036690095,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+MEDIUM,Process Tasks Using Servers,53.0,0.4070978037844821,https://leetcode.com/problems/process-tasks-using-servers

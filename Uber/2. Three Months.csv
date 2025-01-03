@@ -1,0 +1,48 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Bus Routes,100.0,0.4718293910417715,https://leetcode.com/problems/bus-routes
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,91.8,0.5665081750132076,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+MEDIUM,Number of Islands,89.7,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Find Minimum Time to Reach Last Room II,87.4,0.4948538346079623,https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii
+MEDIUM,Find Minimum Time to Reach Last Room I,87.4,0.3452715439058221,https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i
+MEDIUM,Maximize Amount After Two Days of Conversions,87.4,0.5742960691385559,https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions
+HARD,Text Justification,87.4,0.4625562871305861,https://leetcode.com/problems/text-justification
+HARD,Alien Dictionary,79.0,0.36263545601891617,https://leetcode.com/problems/alien-dictionary
+MEDIUM,Kth Smallest Element in a BST,79.0,0.7427482444693357,https://leetcode.com/problems/kth-smallest-element-in-a-bst
+HARD,Number of Islands II,79.0,0.39950212966365295,https://leetcode.com/problems/number-of-islands-ii
+EASY,Squares of a Sorted Array,79.0,0.7301757824993639,https://leetcode.com/problems/squares-of-a-sorted-array
+HARD,Find the Closest Palindrome,75.4,0.3161577212513216,https://leetcode.com/problems/find-the-closest-palindrome
+MEDIUM,Word Search,75.4,0.4418593502709327,https://leetcode.com/problems/word-search
+MEDIUM,Design Hit Counter,75.4,0.6891976154137153,https://leetcode.com/problems/design-hit-counter
+HARD,Block Placement Queries,75.4,0.15156909121942894,https://leetcode.com/problems/block-placement-queries
+MEDIUM,Subarray Sums Divisible by K,71.1,0.5549438111997897,https://leetcode.com/problems/subarray-sums-divisible-by-k
+MEDIUM,Shortest Bridge,71.1,0.5815828379585425,https://leetcode.com/problems/shortest-bridge
+HARD,Word Search II,71.1,0.3683875690437259,https://leetcode.com/problems/word-search-ii
+HARD,Design In-Memory File System,65.8,0.48056705621183154,https://leetcode.com/problems/design-in-memory-file-system
+MEDIUM,Top K Frequent Elements,65.8,0.6375223387310589,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Construct Quad Tree,65.8,0.7634417062705232,https://leetcode.com/problems/construct-quad-tree
+HARD,Split Message Based on Limit,65.8,0.43436143608611916,https://leetcode.com/problems/split-message-based-on-limit
+MEDIUM,Evaluate Division,65.8,0.6251128117287361,https://leetcode.com/problems/evaluate-division
+MEDIUM,Insert Delete GetRandom O(1),65.8,0.5479315083048156,https://leetcode.com/problems/insert-delete-getrandom-o1
+MEDIUM,Spiral Matrix,59.0,0.5222657405595416,https://leetcode.com/problems/spiral-matrix
+HARD,Optimal Account Balancing,59.0,0.4967000672022789,https://leetcode.com/problems/optimal-account-balancing
+MEDIUM,My Calendar I,59.0,0.5836635685979834,https://leetcode.com/problems/my-calendar-i
+MEDIUM,Longest Consecutive Sequence,59.0,0.4769875559354364,https://leetcode.com/problems/longest-consecutive-sequence
+MEDIUM,Design Memory Allocator,59.0,0.5343324746962246,https://leetcode.com/problems/design-memory-allocator
+MEDIUM,Rotate Image,59.0,0.7663562014304707,https://leetcode.com/problems/rotate-image
+MEDIUM,Meeting Scheduler,49.5,0.5526809195260047,https://leetcode.com/problems/meeting-scheduler
+HARD,Count Subarrays With Fixed Bounds,49.5,0.6777516212535288,https://leetcode.com/problems/count-subarrays-with-fixed-bounds
+MEDIUM,Letter Combinations of a Phone Number,49.5,0.625286825377602,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+EASY,Best Time to Buy and Sell Stock,49.5,0.5449231215117354,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Find Median from Data Stream,49.5,0.5268862241059148,https://leetcode.com/problems/find-median-from-data-stream
+MEDIUM,Get Biggest Three Rhombus Sums in a Grid,49.5,0.4870935300033523,https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid
+MEDIUM,Binary Tree Right Side View,49.5,0.6463705782874163,https://leetcode.com/problems/binary-tree-right-side-view
+MEDIUM,House Robber,49.5,0.5179715106992544,https://leetcode.com/problems/house-robber
+MEDIUM,Subarray Sum Equals K,49.5,0.4455157837966562,https://leetcode.com/problems/subarray-sum-equals-k
+MEDIUM,Minimum Path Sum,49.5,0.6546598285501876,https://leetcode.com/problems/minimum-path-sum
+MEDIUM,Number of Matching Subsequences,49.5,0.5073790543675397,https://leetcode.com/problems/number-of-matching-subsequences
+MEDIUM,Meeting Rooms II,49.5,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+HARD,Basic Calculator,49.5,0.44409823650329977,https://leetcode.com/problems/basic-calculator
+MEDIUM,LRU Cache,49.5,0.4393121415662189,https://leetcode.com/problems/lru-cache
+MEDIUM,Valid Sudoku,49.5,0.6118234077788327,https://leetcode.com/problems/valid-sudoku
+MEDIUM,Random Pick with Weight,49.5,0.478396720254369,https://leetcode.com/problems/random-pick-with-weight
+MEDIUM,Boundary of Binary Tree,49.5,0.463913351553801,https://leetcode.com/problems/boundary-of-binary-tree

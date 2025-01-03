@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Apply Operations to Make Two Strings Equal,100.0,0.2713198742010754,https://leetcode.com/problems/apply-operations-to-make-two-strings-equal
+HARD,Maximum Profit in Job Scheduling,72.1,0.5432325688353709,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+MEDIUM,Evaluate Division,72.1,0.6251130987326036,https://leetcode.com/problems/evaluate-division
+HARD,IPO,72.1,0.5302383881328909,https://leetcode.com/problems/ipo
+MEDIUM,Minimum Operations to Write the Letter Y on a Grid,62.7,0.6219364016240405,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid
+EASY,Valid Parentheses,62.7,0.41507167062884465,https://leetcode.com/problems/valid-parentheses
+MEDIUM,Task Scheduler,62.7,0.607231722432908,https://leetcode.com/problems/task-scheduler
+HARD,Insert Delete GetRandom O(1) - Duplicates allowed,62.7,0.35710778690405176,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+MEDIUM,Find a Peak Element II,62.7,0.5251487027939408,https://leetcode.com/problems/find-a-peak-element-ii
+MEDIUM,Next Greater Element II,62.7,0.652049821800607,https://leetcode.com/problems/next-greater-element-ii
+MEDIUM,Number of Islands,62.7,0.6107408811099084,https://leetcode.com/problems/number-of-islands
+HARD,Reverse Nodes in k-Group,62.7,0.6135055751214555,https://leetcode.com/problems/reverse-nodes-in-k-group
+MEDIUM,Longest Substring Without Repeating Characters,62.7,0.3593550721790214,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Interleaving String,62.7,0.4105512236398566,https://leetcode.com/problems/interleaving-string
+HARD,Substring with Concatenation of All Words,62.7,0.3263010380363874,https://leetcode.com/problems/substring-with-concatenation-of-all-words

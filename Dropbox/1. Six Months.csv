@@ -1,0 +1,19 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Minimize Malware Spread,100.0,0.4210101673616268,https://leetcode.com/problems/minimize-malware-spread
+EASY,Two Sum,100.0,0.5450377360987396,https://leetcode.com/problems/two-sum
+MEDIUM,Design Hit Counter,100.0,0.6891976154137153,https://leetcode.com/problems/design-hit-counter
+MEDIUM,Find Duplicate File in System,100.0,0.6757875562231834,https://leetcode.com/problems/find-duplicate-file-in-system
+MEDIUM,Word Pattern II,100.0,0.48470302645864083,https://leetcode.com/problems/word-pattern-ii
+MEDIUM,Seat Reservation Manager,100.0,0.6983424538028392,https://leetcode.com/problems/seat-reservation-manager
+EASY,Word Pattern,100.0,0.42635345835841887,https://leetcode.com/problems/word-pattern
+MEDIUM,Game of Life,100.0,0.7054353312555584,https://leetcode.com/problems/game-of-life
+HARD,Check If It Is a Good Array,100.0,0.6073424853552744,https://leetcode.com/problems/check-if-it-is-a-good-array
+MEDIUM,Web Crawler Multithreaded,100.0,0.49542823261402114,https://leetcode.com/problems/web-crawler-multithreaded
+HARD,Design a Text Editor,100.0,0.466562250175387,https://leetcode.com/problems/design-a-text-editor
+HARD,Grid Illumination,100.0,0.3752077266071046,https://leetcode.com/problems/grid-illumination
+MEDIUM,Letter Combinations of a Phone Number,100.0,0.6252877289674177,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+HARD,Word Break II,100.0,0.524554630268935,https://leetcode.com/problems/word-break-ii
+HARD,Minimize Malware Spread II,100.0,0.44288802573070635,https://leetcode.com/problems/minimize-malware-spread-ii
+HARD,Median of Two Sorted Arrays,100.0,0.4230807127885501,https://leetcode.com/problems/median-of-two-sorted-arrays
+HARD,Number of Valid Words for Each Puzzle,100.0,0.46887851830246463,https://leetcode.com/problems/number-of-valid-words-for-each-puzzle
+MEDIUM,Web Crawler,100.0,0.6827953422021696,https://leetcode.com/problems/web-crawler

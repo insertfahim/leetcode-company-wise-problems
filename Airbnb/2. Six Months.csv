@@ -1,0 +1,47 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Palindrome Pairs,100.0,0.35838242028571005,https://leetcode.com/problems/palindrome-pairs
+MEDIUM,Smallest Common Region,93.6,0.6791497329616782,https://leetcode.com/problems/smallest-common-region
+HARD,Text Justification,93.6,0.4625562871305861,https://leetcode.com/problems/text-justification
+HARD,Minimum Window Substring,89.7,0.4424688397567692,https://leetcode.com/problems/minimum-window-substring
+HARD,Maximum Profit in Job Scheduling,85.1,0.5432334424173226,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+HARD,Sliding Puzzle,85.1,0.7290578810402599,https://leetcode.com/problems/sliding-puzzle
+MEDIUM,Pour Water,85.1,0.4748302669996834,https://leetcode.com/problems/pour-water
+MEDIUM,Flatten 2D Vector,85.1,0.49852546013877147,https://leetcode.com/problems/flatten-2d-vector
+EASY,Two Sum,72.1,0.5450371506776766,https://leetcode.com/problems/two-sum
+EASY,Contains Duplicate II,72.1,0.4742416454531233,https://leetcode.com/problems/contains-duplicate-ii
+HARD,Word Search II,72.1,0.36838788593974686,https://leetcode.com/problems/word-search-ii
+HARD,Trapping Rain Water,72.1,0.63732700121548,https://leetcode.com/problems/trapping-rain-water
+HARD,Alien Dictionary,72.1,0.36263545601891617,https://leetcode.com/problems/alien-dictionary
+EASY,Intersection of Two Linked Lists,72.1,0.596737478147886,https://leetcode.com/problems/intersection-of-two-linked-lists
+MEDIUM,Cheapest Flights Within K Stops,72.1,0.39879423303470807,https://leetcode.com/problems/cheapest-flights-within-k-stops
+MEDIUM,Add Two Numbers,61.9,0.4487589509657958,https://leetcode.com/problems/add-two-numbers
+EASY,Single Number,61.9,0.7481650605837948,https://leetcode.com/problems/single-number
+MEDIUM,Minimum Number of Vertices to Reach All Nodes,61.9,0.8104960127063963,https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes
+HARD,Employee Free Time,61.9,0.7240852892108691,https://leetcode.com/problems/employee-free-time
+MEDIUM,Pyramid Transition Matrix,61.9,0.528092369773641,https://leetcode.com/problems/pyramid-transition-matrix
+MEDIUM,IP to CIDR,61.9,0.558430821379852,https://leetcode.com/problems/ip-to-cidr
+EASY,Convert Sorted Array to Binary Search Tree,61.9,0.7318223417417465,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+MEDIUM,Number of Ways to Build House of Cards,61.9,0.6279713824140318,https://leetcode.com/problems/number-of-ways-to-build-house-of-cards
+MEDIUM,Design File System,61.9,0.6359392900764081,https://leetcode.com/problems/design-file-system
+MEDIUM,Basic Calculator II,61.9,0.4484148365525702,https://leetcode.com/problems/basic-calculator-ii
+MEDIUM,Robot Bounded In Circle,61.9,0.5602990036959304,https://leetcode.com/problems/robot-bounded-in-circle
+MEDIUM,Maximal Square,61.9,0.47858813083475643,https://leetcode.com/problems/maximal-square
+HARD,Contains Duplicate III,61.9,0.23221689545716168,https://leetcode.com/problems/contains-duplicate-iii
+MEDIUM,Combination Sum,61.9,0.734157776816848,https://leetcode.com/problems/combination-sum
+EASY,Contains Duplicate,61.9,0.6254442538852341,https://leetcode.com/problems/contains-duplicate
+MEDIUM,Simple Bank System,61.9,0.6360117481282787,https://leetcode.com/problems/simple-bank-system
+EASY,Happy Number,61.9,0.572401132490335,https://leetcode.com/problems/happy-number
+MEDIUM,House Robber,61.9,0.5179715035709781,https://leetcode.com/problems/house-robber
+EASY,Reverse Bits,61.9,0.6137302568761662,https://leetcode.com/problems/reverse-bits
+MEDIUM,Convert to Base -2,61.9,0.6095982142857143,https://leetcode.com/problems/convert-to-base-2
+MEDIUM,Design Tic-Tac-Toe,61.9,0.5833920511685031,https://leetcode.com/problems/design-tic-tac-toe
+MEDIUM,Strings Differ by One Character,61.9,0.4138828703553989,https://leetcode.com/problems/strings-differ-by-one-character
+HARD,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix,61.9,0.7240216340716062,https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix
+EASY,Add Strings,61.9,0.5162948572951066,https://leetcode.com/problems/add-strings
+MEDIUM,Minimize Rounding Error to Meet Target,61.9,0.453076643000182,https://leetcode.com/problems/minimize-rounding-error-to-meet-target
+HARD,Merge k Sorted Lists,61.9,0.5509065267556179,https://leetcode.com/problems/merge-k-sorted-lists
+EASY,Valid Parentheses,61.9,0.415070753001962,https://leetcode.com/problems/valid-parentheses
+HARD,Maximum Candies You Can Get from Boxes,61.9,0.5767140778572913,https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes
+MEDIUM,Mini Parser,61.9,0.3928465972552091,https://leetcode.com/problems/mini-parser
+HARD,Regular Expression Matching,61.9,0.28716839080183115,https://leetcode.com/problems/regular-expression-matching
+MEDIUM,Shortest Path in Binary Matrix,61.9,0.48734273684736573,https://leetcode.com/problems/shortest-path-in-binary-matrix

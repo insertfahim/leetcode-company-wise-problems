@@ -1,0 +1,24 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Find Duplicate File in System,100.0,0.6757875562231834,https://leetcode.com/problems/find-duplicate-file-in-system
+HARD,Minimize Malware Spread,98.0,0.4210101673616268,https://leetcode.com/problems/minimize-malware-spread
+MEDIUM,Game of Life,95.9,0.7054353312555584,https://leetcode.com/problems/game-of-life
+EASY,Two Sum,93.6,0.545037751984247,https://leetcode.com/problems/two-sum
+HARD,Minimize Malware Spread II,93.6,0.44288802573070635,https://leetcode.com/problems/minimize-malware-spread-ii
+MEDIUM,Seat Reservation Manager,93.6,0.6983424538028392,https://leetcode.com/problems/seat-reservation-manager
+MEDIUM,Design Hit Counter,93.6,0.6891976154137153,https://leetcode.com/problems/design-hit-counter
+HARD,Check If It Is a Good Array,93.6,0.6073424853552744,https://leetcode.com/problems/check-if-it-is-a-good-array
+MEDIUM,Web Crawler Multithreaded,93.6,0.49542823261402114,https://leetcode.com/problems/web-crawler-multithreaded
+HARD,Design a Text Editor,93.6,0.466562250175387,https://leetcode.com/problems/design-a-text-editor
+MEDIUM,Word Pattern II,93.6,0.48470302645864083,https://leetcode.com/problems/word-pattern-ii
+EASY,Word Pattern,93.6,0.42635345835841887,https://leetcode.com/problems/word-pattern
+HARD,Median of Two Sorted Arrays,93.6,0.4230807127885501,https://leetcode.com/problems/median-of-two-sorted-arrays
+HARD,Number of Valid Words for Each Puzzle,93.6,0.46887851830246463,https://leetcode.com/problems/number-of-valid-words-for-each-puzzle
+MEDIUM,Web Crawler,93.6,0.6827953422021696,https://leetcode.com/problems/web-crawler
+HARD,Word Break II,93.6,0.524554630268935,https://leetcode.com/problems/word-break-ii
+MEDIUM,Simple Bank System,93.6,0.6360117481282787,https://leetcode.com/problems/simple-bank-system
+HARD,Grid Illumination,93.6,0.3752077266071046,https://leetcode.com/problems/grid-illumination
+MEDIUM,Letter Combinations of a Phone Number,93.6,0.6252877289674177,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+MEDIUM,Max Area of Island,91.0,0.7268942034305893,https://leetcode.com/problems/max-area-of-island
+MEDIUM,Number of Islands,64.2,0.6107411193691994,https://leetcode.com/problems/number-of-islands
+MEDIUM,Top K Frequent Elements,54.3,0.6375233695693422,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Merge Intervals,54.3,0.4843939097502094,https://leetcode.com/problems/merge-intervals

@@ -1,0 +1,68 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link
+HARD,Minimize Malware Spread,100.0,0.4210101673616268,https://leetcode.com/problems/minimize-malware-spread
+MEDIUM,Merge Intervals,88.1,0.48439404305678585,https://leetcode.com/problems/merge-intervals
+MEDIUM,Number of Divisible Triplet Sums,88.1,0.6427910420136961,https://leetcode.com/problems/number-of-divisible-triplet-sums
+MEDIUM,Palindromic Substrings,88.1,0.7099839709545972,https://leetcode.com/problems/palindromic-substrings
+MEDIUM,Maximum Number of Occurrences of a Substring,88.1,0.5263140215483578,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+MEDIUM,K-diff Pairs in an Array,88.1,0.4388450380360643,https://leetcode.com/problems/k-diff-pairs-in-an-array
+MEDIUM,Group Anagrams,84.0,0.6992931740811263,https://leetcode.com/problems/group-anagrams
+HARD,Distinct Subsequences,84.0,0.4896744904467935,https://leetcode.com/problems/distinct-subsequences
+EASY,Maximum Units on a Truck,79.2,0.7393542370170462,https://leetcode.com/problems/maximum-units-on-a-truck
+MEDIUM,Divide Array Into Arrays With Max Difference,79.2,0.7183767362311625,https://leetcode.com/problems/divide-array-into-arrays-with-max-difference
+EASY,Two Sum,79.2,0.5450370585092218,https://leetcode.com/problems/two-sum
+HARD,Trapping Rain Water,79.2,0.6373268168868195,https://leetcode.com/problems/trapping-rain-water
+EASY,Best Time to Buy and Sell Stock,73.4,0.5449231917528604,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+HARD,Count Palindromic Subsequences,73.4,0.38192238210926305,https://leetcode.com/problems/count-palindromic-subsequences
+EASY,Largest Number After Digit Swaps by Parity,73.4,0.6272004156512488,https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity
+HARD,Minimum Number of Taps to Open to Water a Garden,73.4,0.5067444839239581,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+MEDIUM,Remove Adjacent Almost-Equal Characters,73.4,0.5205228358827765,https://leetcode.com/problems/remove-adjacent-almost-equal-characters
+MEDIUM,Number of Islands,73.4,0.6107403600887201,https://leetcode.com/problems/number-of-islands
+MEDIUM,Min Stack,65.8,0.5551931841178385,https://leetcode.com/problems/min-stack
+MEDIUM,Verify Preorder Sequence in Binary Search Tree,65.8,0.5048997454986561,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
+MEDIUM,Word Search,65.8,0.44185947952859245,https://leetcode.com/problems/word-search
+MEDIUM,Course Schedule II,65.8,0.5213306342998251,https://leetcode.com/problems/course-schedule-ii
+HARD,LFU Cache,65.8,0.45428478596377225,https://leetcode.com/problems/lfu-cache
+MEDIUM,Subarray Product Less Than K,65.8,0.5214636236934599,https://leetcode.com/problems/subarray-product-less-than-k
+MEDIUM,Word Break,65.8,0.47610835387466127,https://leetcode.com/problems/word-break
+MEDIUM,Sum of Nodes with Even-Valued Grandparent,65.8,0.856788592684439,https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent
+MEDIUM,Search Suggestions System,65.8,0.6505649285149212,https://leetcode.com/problems/search-suggestions-system
+MEDIUM,Masking Personal Information,55.2,0.4981228551028398,https://leetcode.com/problems/masking-personal-information
+EASY,Shortest Distance to Target String in a Circular Array,55.2,0.5030824671650237,https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array
+EASY,Check Whether Two Strings are Almost Equivalent,55.2,0.6394125225457357,https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent
+MEDIUM,Top K Frequent Elements,55.2,0.6375223387310589,https://leetcode.com/problems/top-k-frequent-elements
+MEDIUM,Find Leaves of Binary Tree,55.2,0.8085756187538743,https://leetcode.com/problems/find-leaves-of-binary-tree
+MEDIUM,K Closest Points to Origin,55.2,0.6729873263873598,https://leetcode.com/problems/k-closest-points-to-origin
+MEDIUM,Search in Rotated Sorted Array,55.2,0.41984367464624756,https://leetcode.com/problems/search-in-rotated-sorted-array
+MEDIUM,Exclusive Time of Functions,55.2,0.6354391347935717,https://leetcode.com/problems/exclusive-time-of-functions
+MEDIUM,Gas Station,55.2,0.4578427717637239,https://leetcode.com/problems/gas-station
+MEDIUM,Meeting Rooms II,55.2,0.5177043949513617,https://leetcode.com/problems/meeting-rooms-ii
+EASY,Maximum Product of Three Numbers,55.2,0.45188315387304057,https://leetcode.com/problems/maximum-product-of-three-numbers
+HARD,Find the Minimum Area to Cover All Ones II,55.2,0.3563118722451044,https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii
+MEDIUM,Longest Increasing Subsequence,55.2,0.5682743939249515,https://leetcode.com/problems/longest-increasing-subsequence
+HARD,Find Subarray With Bitwise OR Closest to K,55.2,0.30199203187250995,https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k
+MEDIUM,All Nodes Distance K in Binary Tree,55.2,0.6550095098644044,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+MEDIUM,String Compression,55.2,0.5666217027523721,https://leetcode.com/problems/string-compression
+MEDIUM,Top K Frequent Words,55.2,0.5870335655926149,https://leetcode.com/problems/top-k-frequent-words
+MEDIUM,Coin Change,55.2,0.45394441847787115,https://leetcode.com/problems/coin-change
+HARD,Reverse Nodes in k-Group,55.2,0.6135036382547959,https://leetcode.com/problems/reverse-nodes-in-k-group
+HARD,Count the Number of Inversions,55.2,0.32833020637898686,https://leetcode.com/problems/count-the-number-of-inversions
+HARD,Number of Digit One,55.2,0.35263853740292866,https://leetcode.com/problems/number-of-digit-one
+MEDIUM,Find the Minimum Area to Cover All Ones I,55.2,0.7299750675984129,https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i
+MEDIUM,Number of Self-Divisible Permutations,55.2,0.7217430776214253,https://leetcode.com/problems/number-of-self-divisible-permutations
+MEDIUM,Magnetic Force Between Two Balls,55.2,0.7110767829204048,https://leetcode.com/problems/magnetic-force-between-two-balls
+MEDIUM,Longest Substring Without Repeating Characters,55.2,0.3593552506069672,https://leetcode.com/problems/longest-substring-without-repeating-characters
+MEDIUM,Equalize Strings by Adding or Removing Characters at Ends,55.2,0.5566687539135879,https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends
+HARD,Maximum Number of Ways to Partition an Array,55.2,0.34555270536300187,https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array
+HARD,Maximize Grid Happiness,55.2,0.40040975734682116,https://leetcode.com/problems/maximize-grid-happiness
+EASY,Height Checker,55.2,0.8095550770737953,https://leetcode.com/problems/height-checker
+MEDIUM,Maximum Number That Makes Result of Bitwise AND Zero,55.2,0.6891666666666667,https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero
+EASY,Matrix Similarity After Cyclic Shifts,55.2,0.5851220635651774,https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts
+EASY,Check If a Number Is Majority Element in a Sorted Array,55.2,0.5901137309292649,https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array
+MEDIUM,Maximum Product Subarray,55.2,0.3430076624801673,https://leetcode.com/problems/maximum-product-subarray
+EASY,Maximum Height of a Triangle,55.2,0.4308082898077418,https://leetcode.com/problems/maximum-height-of-a-triangle
+MEDIUM,Count the Number of Fair Pairs,55.2,0.48896895744001995,https://leetcode.com/problems/count-the-number-of-fair-pairs
+MEDIUM,Average Waiting Time,55.2,0.7308622368501425,https://leetcode.com/problems/average-waiting-time
+MEDIUM,Beautiful Towers I,55.2,0.4347022422245439,https://leetcode.com/problems/beautiful-towers-i
+MEDIUM,Beautiful Towers II,55.2,0.34503684438664933,https://leetcode.com/problems/beautiful-towers-ii
+HARD,Maximum Frequency Stack,55.2,0.665867879112062,https://leetcode.com/problems/maximum-frequency-stack
+MEDIUM,Game of Life,55.2,0.7054349379137028,https://leetcode.com/problems/game-of-life
